@@ -1,0 +1,416 @@
+[
+  {
+    "id": "yatay_gecis_genel_001",
+    "category": "yatay_gecis",
+    "subcategory": "kosullar",
+    "topic": "Yatay Geçiş Nedir",
+    "canonical_question": "Yatay geçiş nedir?",
+    "answer_short": "Bir yükseköğretim programından aynı düzeydeki başka bir programa geçiştir.",
+    "answer_full": "Yatay geçiş; bir öğrencinin kayıtlı olduğu diploma programından, aynı düzeydeki başka bir diploma programına geçmesidir. KTÜN bünyesinde kurum içi yatay geçiş ya da başka bir üniversiteden KTÜN'e kurumlar arası yatay geçiş şeklinde yapılabilir. Geçişler belirli koşullara ve kontenjan sınırlarına tabidir.",
+    "question_variants": [
+      "Yatay geçiş nasıl yapılır?",
+      "Bölüm değiştirebilir miyim?",
+      "Başka üniversiteden KTÜN'e geçiş yapılabilir mi?"
+    ],
+    "keywords": [
+      "yatay geçiş",
+      "kurum içi",
+      "kurumlar arası",
+      "bölüm değişikliği"
+    ],
+    "source": "ktun_yatay_gecis_yonergesi_2022",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "yatay_gecis_genel_002",
+    "category": "yatay_gecis",
+    "subcategory": "kosullar",
+    "topic": "Hangi Dönemlere Yatay Geçiş Yapılamaz",
+    "canonical_question": "Lisans programlarının hangi dönemlerine yatay geçiş yapılamaz?",
+    "answer_short": "Lisans programlarının ilk iki ve son iki yarıyılına (1., 2., 7. ve 8. dönemlere) yatay geçiş yapılamaz.",
+    "answer_full": "Lisans diploma programlarının ilk iki yarıyılı (1. ve 2. dönem) ile son iki yarıyılına (7. ve 8. dönem) yatay geçiş yapılamaz. Bu dönemler için kontenjan belirlenmez. Yatay geçiş yalnızca 3., 4., 5. ve 6. dönemler için yapılabilir.",
+    "question_variants": [
+      "1. sınıfta yatay geçiş olur mu?",
+      "Son sınıfta yatay geçiş yapılabilir mi?",
+      "Hangi sınıflara yatay geçiş yapılabilir?"
+    ],
+    "keywords": [
+      "yatay geçiş",
+      "dönem kısıtı",
+      "ilk yarıyıl",
+      "son yarıyıl",
+      "kontenjan"
+    ],
+    "source": "ktun_yatay_gecis_yonergesi_2022",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "yatay_gecis_genel_003",
+    "category": "yatay_gecis",
+    "subcategory": "kosullar",
+    "topic": "Yatay Geçiş Türleri",
+    "canonical_question": "Yatay geçiş türleri nelerdir?",
+    "answer_short": "Kurum içi yatay geçiş, kurumlar arası yatay geçiş ve merkezi yerleştirme puanıyla yatay geçiş olmak üzere üç türü vardır.",
+    "answer_full": "Yatay geçiş üç şekilde yapılabilir: 1) Kurum içi yatay geçiş: KTÜN bünyesindeki bir programdan başka bir programa geçiş. 2) Kurumlar arası yatay geçiş: Başka bir üniversiteden KTÜN'e geçiş. 3) Merkezi yerleştirme puanıyla yatay geçiş (Ek Madde 1): Kayıt yaptırılan yıldaki ÖSYM puanı geçmek istenen programın taban puanına eşit veya yüksekse yapılabilecek özel geçiş türü.",
+    "question_variants": [
+      "KTÜN içinde bölüm değişikliği yapabilir miyim?",
+      "Farklı üniversiteden KTÜN BM'ye geçiş nasıl olur?",
+      "YKS puanıyla yatay geçiş mümkün mü?"
+    ],
+    "keywords": [
+      "kurum içi",
+      "kurumlar arası",
+      "ek madde 1",
+      "ösym puanı",
+      "yatay geçiş türleri"
+    ],
+    "source": "ktun_yatay_gecis_yonergesi_2022",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "yatay_gecis_kosullar_001",
+    "category": "yatay_gecis",
+    "subcategory": "kosullar",
+    "topic": "Kurumlar Arası Yatay Geçiş Koşulları",
+    "canonical_question": "Başka bir üniversiteden KTÜN'e yatay geçiş için ne gerekir?",
+    "answer_short": "En az 2 yarıyıl tamamlanmış, GNO en az 2.50/4.00 veya ÖSYM puanı taban puana eşit ya da yüksek olmalı, tüm dersler başarılmış olmalıdır.",
+    "answer_full": "Kurumlar arası yatay geçiş için şu koşullar aranır: 1) Eşdeğer bir yükseköğretim programında kayıtlı olmak, 2) İngilizce hazırlık hariç en az iki yarıyılı tamamlamış olmak, 3) Genel not ortalamasının en az 2.50/4.00 (100'lük sistemde en az 65/100) olması VEYA ÖSYM yerleştirme puanının geçmek istenen programın taban puanına eşit ya da yüksek olması, 4) Bitirilen tüm yarıyıllardaki dersleri başarmış olmak.",
+    "question_variants": [
+      "Kurumlar arası yatay geçiş şartları neler?",
+      "Başka okuldan KTÜN'e geçmek için not ortalaması kaç olmalı?",
+      "Yatay geçiş için GNO şartı var mı?",
+      "Başarısız dersim varsa yatay geçiş yapabilir miyim?"
+    ],
+    "keywords": [
+      "kurumlar arası",
+      "gno",
+      "2.50",
+      "taban puan",
+      "ösym",
+      "tüm dersler başarılı"
+    ],
+    "source": "ktun_yatay_gecis_yonergesi_2022",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "yatay_gecis_kosullar_002",
+    "category": "yatay_gecis",
+    "subcategory": "kosullar",
+    "topic": "Kurum İçi Yatay Geçiş Koşulları",
+    "canonical_question": "KTÜN içinde bölüm değiştirmek için ne gerekir?",
+    "answer_short": "Aynı üniversitede kayıtlı olmak, en az 2 yarıyıl tamamlamış olmak ve GNO şartını sağlamak gerekir.",
+    "answer_full": "Kurum içi yatay geçiş için: 1) KTÜN bünyesinde bir lisans veya önlisans programına kayıtlı olmak, 2) En az iki yarıyılı tamamlamış olmak, 3) 2. yarıyıla geçiş için GNO en az 2.50/4.00, 3. ve 5. yarıyıla geçişlerde GNO en az 2.75/4.00 olması gerekmektedir. Değerlendirmede önce GNO, eşitlik halinde tamamlanan kredi sayısı, sonra ÖSYM sıralaması dikkate alınır.",
+    "question_variants": [
+      "KTÜN içinde bölüm değişikliği şartları neler?",
+      "Aynı üniversitede yatay geçiş GNO şartı?",
+      "Fakülteler arası geçiş nasıl yapılır?"
+    ],
+    "keywords": [
+      "kurum içi",
+      "gno",
+      "2.75",
+      "2.50",
+      "bölüm değişikliği",
+      "kredi"
+    ],
+    "source": "ktun_yatay_gecis_yonergesi_2022",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "yatay_gecis_kosullar_003",
+    "category": "yatay_gecis",
+    "subcategory": "kosullar",
+    "topic": "Merkezi Yerleştirme Puanıyla Yatay Geçiş",
+    "canonical_question": "YKS/ÖSYM puanıyla yatay geçiş yapılabilir mi?",
+    "answer_short": "Evet, kayıt yaptırılan yıldaki ÖSYM puanı geçmek istenen programın taban puanına eşit veya yüksekse not şartı aranmaksızın başvurulabilir.",
+    "answer_full": "Ek Madde 1 uyarınca, öğrencinin kayıt olduğu yıldaki merkezi yerleştirme puanı, geçmek istediği programın taban puanına eşit veya daha yüksekse başarı şartı aranmaksızın yatay geçiş başvurusu yapılabilir. Bu hak yalnızca bir kez kullanılabilir. Güz dönemi başvuruları genellikle 1-15 Ağustos, bahar dönemi başvuruları ise dönem başlamadan önce alınır. Güncel takvim için ktun.edu.tr adresini kontrol ediniz.",
+    "question_variants": [
+      "YKS puanıyla bölüm değiştirebilir miyim?",
+      "ÖSYM puanım yeterliyse yatay geçiş yapabilir miyim?",
+      "Not ortalamasız yatay geçiş var mı?"
+    ],
+    "keywords": [
+      "ek madde 1",
+      "ösym puanı",
+      "taban puan",
+      "not şartı yok",
+      "yks puanı"
+    ],
+    "source": "ktun_yatay_gecis_ek_madde_2022",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "yatay_gecis_kosullar_004",
+    "category": "yatay_gecis",
+    "subcategory": "kosullar",
+    "topic": "İkinci Öğretimden Birinci Öğretime Geçiş",
+    "canonical_question": "İkinci öğretimden birinci öğretime yatay geçiş yapılabilir mi?",
+    "answer_short": "Sadece sınıfın ilk yüzde onuna (%10) giren ikinci öğretim öğrencileri birinci öğretime geçiş için başvurabilir.",
+    "answer_full": "İkinci öğretimden birinci öğretime yatay geçiş yapılabilmesi için öğrencinin başarı sıralamasında bulunduğu sınıfın ilk %10'una girmesi zorunludur. Başvurusu kabul edilen öğrenciler birinci öğretim harç ücretlerini öder. Kurum içinde ise birinci öğretimden ikinci öğretime kontenjan sınırlaması olmaksızın geçiş yapılabilir.",
+    "question_variants": [
+      "İkinci öğretimden birinciye geçiş nasıl yapılır?",
+      "İÖ'den NÖ'e geçiş şartı nedir?",
+      "İkinci öğretimden birinci öğretime geçmek için ne gerekiyor?"
+    ],
+    "keywords": [
+      "ikinci öğretim",
+      "birinci öğretim",
+      "ilk yüzde on",
+      "%10",
+      "geçiş"
+    ],
+    "source": "ktun_yatay_gecis_yonergesi_2022",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "yatay_gecis_kosullar_005",
+    "category": "yatay_gecis",
+    "subcategory": "kosullar",
+    "topic": "Eşdeğer Program Şartı",
+    "canonical_question": "Yatay geçiş yapılabilmesi için programların eşdeğer olması şart mı?",
+    "answer_short": "Evet, isimleri aynı olan veya içeriklerinin en az %80'i benzer olan programlar arasında yatay geçiş yapılabilir.",
+    "answer_full": "Yatay geçiş için başvurulan programın eşdeğer olması şarttır. Eşdeğer program, isimleri aynı olan veya ilgili yönetim kurulları tarafından içeriklerinin en az %80'inin benzer olduğu tespit edilen programdır. Örneğin, başka bir üniversitedeki Bilgisayar Mühendisliği programından KTÜN Bilgisayar Mühendisliği'ne geçiş eşdeğer kabul edilir.",
+    "question_variants": [
+      "Farklı bölümden yatay geçiş yapılabilir mi?",
+      "Hangi bölümlerden BM'ye yatay geçiş olur?",
+      "Eşdeğer program ne demek?"
+    ],
+    "keywords": [
+      "eşdeğer program",
+      "%80 benzerlik",
+      "aynı isim",
+      "yatay geçiş koşulu"
+    ],
+    "source": "ktun_yatay_gecis_yonergesi_2022",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "yatay_gecis_kosullar_006",
+    "category": "yatay_gecis",
+    "subcategory": "kosullar",
+    "topic": "DGS ile Gelenlerin Yatay Geçiş Koşulu",
+    "canonical_question": "DGS ile lisansa yerleşen öğrenci yatay geçiş yapabilir mi?",
+    "answer_short": "DGS ile lisansa yerleşen öğrenci, bir yılı tamamlamadan yatay geçiş başvurusu yapamaz.",
+    "answer_full": "Dikey Geçiş Sınavı (DGS) ile bir lisans programına kayıt yaptırmış olan öğrenciler, öğrenim gördükleri programda bir yılı (iki yarıyılı) tamamlamadıkça yatay geçiş başvurusu yapamazlar.",
+    "question_variants": [
+      "DGS ile geldim yatay geçiş yapabilir miyim?",
+      "Dikey geçişle lisansa geçtim yatay geçiş ne zaman?"
+    ],
+    "keywords": [
+      "dgs",
+      "dikey geçiş",
+      "yatay geçiş",
+      "bir yıl",
+      "koşul"
+    ],
+    "source": "ktun_yatay_gecis_yonergesi_2022",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "yatay_gecis_basvuru_001",
+    "category": "yatay_gecis",
+    "subcategory": "basvuru_sureci",
+    "topic": "Yatay Geçiş Başvuru Takvimi",
+    "canonical_question": "Yatay geçiş başvuruları ne zaman yapılır?",
+    "answer_short": "Güz dönemi için Temmuz ayında, bahar dönemi için ise dönem öncesinde başvurular alınır; güncel tarihler için üniversite sitesini takip ediniz.",
+    "answer_full": "Kurumlar arası yatay geçiş başvuruları genellikle güz dönemi için Temmuz ayında, bahar dönemi için dönem başlamadan önce alınır. Merkezi yerleştirme puanıyla yapılan yatay geçiş (Ek Madde 1) güz dönemi başvuruları 1-15 Ağustos tarihleri arasında yapılır. Kontenjanlar ve kesin takvim her yıl üniversite web sitesinde ilan edilir. Güncel bilgi için: ktun.edu.tr",
+    "question_variants": [
+      "Yatay geçiş ne zaman başvurulur?",
+      "Yatay geçiş başvuru tarihi ne zaman?",
+      "Güz yatay geçişi için ne zaman başvurmam lazım?"
+    ],
+    "keywords": [
+      "yatay geçiş takvimi",
+      "başvuru tarihi",
+      "temmuz",
+      "ağustos",
+      "kontenjan ilanı"
+    ],
+    "source": "ktun_yatay_gecis_yonergesi_2022",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "yatay_gecis_basvuru_002",
+    "category": "yatay_gecis",
+    "subcategory": "basvuru_sureci",
+    "topic": "Yatay Geçiş Değerlendirme Puanı",
+    "canonical_question": "Kurumlar arası yatay geçiş başvuruları nasıl değerlendirilir?",
+    "answer_short": "Değerlendirme Puanı (DEP) = (ÖSYM puanı / Taban puan) × GNO formülüyle hesaplanır.",
+    "answer_full": "Kurumlar arası yatay geçiş başvurularının değerlendirmesinde Değerlendirme Puanı (DEP) kullanılır: DEP = (X/Y) × Z formülünde; X = öğrencinin ÖSYM puanı, Y = geçmek istenen programın ÖSYM taban puanı, Z = Genel Ağırlıklı Not Ortalaması (GNO)'dır. En yüksek DEP'e sahip adaylar kontenjan dahilinde kabul edilir.",
+    "question_variants": [
+      "Yatay geçiş puanı nasıl hesaplanır?",
+      "DEP nedir?",
+      "Yatay geçişte hangi kriter önemli?"
+    ],
+    "keywords": [
+      "dep",
+      "değerlendirme puanı",
+      "formül",
+      "gno",
+      "ösym taban puan"
+    ],
+    "source": "ktun_yatay_gecis_yonergesi_2022",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "yatay_gecis_basvuru_003",
+    "category": "yatay_gecis",
+    "subcategory": "basvuru_sureci",
+    "topic": "Sonuçların İlanı",
+    "canonical_question": "Yatay geçiş sonuçları ne zaman açıklanır?",
+    "answer_short": "Yatay geçiş sonuçları akademik yıl başlamadan iki hafta önce Öğrenci İşleri web sitesinde ilan edilir.",
+    "answer_full": "Yatay geçiş başvurusu kabul edilen adayların listesi yedekleriyle birlikte, akademik yılın başlangıcından iki hafta önce Öğrenci İşleri Daire Başkanlığı internet sayfasında duyurulur. Asıl adaylar arasında kayıt yaptırmayanlar olması halinde yedek adayların kayıt tarihleri ayrıca ilan edilir.",
+    "question_variants": [
+      "Yatay geçiş sonuçları ne zaman çıkar?",
+      "Yatay geçiş kabul listesi nerede ilan edilir?",
+      "Yedek listeden kabul alınır mı?"
+    ],
+    "keywords": [
+      "yatay geçiş sonuçları",
+      "ilan",
+      "öğrenci işleri",
+      "yedek liste"
+    ],
+    "source": "ktun_yatay_gecis_yonergesi_2022",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "yatay_gecis_belgeler_001",
+    "category": "yatay_gecis",
+    "subcategory": "belgeler",
+    "topic": "Kurumlar Arası Yatay Geçiş İçin Gerekli Belgeler",
+    "canonical_question": "Kurumlar arası yatay geçiş başvurusu için hangi belgeler gereklidir?",
+    "answer_short": "Nüfus cüzdanı, öğrenci belgesi, transkript, disiplin belgesi, ÖSYM belgesi ve engel yoktur yazısı gerekmektedir.",
+    "answer_full": "Kurumlar arası yatay geçiş başvurusu için gereken belgeler: 1) Nüfus cüzdanı fotokopisi, 2) Öğrenci Belgesi (e-Devlet veya üniversiteden), 3) Transkript (e-Devlet çıktısı), 4) Disiplin cezası almadığına dair belge, 5) ÖSYM yerleştirme belgesi, 6) İkinci öğretimden birinci öğretime geçiş yapanlar için sınıfın ilk %10'una girdiğine dair belge, 7) 'Yatay Geçiş Yapmasında Engel Yoktur' yazısı (kesin kayıtta teslim edilir), 8) Öğrenci kimliği (kesin kayıtta teslim edilir). Eksik belgeli başvurular değerlendirmeye alınmaz.",
+    "question_variants": [
+      "Yatay geçiş için hangi belgeler lazım?",
+      "Yatay geçiş evrakları nelerdir?",
+      "Transkript ne demek yatay geçiş için?"
+    ],
+    "keywords": [
+      "yatay geçiş belgeleri",
+      "transkript",
+      "disiplin belgesi",
+      "ösym",
+      "öğrenci belgesi"
+    ],
+    "source": "ktun_yatay_gecis_2025_bahar_duyurusu",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "yatay_gecis_muafiyet_001",
+    "category": "yatay_gecis",
+    "subcategory": "belgeler",
+    "topic": "Yatay Geçişte Ders Muafiyeti",
+    "canonical_question": "Yatay geçişle gelince önceki okuldaki derslerim sayılır mı?",
+    "answer_short": "Evet, önceki programda alınan ve başarılan dersler incelenerek muafiyet ve intibak işlemleri yapılır.",
+    "answer_full": "KTÜN dışındaki bir üniversiteden yatay geçiş başvurusu kabul edilen öğrencilerin daha önce aldığı ve başarıyla tamamladığı dersler için muafiyet ve intibak işlemleri yapılır. Bu derslerden alınan notlar KTÜN not sistemine uyarlanarak mezuniyet not çizelgesine işlenir ve not ortalaması hesabına dahil edilir.",
+    "question_variants": [
+      "Yatay geçişte ders muafiyeti nasıl olur?",
+      "Önceki okuldaki notlarım geçer mi?",
+      "Yatay geçişte hangi derslerden muaf olabilirim?"
+    ],
+    "keywords": [
+      "muafiyet",
+      "intibak",
+      "ders denkleme",
+      "not ortalaması",
+      "yatay geçiş"
+    ],
+    "source": "ktun_yatay_gecis_yonergesi_2022",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "yatay_gecis_muafiyet_002",
+    "category": "yatay_gecis",
+    "subcategory": "belgeler",
+    "topic": "Yatay Geçişte Öğrenim Süresi",
+    "canonical_question": "Yatay geçişle gelince önceki okuldaki süre sayılıyor mu?",
+    "answer_short": "Evet, önceki kurumda geçen süre öğrenim süresine dahil edilir; azami süreyi aşamazsınız.",
+    "answer_full": "Yatay geçiş ile kurum veya bölüm değiştiren öğrencilerin önceki kurumda geçirdikleri süreler öğrenim süresi hesabına katılır. Toplam süre mevzuatta belirtilen azami süreleri aşamaz. Örneğin lisans programında azami 7 yılık hak varsa, önceki okulda geçen 2 yıl bu süreye dahil edilir.",
+    "question_variants": [
+      "Yatay geçişte öğrenim sürem sıfırlanır mı?",
+      "Önceki okuldaki yıllarım sayılır mı?",
+      "Azami süre hesabında yatay geçiş öncesi süre dahil mi?"
+    ],
+    "keywords": [
+      "öğrenim süresi",
+      "azami süre",
+      "yatay geçiş",
+      "süre hesabı"
+    ],
+    "source": "ktun_yatay_gecis_yonergesi_2022",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "yatay_gecis_muafiyet_003",
+    "category": "yatay_gecis",
+    "subcategory": "kosullar",
+    "topic": "Kamu Çalışanı Yatay Geçişi",
+    "canonical_question": "Kamu görevlisinin çocuğu veya eşi kontenjan dışında yatay geçiş yapabilir mi?",
+    "answer_short": "Evet, başka bir yere sürekli atanan kamu görevlisinin çocukları ve eşi kontenjan aranmaksızın son sınıf veya son iki yarıyıl dışında nakil talebinde bulunabilir.",
+    "answer_full": "Kamu kurum ve kuruluşlarında asli ve sürekli görevde bulunan kişilerin sürekli olarak başka bir yere atanmaları halinde, kendileri ile bakmakla yükümlü oldukları çocukları ve eşleri kontenjan aranmaksızın son sınıf veya son iki yarıyıl dışında nakledilebilir. Bu kişilerin eğitim öğretim yılı başlamasından itibaren bir ay içinde başvurmaları gerekir.",
+    "question_variants": [
+      "Babam devlet memuru atandı yatay geçiş yapabilir miyim?",
+      "Kamu görevlisi nakli ile yatay geçiş nasıl?",
+      "Özel durumda kontenjan dışı yatay geçiş var mı?"
+    ],
+    "keywords": [
+      "kamu görevlisi",
+      "kontenjan dışı",
+      "nakil",
+      "atama",
+      "özel durum"
+    ],
+    "source": "ktun_yatay_gecis_yonergesi_2022",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  }
+]

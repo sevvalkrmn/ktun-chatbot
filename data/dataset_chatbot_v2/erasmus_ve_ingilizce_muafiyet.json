@@ -1,0 +1,699 @@
+[
+  {
+    "id": "erasmus_kosullar_001",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Genel Basvuru Sartlari",
+    "canonical_question": "Erasmus hareketliligine basvuru sartlari nelerdir?",
+    "answer_short": "KTUN bünyesinde tam zamanli ogrenci olmak ve belirli bir akademik ortalamaya sahip olmak gerekir[cite: 79, 174].",
+    "answer_full": "Ogrencinin KTUN'de örgün egitim kademelerinden birine kayitli tam zamanli ogrenci olmasi gerekir[cite: 79]. Lisans ogrencileri icin GNO en az 2.20, lisansustu ogrencileri icin ise 2.50 olmalidir[cite: 80, 81].",
+    "question_variants": [
+      "Erasmus'a kimler basvurabilir?",
+      "Ortalamam kac olursa Erasmus'a giderim?",
+      "Yusek lisans ogrencisi Erasmus yapabilir mi?"
+    ],
+    "keywords": [
+      "erasmus",
+      "basvuru",
+      "sartlar",
+      "gno",
+      "ortalama"
+    ],
+    "source": "sss_staj_ve_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_puan_002",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Erasmus Puani Hesaplama",
+    "canonical_question": "Erasmus puani nasil hesaplanir?",
+    "answer_short": "Genel Not Ortalamasinin %50'si ve yabanci dil puaninin %50'si alinarak hesaplanir[cite: 91, 186].",
+    "answer_full": "Akademik basari duzeyi (%50) ve dil seviyesi (%50) toplanarak Erasmus puani olusturulur[cite: 131, 220]. Toplam puanin hareketlilikten yararlanmak icin en az 60 olmasi gerekir[cite: 82, 177].",
+    "question_variants": [
+      "Erasmus siralamasi neye gore yapiliyor?",
+      "Dil sinavinin etkisi yuzde kac?",
+      "Baraj puani kactir?"
+    ],
+    "keywords": [
+      "erasmus_puani",
+      "hesaplama",
+      "siralama",
+      "baraj"
+    ],
+    "source": "sss_staj_ve_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_sure_004",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Hareketlilik Sureleri",
+    "canonical_question": "Erasmus hareketliligi en az ve en fazla ne kadar surer?",
+    "answer_short": "Uzun donem hareketlilikler en az 2 ay, en fazla 12 ay surebilir[cite: 83, 178].",
+    "answer_full": "Ogrenciler mevcut ogrenim kademesi icinde toplamda 12 ayi gecmemek kaydiyla en az 60 gun, en fazla 12 ay hareketlilik yapabilir[cite: 108, 179].",
+    "question_variants": [
+      "En az kac ay Erasmus yapilir?",
+      "Erasmus suresi uzatilabilir mi?",
+      "12 ay siniri nedir?"
+    ],
+    "keywords": [
+      "sure",
+      "alt_sinir",
+      "ust_sinir",
+      "on_iki_ay"
+    ],
+    "source": "sss_staj_ve_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_hibe_005",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Hibe Odeme Oranlari",
+    "canonical_question": "Erasmus hibesi hangi oranlarda ve ne zaman odenir?",
+    "answer_short": "Hibenin %80'i gitmeden once, kalan %20'si ise donus belgeleri tamamlaninca odenir[cite: 111, 201].",
+    "answer_full": "Varis onay belgesi iletildikten sonra hibenin %80'i yatar[cite: 111, 200]. Kalan %20'lik kisim, ogrenci basariyla donup belgelerini teslim ettiginde odenir[cite: 114, 213].",
+    "question_variants": [
+      "Hibe ne zaman yatar?",
+      "Paranin tamamini hemen alabilir miyim?",
+      "Donus hibesi neye gore odenir?"
+    ],
+    "keywords": [
+      "hibe",
+      "odeme",
+      "yuzde_seksen",
+      "varis_belgesi"
+    ],
+    "source": "sss_staj_ve_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_stajyeri_006",
+    "category": "erasmus",
+    "subcategory": "basvuru_sureci",
+    "topic": "Uygun Staj Yerleri",
+    "canonical_question": "Erasmus stajı icin hangi kurumlar uygun kabul edilir?",
+    "answer_short": "Kamu veya ozel sektore ait işletmeler, araştırma enstituleri ve kâr amaci gutmeyen kurumlar uygundur[cite: 99, 105].",
+    "answer_full": "Staj yapilabilecek yerler arasinda ticari işletmeler, vakiflar, dernekler, buyukelçilikler ve yuksekogretim kurumlari yer alir[cite: 100, 105]. AB kurumlari ve ajanslari staj icin uygun degildir[cite: 106, 107].",
+    "question_variants": [
+      "Nerelerde staj yapabilirim?",
+      "AB kurumlarinda staj olur mu?",
+      "Sirketlerde Erasmus stajı yapilir mi?"
+    ],
+    "keywords": [
+      "staj_yeri",
+      "uygun_kurumlar",
+      "ab_ajanslari",
+      "stk"
+    ],
+    "source": "sss_staj_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_ekpuan_007",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Secim Olcutleri Ek Puanlar",
+    "canonical_question": "Hangi durumlarda Erasmus puanina ekleme yapilir?",
+    "answer_short": "Sehit/gazi cocuklarina, engellilere ve staj kabul mektubu sunanlara ek puan verilir[cite: 131, 220].",
+    "answer_full": "Sehit/gazi cocuklarina +15, engellilere +10, staj kabul mektubu olanlara +10 ve afetzede yardimi alanlara +10 puan uygulanir[cite: 131, 220].",
+    "question_variants": [
+      "Kimlere arti puan verilir?",
+      "Sehit yakini onceligi var mi?",
+      "Ek puan listesi nedir?"
+    ],
+    "keywords": [
+      "ek_puan",
+      "onceliklendirme",
+      "sehit_gazi",
+      "afetzede"
+    ],
+    "source": "sss_staj_ve_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_eksipuan_008",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Secim Olcutleri Azaltmalar",
+    "canonical_question": "Erasmus puanindan hangi durumlarda kesinti yapilir?",
+    "answer_short": "Daha once yararlanma, vatandasi olunan ulkeye gitme veya toplantilara katilmama durumunda puan dusurulur[cite: 131, 220].",
+    "answer_full": "Ayni kademede daha once yararlanma (-10), vatandasi olunan ulkeye gitme (-10) ve feragat bildirmeden katilmama (-10) gibi durumlarda puan azaltilir[cite: 131, 220].",
+    "question_variants": [
+      "Puanim neden dusurulur?",
+      "Ikinci kez Erasmus'a gidis puani etkiler mi?",
+      "Ceza puani nedir?"
+    ],
+    "keywords": [
+      "eksi_puan",
+      "kesinti",
+      "feragat",
+      "tekrar_yararlanma"
+    ],
+    "source": "sss_staj_ve_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_ders_009",
+    "category": "erasmus",
+    "subcategory": "basvuru_sureci",
+    "topic": "Ders Eslestirmesi",
+    "canonical_question": "Erasmus ogrenim hareketliliginde ders eslestirmesi nasil yapilir?",
+    "answer_short": "Bolum koordinatörü onayiyla 30 AKTS'lik ders eslestirmesi (OLA/LA) yapilmalidir[cite: 195, 209].",
+    "answer_full": "Ogrenciler kendi bolumlerinde alacaklari derslerle karsi universitedeki dersleri eslestirir ve Bolum Erasmus Koordinatörü onayiyla Learning Agreement (LA) hazirlar[cite: 193, 194].",
+    "question_variants": [
+      "Dersleri kime onaylatmam lazim?",
+      "Kac AKTS ders almaliyim?",
+      "Dersler uyuşmazsa ne olur?"
+    ],
+    "keywords": [
+      "ders_eslestirme",
+      "akts",
+      "la",
+      "koordinator"
+    ],
+    "source": "sss_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_vize_010",
+    "category": "erasmus",
+    "subcategory": "basvuru_sureci",
+    "topic": "Vize ve Belgeler",
+    "canonical_question": "Vize islemleri icin universite destek sagliyor mu?",
+    "answer_short": "Universite vize alimini kolaylastirmak icin ogrenciye resmi bir vize mektubu saglar[cite: 115, 203].",
+    "answer_full": "Vize, sigorta ve bilet masraflari ogrenciye aittir; ancak Erasmus Koordinatorlugu hibe tutarini belirten bir vize mektubu hazirlayarak sureci destekler[cite: 115, 203].",
+    "question_variants": [
+      "Vize mektubu nedir?",
+      "Vize masraflarini okul oder mi?",
+      "Erasmus vizesi nasil alinir?"
+    ],
+    "keywords": [
+      "vize",
+      "vize_mektubu",
+      "sigorta",
+      "belge_hazirlama"
+    ],
+    "source": "sss_staj_ve_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_hibemiktar_011",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Hibe Miktarlari Gruplar",
+    "canonical_question": "Gidilecek ulkelere gore aylik hibe miktarlari ne kadardir?",
+    "answer_short": "Ulke gruplarina gore aylik hibe 450 ile 750 Avro arasinda degisir[cite: 143, 232].",
+    "answer_full": "1. ve 2. grup ulkeler icin aylik hibe 600-750 Avro, 3. grup ulkeler icin ise 450-600 Avro olarak belirlenmistir[cite: 143, 232].",
+    "question_variants": [
+      "Almanya hibesi ne kadar?",
+      "Polonya hibesi kac para?",
+      "Ulke gruplari nelerdir?"
+    ],
+    "keywords": [
+      "hibe_miktari",
+      "ulke_gruplari",
+      "aylik_hibe",
+      "avro"
+    ],
+    "source": "sss_staj_ve_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_uzama_012",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Okulun Uzamasi Durumu",
+    "canonical_question": "Erasmus'a gitmek okulumun uzamasina neden olur mu?",
+    "answer_short": "Dogru ders eslestirmesi ve intibak islemleriyle okulun uzamasi onlenir[cite: 244].",
+    "answer_full": "Ogrenim anlasmasindaki dersler basariyla tamamlanirsa ve intibak islemleri koordinator onayliysa akademik donem kaybi yasanmaz[cite: 244, 245].",
+    "question_variants": [
+      "Erasmus yapinca yilim yanar mi?",
+      "Ders intibak nedir?",
+      "Kacinci sinifta Erasmus yapilir?"
+    ],
+    "keywords": [
+      "okulun_uzamasi",
+      "intibak",
+      "ders_saydirma",
+      "akademik_donem"
+    ],
+    "source": "sss_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_dil_013",
+    "category": "erasmus",
+    "subcategory": "basvuru_sureci",
+    "topic": "Yabanci Dil Sinavi",
+    "canonical_question": "KTUN Erasmus yabanci dil sinavi nasil yapilir?",
+    "answer_short": "Sinav, Yabanci Diller Koordinatorlugu tarafindan yazili ve sozlu olarak yapilir[cite: 89, 184].",
+    "answer_full": "Yazili sinav 75 puan, sozlu sinav 25 puan uzerinden degerlendirilir; sinav B2 duzeyinde hazirlanir[cite: 90, 185].",
+    "question_variants": [
+      "Dil sinavi zor mu?",
+      "Sozlu sinav var mi?",
+      "Sinav hangi seviyede?"
+    ],
+    "keywords": [
+      "dil_sinavi",
+      "yazili_sinav",
+      "sozlu_sinav",
+      "b2_seviyesi"
+    ],
+    "source": "sss_staj_ve_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_seyahat_014",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Seyahat Hibesi",
+    "canonical_question": "Seyahat masraflari icin ek destek veriliyor mu?",
+    "answer_short": "Gidilecek kurumla mesafe bandina gore tek seferlik seyahat destegi odenir[cite: 110, 199].",
+    "answer_full": "Seyahat mesafesine gore 28 ile 1735 Avro arasinda degisen standart veya yesil seyahat hibesi saglanir[cite: 149, 238].",
+    "question_variants": [
+      "Yol parasi veriliyor mu?",
+      "Seyahat hibesi ne kadar?",
+      "Yesil seyahat nedir?"
+    ],
+    "keywords": [
+      "seyahat_hibesi",
+      "yol_destegi",
+      "mesafe_bandi",
+      "yesil_seyahat"
+    ],
+    "source": "sss_staj_ve_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_konaklama_015",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Konaklama Olanaklari",
+    "canonical_question": "Erasmus'ta nerede konaklayabilirim?",
+    "answer_short": "Karsi universite yurt saglayabilir ancak konaklama bulma sorumlulugu ogrenciye aittir[cite: 241, 242].",
+    "answer_full": "Universiteler imkanlari dahilinde yurt sunabilir; ogrenciler bunun disinda ozel yurt veya ev kiralama seceneklerini degerlendirebilir[cite: 241, 242].",
+    "question_variants": [
+      "Yurt cikiyor mu?",
+      "Nerede kalacagim?",
+      "Okul kalacak yer ayarliyor mu?"
+    ],
+    "keywords": [
+      "konaklama",
+      "yurt",
+      "ev_kiralama",
+      "ogrenci_yurdu"
+    ],
+    "source": "sss_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_basarisizlik_016",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Derslerden Kalma Durumu",
+    "canonical_question": "Erasmus'ta derslerden kalirsam hibe kesilir mi?",
+    "answer_short": "Buyuk oranda basarisizlik durumunda hibeden iade istenebilir[cite: 213].",
+    "answer_full": "Ogrenci derslerden basarisiz olursa KTUN'de de basarisiz sayilir; basari durumuna gore kalan %20 hibe odenmeyebilir veya iade talep edilebilir[cite: 202, 246].",
+    "question_variants": [
+      "Dersten kalirsam ne olur?",
+      "Hibe iadesi nedir?",
+      "Basarisizlik cezasi var mi?"
+    ],
+    "keywords": [
+      "basarisizlik",
+      "hibe_iadesi",
+      "ders_tekrarı",
+      "intibak"
+    ],
+    "source": "sss_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_anlasma_017",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Anlasmasiz Kurumda Staj",
+    "canonical_question": "Bolumumun anlasmasi olmayan bir yerde staj yapabilir miyim?",
+    "answer_short": "Evet, anlasmasiz diger universite veya kuruluslarda da staj yapilabilir[cite: 128].",
+    "answer_full": "Anlasmasiz yerlerde staj yapmak icin kurumdan uygun bir kabul mektubu alinmasi ve bolum koordinatorunun onaylamasi yeterlidir[cite: 128, 162].",
+    "question_variants": [
+      "Her yerde staj olur mu?",
+      "Anlasma zorunlu mu?",
+      "Kendi buldugum sirkette staj yapabilir miyim?"
+    ],
+    "keywords": [
+      "anlasma",
+      "sirket_stajı",
+      "kurum_onayi",
+      "ikili_anlasma"
+    ],
+    "source": "sss_staj_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_nomine_019",
+    "category": "erasmus",
+    "subcategory": "basvuru_sureci",
+    "topic": "Aday Gosterme (Nominasyon)",
+    "canonical_question": "Nominasyon sureci nedir?",
+    "answer_short": "Hak kazanan ogrencilerin universite tarafından karsi kuruma aday gosterilmesidir[cite: 117, 207].",
+    "answer_full": "Asil olarak secilen ogrenciler, yerlestirildikleri universitelere Erasmus Koordinatorlugu tarafından nomine edilir ve ardindan karsi universite bilgilendirme yapar[cite: 117, 208].",
+    "question_variants": [
+      "Nomine edilmek ne demek?",
+      "Okul beni ne zaman bildirecek?",
+      "Aday gosterme islemi nasil olur?"
+    ],
+    "keywords": [
+      "nominasyon",
+      "aday_gosterme",
+      "asil_liste",
+      "koordinatorluk"
+    ],
+    "source": "sss_staj_ve_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_yetersizhibe_020",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Hibe Destek Niteliği",
+    "canonical_question": "Erasmus hibesi tum masraflari karsilar mi?",
+    "answer_short": "Hibeler destek niteligindedir ve tum masraflari karsilamaya yetmeyebilir[cite: 259].",
+    "answer_full": "Hibe miktari ogrencinin yasam masraflarina katki saglamak icindir; konaklama ve kisisel harcamalar icin ek butce gerekebilir[cite: 258, 259].",
+    "question_variants": [
+      "Hibe yeterli mi?",
+      "Para her seye yeter mi?",
+      "Kendi cebimden para harcar miyim?"
+    ],
+    "keywords": [
+      "hibe",
+      "destek",
+      "masraflar",
+      "butce"
+    ],
+    "source": "sss_ogrenim_belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_sinav_asama_001",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Sınav Aşamaları",
+    "canonical_question": "Erasmus dil sınavı kaç aşamadan oluşur?",
+    "answer_short": "Yazılı ve sözlü olmak üzere iki aşamadan oluşur.",
+    "answer_full": "Erasmus yabancı dil sınavı iki aşamalıdır. Yazılı sınav 75 puan, sözlü (speaking) sınav ise 25 puan ağırlığındadır. Toplam puan Erasmus puanı hesaplamasında kullanılır.",
+    "question_variants": [
+      "Sözlü sınav var mı?",
+      "Speaking sınavı kaç puan?",
+      "Sınav kaç bölüm?"
+    ],
+    "keywords": [
+      "yazılı",
+      "sözlü",
+      "puan_dağılımı",
+      "speaking"
+    ],
+    "source": "Erasmus_Exam_Info",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_sinav_icerik_002",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Yazılı Sınav İçeriği",
+    "canonical_question": "Erasmus yazılı sınavında ne soruluyor?",
+    "answer_short": "Kelime bilgisi, dil bilgisi, okuma ve anlama soruları yer alır.",
+    "answer_full": "Yazılı sınavda çoktan seçmeli kelime ve dil bilgisi sorularının yanı sıra; cümle tamamlama, paragraf tamamlama ve anlamca en yakın cümleyi bulma gibi anlama soruları bulunur.",
+    "question_variants": [
+      "Sınavda hangi konular var?",
+      "Test mi klasik mi?",
+      "Gramer soruluyor mu?"
+    ],
+    "keywords": [
+      "kelime",
+      "dil_bilgisi",
+      "okuma_anlama",
+      "çoktan_seçmeli"
+    ],
+    "source": "Erasmus_Exam_Info",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_sinav_sure_003",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Sınav Süresi ve Soru Sayısı",
+    "canonical_question": "Erasmus sınavı kaç dakika sürer?",
+    "answer_short": "60-80 soru için 80-100 dakika süre verilir.",
+    "answer_full": "Soru sayısı 60 ile 80 arasında değişebilir. Buna bağlı olarak sınav süresi de 80 ile 100 dakika arasında belirlenir.",
+    "question_variants": [
+      "Kaç soru var?",
+      "Süre ne kadar?",
+      "Sınav kaç dakika?"
+    ],
+    "keywords": [
+      "soru_sayısı",
+      "süre",
+      "dakika"
+    ],
+    "source": "Erasmus_Exam_Info",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_sinav_seviye_004",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Sınav Zorluğu",
+    "canonical_question": "Erasmus sınavı hangi seviyededir?",
+    "answer_short": "Sınav A2, B1 ve B2 zorluğundaki sorulardan oluşur.",
+    "answer_full": "Erasmus dil sınavı soruları Avrupa Ortak Dil Çerçevesine uygun olarak A2'den B2 seviyesine kadar değişen zorluk seviyelerinde hazırlanır.",
+    "question_variants": [
+      "Sınav zor mu?",
+      "Hangi seviye sorular var?",
+      "B2 mi soruluyor?"
+    ],
+    "keywords": [
+      "A2",
+      "B1",
+      "B2",
+      "zorluk_seviyesi"
+    ],
+    "source": "Erasmus_Exam_Info",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "erasmus_sinav_sozlu_005",
+    "category": "erasmus",
+    "subcategory": "notlar_ve_kosullar",
+    "topic": "Sözlü Sınav Detayları",
+    "canonical_question": "Erasmus sözlü sınavı nasıl yapılıyor?",
+    "answer_short": "Öğrenci tanıtımı, başvuru amacı ve 2 sorudan oluşan bir mülakattır.",
+    "answer_full": "Sözlü sınav 2-3 dakika sürer. İki öğretim elemanı eşliğinde tamamen İngilizce yapılır. Kendini tanıtma, başvuru amacı ve sorulan 2 soruya cevap verilmesi beklenir.",
+    "question_variants": [
+      "Speaking sınavında ne sorulur?",
+      "Sözlü kaç dakika?",
+      "Mülakat nasıl?"
+    ],
+    "keywords": [
+      "sözlü_sınav",
+      "mülakat",
+      "kendini_tanıtma",
+      "ingilizce_konuşma"
+    ],
+    "source": "Erasmus_Exam_Info",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "muafiyet_amac_001",
+    "category": "ingilizce_muafiyet",
+    "subcategory": "muafiyet_kosullari",
+    "topic": "Sinavin Amaci",
+    "canonical_question": "Ingilizce muafiyet sinavi ne ise yarar?",
+    "answer_short": "Birinci sınıftaki zorunlu Ingilizce I ve Ingilizce II derslerinden muafiyet saglar.",
+    "answer_full": "Bu sinavdan yeterli puan alan ogrenciler, 1. sinif guz ve bahar donemlerinde okutulan zorunlu Ingilizce derslerini almadan muaf sayilirlar[cite: 16, 19]. Universitemizde hazirlik sinifi bulunmamaktadir.",
+    "question_variants": [
+      "Ingilizce dersinden nasil muaf olurum?",
+      "Sinavi gecince ne olur?",
+      "Zorunlu Ingilizce derslerini almak istemiyorum ne yapmaliyim?"
+    ],
+    "keywords": [
+      "ingilizce_1",
+      "ingilizce_2",
+      "muafiyet",
+      "ders_atlama"
+    ],
+    "source": "KTUN_Veri_Seti_Standartlari_v2",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "muafiyet_puan_002",
+    "category": "ingilizce_muafiyet",
+    "subcategory": "muafiyet_kosullari",
+    "topic": "Gecme Notu",
+    "canonical_question": "Ingilizce dersinden muaf olmak icin kac puan almak gerekir?",
+    "answer_short": "Zorunlu Ingilizce derslerinden muafiyet icin baraj puani genellikle 60'tir.",
+    "answer_full": "Ogrencilerin Ingilizce I ve II derslerinden muaf sayilabilmesi icin muafiyet sinavindan 100 uzerinden en az 60 puan almalari gerekmektedir[cite: 81, 176].",
+    "question_variants": [
+      "Muafiyet baraji kac?",
+      "Kac puan alan dersi gecer?",
+      "Ingilizce muafiyet notu nedir?"
+    ],
+    "keywords": [
+      "gecme_notu",
+      "baraj",
+      "60_puan"
+    ],
+    "source": "SSS_Staj_ve_Ogrenim_Belgeleri",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "muafiyet_yds_003",
+    "category": "ingilizce_muafiyet",
+    "subcategory": "muafiyet_kosullari",
+    "topic": "Dis Sinavlarla Muafiyet",
+    "canonical_question": "YDS veya YÖKDİL puani ile Ingilizce dersinden muaf olunur mu?",
+    "answer_short": "Evet, gecerli bir YDS/YÖKDİL puani sunanlar zorunlu derslerden muaf sayilabilir.",
+    "answer_full": "OSYM tarafından yapılan YDS, YOKDIL veya esdegerligi kabul edilen sinavlardan yeterli puan alan ogrenciler, dilekce vererek zorunlu Ingilizce derslerinden muafiyet talep edebilirler[cite: 87, 88].",
+    "question_variants": [
+      "YDS puanim var dersi alacak miyim?",
+      "Disaridan alinan dil belgesi gecerli mi?",
+      "Hangi belgeler muafiyet saglar?"
+    ],
+    "keywords": [
+      "yds",
+      "yokdil",
+      "denklik",
+      "dilekce"
+    ],
+    "source": "SSS_Staj_ve_Ogrenim_Belgeleri",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "muafiyet_kimler_004",
+    "category": "ingilizce_muafiyet",
+    "subcategory": "muafiyet_kosullari",
+    "topic": "Sinav Katilimi",
+    "canonical_question": "Muafiyet sinavina kimlerin girme hakki vardir?",
+    "answer_short": "Universiteye yeni kayit olan tum ogrenciler bu sinava girebilir.",
+    "answer_full": "Universitemiz bolumlerine yeni yerlesen birinci sinif ogrencileri, ders donemi basinda yapılan muafiyet sinavina katilabilirler[cite: 174, 184].",
+    "question_variants": [
+      "Sinava herkes girebilir mi?",
+      "1. siniflar muafiyet sinavina girer mi?",
+      "Ders muafiyeti icin kimler basvurur?"
+    ],
+    "keywords": [
+      "yeni_kayit",
+      "birinci_sinif",
+      "basvuru_hakki"
+    ],
+    "source": "SSS_Ogrenim_Belgesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  },
+  {
+    "id": "muafiyet_icerik_005",
+    "category": "ingilizce_muafiyet",
+    "subcategory": "sinav_icerigi",
+    "topic": "Sinav Formati",
+    "canonical_question": "Ingilizce muafiyet sinavinda ne soruluyor?",
+    "answer_short": "Genellikle temel dil bilgisi ve okuma-anlama sorularindan olusan bir testtir.",
+    "answer_full": "Zorunlu Ingilizce ders muafiyeti icin yapılan sinavda ogrencilerin temel gramer bilgisi ve okudugunu anlama becerisi coktan secmeli sorularla olculur[cite: 90, 185].",
+    "question_variants": [
+      "Muafiyet sinavi test mi?",
+      "Sinavda hangi konular var?",
+      "Ingilizce muafiyet icerigi nedir?"
+    ],
+    "keywords": [
+      "gramer",
+      "okuma_anlama",
+      "test_formati"
+    ],
+    "source": "SSS_Staj_ve_Ogrenim_Belgeleri",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sumeyra",
+    "created_at": "2026-04-11"
+  }
+]

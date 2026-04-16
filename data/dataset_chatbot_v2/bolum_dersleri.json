@@ -1,0 +1,3189 @@
+[
+  {
+    "id": "bolum_dersleri_matematik1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Matematik I (1213101)",
+    "canonical_question": "Matematik I dersinin amacı nedir?",
+    "answer_short": "Mühendislik problemlerini çözmek için gerekli temel matematik kavramlarını öğretir.",
+    "answer_full": "Matematik I dersi; limit, türev ve integral gibi tek değişkenli analiz konularını kapsar. Mühendislik uygulamalarında matematiksel düşünme becerisini geliştirmeyi amaçlar.",
+    "question_variants": [
+      "Matematik ne işliyor?",
+      "mat amacı ne?",
+      "1. dönem matematik ne öğretiyor?"
+    ],
+    "keywords": [
+      "matematik",
+      "analiz",
+      "türev",
+      "integral",
+      "1213101"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_matematik1_002",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_donemi",
+    "topic": "Matematik I (1213101)",
+    "canonical_question": "Matematik I dersi kaçıncı dönemde veriliyor?",
+    "answer_short": "Matematik I dersi 1. dönemde (1. sınıf güz) verilmektedir.",
+    "answer_full": "1213101 kodlu Matematik I dersi, Bilgisayar Mühendisliği lisans programının 1. döneminde zorunlu ders olarak yer almaktadır. 7 AKTS kredisi taşır. Koordinatörü Prof. Dr. Abdullah Selçuk Kurbanlı'dır.",
+    "question_variants": [
+      "Matematik 1 kaçıncı dönemde?",
+      "mat  kaç akts?",
+      "matematik hangi sınıfta?"
+    ],
+    "keywords": [
+      "matematik",
+      "1. dönem",
+      "1213101",
+      "zorunlu",
+      "akts"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_algoritma1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Algoritma ve Programlama I (1213146)",
+    "canonical_question": "Algoritma ve Programlama I dersinin amacı nedir?",
+    "answer_short": "Temel algoritma tasarımı ve programlama mantığını öğretir.",
+    "answer_full": "Algoritma ve Programlama I dersi; algoritmik düşünme, akış diyagramları, değişkenler, döngüler, koşullar ve temel veri yapıları konularını kapsar. Öğrencilere C veya Python gibi bir dil üzerinde programlama temeli kazandırmayı hedefler.",
+    "question_variants": [
+      "Algoritma ne öğretiyor?",
+      "programlama dersinde ne işliyoruz?",
+      "algo zorunlu mu?"
+    ],
+    "keywords": [
+      "algoritma",
+      "programlama",
+      "1213146",
+      "kodlama",
+      "1. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_bm_giris_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Bilgisayar Mühendisliğine Giriş (1213155)",
+    "canonical_question": "Bilgisayar Mühendisliğine Giriş dersinin amacı nedir?",
+    "answer_short": "Bilgisayar mühendisliği alanına genel bir bakış kazandırır.",
+    "answer_full": "1213155 kodlu Bilgisayar Mühendisliğine Giriş dersi; bilgisayar mühendisliğinin alt dallarını, meslek etiğini ve sektördeki çalışma alanlarını tanıtır. 1. dönemde zorunlu ders olarak alınır, 4 AKTS taşır.",
+    "question_variants": [
+      "BMG dersi ne işliyor?",
+      "bilgisayar müh giriş ne öğretiyor?",
+      "bmg hangi dönem?"
+    ],
+    "keywords": [
+      "bmg",
+      "giriş",
+      "1213155",
+      "1. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_algoritma2_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Algoritma ve Programlama II (1213246/1213247)",
+    "canonical_question": "Algoritma ve Programlama II dersinin amacı nedir?",
+    "answer_short": "Algoritma ve Programlama I'in devamı olup ileri programlama tekniklerini kapsar.",
+    "answer_full": "Algoritma ve Programlama II; fonksiyonlar, diziler, işaretçiler, dinamik bellek yönetimi ve nesne tabanlı programlamaya giriş konularını içerir. 1213146 veya 1213246/1213247 kodlu Algoritma ve Programlama dersini almış olmak birçok sonraki dersin önşartıdır.",
+    "question_variants": [
+      "Algoritma 2 ne öğretiyor?",
+      "programlama 2 ne işliyor?",
+      "algo 2 dersi nedir?"
+    ],
+    "keywords": [
+      "algoritma",
+      "programlama",
+      "1213246",
+      "2. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_algoritma2_002",
+    "category": "bolum_dersleri",
+    "subcategory": "bagli_dersler",
+    "topic": "Algoritma ve Programlama II (1213246/1213247)",
+    "canonical_question": "Algoritma ve Programlama II hangi derslerin önşartıdır?",
+    "answer_short": "Pek çok zorunlu ve seçmeli dersin önşartıdır; bu dersi geçmeden o dersleri alamazsınız.",
+    "answer_full": "Algoritma ve Programlama II (1213246 veya 1213247) şu derslerin önşartıdır: Veri Yapıları (1213353), Nesneye Yönelik Programlama (1213357), Görsel Programlama Dilleri (1213453) ve Algoritmalar (1213455). Bu dersi geçmeden söz konusu derslere kayıt yaptıramazsınız.",
+    "question_variants": [
+      "Algoritma 2 geçmezsem ne olur?",
+      "Algo önşart mı?",
+      "Algoritma'dan kalan hangi dersleri alamaz?"
+    ],
+    "keywords": [
+      "algoritma",
+      "programlama",
+      "önşart",
+      "veri yapıları",
+      "bağlı dersler"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_ayrik_mat_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Ayrık Matematik (1213345)",
+    "canonical_question": "Ayrık Matematik dersinin amacı nedir?",
+    "answer_short": "Bilgisayar bilimlerinin matematiksel temellerini oluşturan mantık, küme ve graf teorisini öğretir.",
+    "answer_full": "1213345 kodlu Ayrık Matematik; önerme mantığı, kümeler, ilişkiler, fonksiyonlar, kombinatorik ve graf teorisi konularını kapsar. 3. dönemde zorunlu ders olarak alınır, 5 AKTS taşır. Koordinatörü Doç. Dr. Nurdan Baykan'dır.",
+    "question_variants": [
+      "Ayrık Mat ne işliyor?",
+      "3. dönemde ayrık matematik var mı?",
+      "Ayrık zorunlu mu?"
+    ],
+    "keywords": [
+      "ayrık matematik",
+      "mantık",
+      "graf",
+      "1213345",
+      "3. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_lojik_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Lojik Tasarım (1213347)",
+    "canonical_question": "Lojik Tasarım dersinin amacı nedir?",
+    "answer_short": "Sayısal devreler ve mantık kapıları tasarımını öğretir.",
+    "answer_full": "1213347 kodlu Lojik Tasarım; Boolean cebri, mantık kapıları, kombinasyonel ve sıralı devreler ile sayısal sistem tasarımı konularını kapsar. 3. dönemde zorunlu ders olarak alınır, 6 AKTS taşır.",
+    "question_variants": [
+      "Lojik Tasarım ne öğretiyor?",
+      "lojik dersi hangi dönem?",
+      "1213347 nedir?"
+    ],
+    "keywords": [
+      "lojik tasarım",
+      "sayısal devre",
+      "1213347",
+      "3. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_lojik_002",
+    "category": "bolum_dersleri",
+    "subcategory": "bagli_dersler",
+    "topic": "Lojik Tasarım (1213347)",
+    "canonical_question": "Lojik Tasarım hangi derslerin önşartıdır?",
+    "answer_short": "Mikroişlemciler dersini alabilmek için Lojik Tasarım'ı geçmiş olmanız gerekir.",
+    "answer_full": "Lojik Tasarım (1213347), Mikroişlemciler (1213454) dersinin önşartıdır. Bu dersi geçmeden Mikroişlemciler dersine kayıt yaptıramazsınız.",
+    "question_variants": [
+      "Lojik Tasarım geçmezsem hangi dersi alamam?",
+      "Mikroişlemciler için ne gerekir?",
+      "Lojik şartlı ders mi?"
+    ],
+    "keywords": [
+      "lojik tasarım",
+      "mikroişlemciler",
+      "önşart",
+      "bağlı dersler"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_veri_yapilari_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Veri Yapıları (1213353)",
+    "canonical_question": "Veri Yapıları dersinin amacı nedir?",
+    "answer_short": "Dizi, bağlı liste, ağaç ve graf gibi temel veri yapılarını öğretir.",
+    "answer_full": "1213353 kodlu Veri Yapıları; diziler, bağlı listeler, yığınlar, kuyruklar, ağaçlar ve graflar gibi veri organizasyon yöntemlerini ve bunlar üzerindeki temel algoritmaları kapsar. 3. dönemde zorunlu ders olarak alınır, 5 AKTS taşır.",
+    "question_variants": [
+      "Veri Yapıları ne öğretiyor?",
+      "veri yapıları kaçıncı dönem?",
+      "1213353 önşartı ne?"
+    ],
+    "keywords": [
+      "veri yapıları",
+      "ağaç",
+      "bağlı liste",
+      "1213353",
+      "3. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_veri_yapilari_002",
+    "category": "bolum_dersleri",
+    "subcategory": "bagli_dersler",
+    "topic": "Veri Yapıları (1213353)",
+    "canonical_question": "Veri Yapıları dersinin önşartı nedir ve hangi derslerin önşartıdır?",
+    "answer_short": "Önşartı Algoritma ve Programlama II'dir. Yazılım Mühendisliği dersinin önşartıdır.",
+    "answer_full": "Veri Yapıları (1213353) dersini alabilmek için Algoritma ve Programlama I (1213146) veya Algoritma ve Programlama II (1213246/1213247) dersini geçmiş olmanız gerekir. Veri Yapıları ise Yazılım Mühendisliği (1213659) dersinin önşartıdır.",
+    "question_variants": [
+      "Veri Yapıları almak için ne lazım?",
+      "Veri Yapıları geçemezsem ne olur?",
+      "veri yapıları önşartı ne?"
+    ],
+    "keywords": [
+      "veri yapıları",
+      "önşart",
+      "yazılım mühendisliği",
+      "algoritma"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_nyp_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Nesneye Yönelik Programlama (1213357)",
+    "canonical_question": "Nesneye Yönelik Programlama dersinin amacı nedir?",
+    "answer_short": "Sınıf, nesne, kalıtım ve polimorfizm gibi OOP kavramlarını öğretir.",
+    "answer_full": "1213357 kodlu Nesneye Yönelik Programlama; sınıf ve nesne kavramları, kapsülleme, kalıtım, polimorfizm ve soyut sınıflar konularını kapsar. Java veya C++ üzerinden uygulamalı olarak işlenir. 3. dönemde zorunlu ders olarak alınır, 5 AKTS taşır.",
+    "question_variants": [
+      "Nesne ne işliyor?",
+      "nesneye yönelik programlama hangi dönem?",
+      "OOP dersi nedir?"
+    ],
+    "keywords": [
+      "nesneye yönelik",
+      "oop",
+      "java",
+      "kalıtım",
+      "1213357",
+      "3. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_nyp_002",
+    "category": "bolum_dersleri",
+    "subcategory": "bagli_dersler",
+    "topic": "Nesneye Yönelik Programlama (1213357)",
+    "canonical_question": "Nesneye Yönelik Programlama dersinin önşartı nedir?",
+    "answer_short": "Algoritma ve Programlama I veya II'yi geçmiş olmak gerekir.",
+    "answer_full": "Nesneye Yönelik Programlama (1213357) dersini alabilmek için Algoritma ve Programlama I (1213146) veya Algoritma ve Programlama II (1213246/1213247) dersini geçmiş olmanız gerekir.",
+    "question_variants": [
+      "NYP için hangi dersi geçmem lazım?",
+      "nesneye yönelik programlama önşartı ne?"
+    ],
+    "keywords": [
+      "nesneye yönelik",
+      "önşart",
+      "algoritma ve programlama"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_girisimcilik_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Girişimcilik (1213435)",
+    "canonical_question": "Girişimcilik dersinin amacı nedir?",
+    "answer_short": "İş fikri geliştirme, girişimcilik kültürü ve inovasyon kavramlarını öğretir.",
+    "answer_full": "1213435 kodlu Girişimcilik dersi; iş modeli oluşturma, yenilikçilik, proje planlama ve girişimcilik ekosistemi konularını kapsar. 4. dönemde zorunlu ders olarak alınır, 2 AKTS taşır. Koordinatörü Doç. Dr. Sait Ali Uymaz'dır.",
+    "question_variants": [
+      "Girişimcilik dersi ne işliyor?",
+      "girişimcilik kaçıncı dönem?",
+      "1213435 zorunlu mu?"
+    ],
+    "keywords": [
+      "girişimcilik",
+      "inovasyon",
+      "1213435",
+      "4. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_gorsel_prog_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Görsel Programlama Dilleri (1213453)",
+    "canonical_question": "Görsel Programlama Dilleri dersinin amacı nedir?",
+    "answer_short": "Grafiksel arayüz (GUI) geliştirme ve event-driven programlamayı öğretir.",
+    "answer_full": "1213453 kodlu Görsel Programlama Dilleri; masaüstü uygulama geliştirme, olay güdümlü programlama ve GUI bileşenleri konularını kapsar. 4. dönemde teknik seçmeli olarak sunulur, 6 AKTS taşır.",
+    "question_variants": [
+      "Görsel Programlama Dilleri hangi dönemde veriliyor?",
+      "1213453 dersinin önşartı nedir?"
+    ],
+    "keywords": [
+      "görsel programlama",
+      "gui",
+      "1213453",
+      "4. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_gorsel_prog_002",
+    "category": "bolum_dersleri",
+    "subcategory": "bagli_dersler",
+    "topic": "Görsel Programlama Dilleri (1213453)",
+    "canonical_question": "Görsel Programlama Dilleri dersinin önşartı nedir?",
+    "answer_short": "Algoritma ve Programlama I veya II'yi geçmiş olmak gerekir.",
+    "answer_full": "Görsel Programlama Dilleri (1213453) dersini alabilmek için Algoritma ve Programlama I (1213146) veya Algoritma ve Programlama II (1213246/1213247) dersini geçmiş olmanız gerekir.",
+    "question_variants": [
+      "Görsel Programlama almak için hangi dersi geçmem gerekir?"
+    ],
+    "keywords": [
+      "görsel programlama",
+      "önşart",
+      "algoritma ve programlama"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_mikroislemci_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Mikroişlemciler (1213454)",
+    "canonical_question": "Mikroişlemciler dersinin amacı nedir?",
+    "answer_short": "Mikroişlemci mimarisi, assembly programlama ve donanım-yazılım etkileşimini öğretir.",
+    "answer_full": "1213454 kodlu Mikroişlemciler; işlemci mimarisi, assembly dili, bellek organizasyonu ve giriş/çıkış işlemleri konularını kapsar. 4. dönemde zorunlu ders olarak alınır, 6 AKTS taşır.",
+    "question_variants": [
+      "Mikroişlemciler ne öğretiyor?",
+      "mikroişlemci hangi dönem?",
+      "assembly dersi hangisi?"
+    ],
+    "keywords": [
+      "mikroişlemci",
+      "assembly",
+      "1213454",
+      "4. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_mikroislemci_002",
+    "category": "bolum_dersleri",
+    "subcategory": "bagli_dersler",
+    "topic": "Mikroişlemciler (1213454)",
+    "canonical_question": "Mikroişlemciler dersinin önşartı nedir?",
+    "answer_short": "Lojik Tasarım dersini geçmiş olmak gerekir.",
+    "answer_full": "Mikroişlemciler (1213454) dersini alabilmek için Lojik Tasarım (1213347) dersini geçmiş olmanız gerekir.",
+    "question_variants": [
+      "Mikroişlemciler için hangi ders lazım?",
+      "mikroişlemci önşartı ne?"
+    ],
+    "keywords": [
+      "mikroişlemciler",
+      "lojik tasarım",
+      "önşart"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_algoritmalar_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Algoritmalar (1213455)",
+    "canonical_question": "Algoritmalar dersinin amacı nedir?",
+    "answer_short": "Karmaşıklık analizi ve ileri algoritma tasarım tekniklerini öğretir.",
+    "answer_full": "1213455 kodlu Algoritmalar; böl ve fethet, dinamik programlama, açgözlü algoritmalar ve NP-tamlık gibi ileri algoritma tasarım paradigmalarını kapsar. 4. dönemde zorunlu ders olarak alınır, 6 AKTS taşır.",
+    "question_variants": [
+      "Algoritmalar dersi ne işliyor?",
+      "algoritmalar 4. dönemde mi?",
+      "1213455 nedir?"
+    ],
+    "keywords": [
+      "algoritmalar",
+      "karmaşıklık",
+      "1213455",
+      "4. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_algoritmalar_002",
+    "category": "bolum_dersleri",
+    "subcategory": "bagli_dersler",
+    "topic": "Algoritmalar (1213455)",
+    "canonical_question": "Algoritmalar dersinin önşartı nedir?",
+    "answer_short": "Algoritma ve Programlama I veya II'yi geçmiş olmak gerekir.",
+    "answer_full": "Algoritmalar (1213455) dersini alabilmek için Algoritma ve Programlama I (1213146) veya Algoritma ve Programlama II (1213246/1213247) dersini geçmiş olmanız gerekir.",
+    "question_variants": [
+      "Algoritmalar almak için hangi ders önşart?"
+    ],
+    "keywords": [
+      "algoritmalar",
+      "önşart",
+      "algoritma ve programlama"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_dif_denklem_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Diferansiyel Denklemler (1213456)",
+    "canonical_question": "Diferansiyel Denklemler dersinin amacı nedir?",
+    "answer_short": "Mühendislik problemlerinde kullanılan adi diferansiyel denklemlerin çözümünü öğretir.",
+    "answer_full": "1213456 kodlu Diferansiyel Denklemler; birinci ve ikinci mertebe adi diferansiyel denklemler, Laplace dönüşümü ve mühendislik uygulamaları konularını kapsar. 4. dönemde zorunlu ders olarak alınır, 5 AKTS taşır.",
+    "question_variants": [
+      "Dif denklemler ne işliyor?",
+      "diferansiyel denklemler hangi dönem?",
+      "1213456 nedir?"
+    ],
+    "keywords": [
+      "diferansiyel denklemler",
+      "laplace",
+      "1213456",
+      "4. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_dif_denklem_002",
+    "category": "bolum_dersleri",
+    "subcategory": "bagli_dersler",
+    "topic": "Diferansiyel Denklemler (1213456)",
+    "canonical_question": "Diferansiyel Denklemler hangi derslerin önşartıdır?",
+    "answer_short": "İşaret ve Sistemler dersinin önşartıdır.",
+    "answer_full": "Diferansiyel Denklemler (1213456) dersi, İşaret ve Sistemler (1213658) dersinin önşartıdır. Bu dersi geçmeden İşaret ve Sistemler dersine kayıt yaptıramazsınız.",
+    "question_variants": [
+      "Diferansiyel Denklemler geçmezsem ne olur?",
+      "İşaret ve Sistemler için ne lazım?"
+    ],
+    "keywords": [
+      "diferansiyel denklemler",
+      "işaret ve sistemler",
+      "önşart"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_isletim_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "İşletim Sistemleri (1213532)",
+    "canonical_question": "İşletim Sistemleri dersinin amacı nedir?",
+    "answer_short": "Süreç yönetimi, bellek yönetimi ve dosya sistemleri gibi işletim sistemi kavramlarını öğretir.",
+    "answer_full": "1213532 kodlu İşletim Sistemleri; süreçler, iş parçacıkları, bellek yönetimi, dosya sistemleri ve senkronizasyon konularını kapsar. 5. dönemde zorunlu ders olarak alınır, 6 AKTS taşır. Koordinatörü Dr. Öğr. Üyesi Alper Kılıç'tır.",
+    "question_variants": [
+      "İşletim Sistemleri ne işliyor?",
+      "OS dersi kaçıncı dönem?",
+      "1213532 nedir?"
+    ],
+    "keywords": [
+      "işletim sistemleri",
+      "süreç",
+      "bellek",
+      "1213532",
+      "5. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_bilg_org_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Bilgisayar Organizasyonu (1213553)",
+    "canonical_question": "Bilgisayar Organizasyonu dersinin amacı nedir?",
+    "answer_short": "Bilgisayar donanımının iç yapısını ve çalışma prensiplerini öğretir.",
+    "answer_full": "1213553 kodlu Bilgisayar Organizasyonu; CPU yapısı, veri yolları, bellek hiyerarşisi, önbellek ve giriş/çıkış birimleri konularını kapsar. 5. dönemde zorunlu ders olarak alınır, 4 AKTS taşır.",
+    "question_variants": [
+      "Bilgisayar Organizasyonu ne öğretiyor?",
+      "bilg org hangi dönem?",
+      "1213553 nedir?"
+    ],
+    "keywords": [
+      "bilgisayar organizasyonu",
+      "cpu",
+      "önbellek",
+      "1213553",
+      "5. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_veri_tabani1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Veri Tabanı I (1213554)",
+    "canonical_question": "Veri Tabanı I dersinin amacı nedir?",
+    "answer_short": "İlişkisel veritabanı tasarımı ve SQL kullanımını öğretir.",
+    "answer_full": "1213554 kodlu Veri Tabanı I; ilişkisel model, ER diyagramları, normalizasyon ve SQL sorgu dili konularını kapsar. 5. dönemde zorunlu ders olarak alınır, 6 AKTS taşır. Koordinatörü Prof. Dr. Mesut Gündüz'dür.",
+    "question_variants": [
+      "Veri Tabanı 1 ne işliyor?",
+      "VT1 hangi dönem?",
+      "SQL dersi hangisi?"
+    ],
+    "keywords": [
+      "veri tabanı",
+      "sql",
+      "1213554",
+      "5. dönem",
+      "ilişkisel"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_otomata_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Otomata Teorisi (1213557)",
+    "canonical_question": "Otomata Teorisi dersinin amacı nedir?",
+    "answer_short": "Sonlu otomatlar, düzenli ifadeler ve hesaplama teorisinin temellerini öğretir.",
+    "answer_full": "1213557 kodlu Otomata Teorisi; deterministik ve deterministik olmayan sonlu otomatlar, düzenli diller, bağlamdan bağımsız diller ve Turing makineleri konularını kapsar. 5. dönemde zorunlu ders olarak alınır, 5 AKTS taşır.",
+    "question_variants": [
+      "Otomata ne işliyor?",
+      "otomata teorisi hangi dönem?",
+      "1213557 zorunlu mu?"
+    ],
+    "keywords": [
+      "otomata",
+      "sonlu otomat",
+      "turing",
+      "1213557",
+      "5. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_bilisim_hukuk_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Bilişim Hukuku (1213558)",
+    "canonical_question": "Bilişim Hukuku dersinin amacı nedir?",
+    "answer_short": "Bilişim teknolojileriyle ilgili yasal düzenlemeler ve etik konuları öğretir.",
+    "answer_full": "1213558 kodlu Bilişim Hukuku; siber suçlar, kişisel verilerin korunması (KVKK), fikri mülkiyet hakları ve internet hukuku konularını kapsar. 5. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
+    "question_variants": [
+      "Bilişim Hukuku ne işliyor?",
+      "hukuk dersi kaçıncı dönemde?",
+      "1213558 nedir?"
+    ],
+    "keywords": [
+      "bilişim hukuku",
+      "kvkk",
+      "siber suç",
+      "1213558",
+      "5. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_bilg_aglari_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Bilgisayar Ağları (1213657)",
+    "canonical_question": "Bilgisayar Ağları dersinin amacı nedir?",
+    "answer_short": "TCP/IP modeli, ağ protokolleri ve ağ tasarımı konularını öğretir.",
+    "answer_full": "1213657 kodlu Bilgisayar Ağları; OSI ve TCP/IP katman modelleri, yönlendirme, anahtarlama, HTTP, DNS gibi protokoller ve ağ güvenliği temellerini kapsar. 6. dönemde zorunlu ders olarak alınır, 6 AKTS taşır.",
+    "question_variants": [
+      "Bilgisayar Ağları ne öğretiyor?",
+      "ağlar hangi dönem?",
+      "1213657 zorunlu mu?"
+    ],
+    "keywords": [
+      "bilgisayar ağları",
+      "tcp/ip",
+      "protokol",
+      "1213657",
+      "6. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_isaret_sis_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "İşaret ve Sistemler (1213658)",
+    "canonical_question": "İşaret ve Sistemler dersinin amacı nedir?",
+    "answer_short": "Sürekli ve ayrık zamanlı işaretlerin analizi ile sistem teorisinin temellerini öğretir.",
+    "answer_full": "1213658 kodlu İşaret ve Sistemler; Fourier dönüşümü, Laplace dönüşümü, filtreler ve dijital işaret işlemenin temellerini kapsar. 6. dönemde zorunlu ders olarak alınır, 5 AKTS taşır.",
+    "question_variants": [
+      "İşaret ve Sistemler ne işliyor?",
+      "1213658 hangi dönem?",
+      "işaret dersi zorunlu mu?"
+    ],
+    "keywords": [
+      "işaret",
+      "sistemler",
+      "fourier",
+      "1213658",
+      "6. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_isaret_sis_002",
+    "category": "bolum_dersleri",
+    "subcategory": "bagli_dersler",
+    "topic": "İşaret ve Sistemler (1213658)",
+    "canonical_question": "İşaret ve Sistemler dersinin önşartı nedir?",
+    "answer_short": "Diferansiyel Denklemler dersini geçmiş olmak gerekir.",
+    "answer_full": "İşaret ve Sistemler (1213658) dersini alabilmek için Diferansiyel Denklemler (1213456) dersini geçmiş olmanız gerekir.",
+    "question_variants": [
+      "İşaret ve Sistemler için hangi dersi geçmem lazım?"
+    ],
+    "keywords": [
+      "işaret ve sistemler",
+      "diferansiyel denklemler",
+      "önşart"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_yazilim_muh_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Yazılım Mühendisliği (1213659)",
+    "canonical_question": "Yazılım Mühendisliği dersinin amacı nedir?",
+    "answer_short": "Yazılım geliştirme süreçleri, modelleme ve proje yönetimi konularını öğretir.",
+    "answer_full": "1213659 kodlu Yazılım Mühendisliği; yazılım yaşam döngüsü, UML modelleme, Agile ve Scrum metodolojileri, test yöntemleri ve kalite güvencesi konularını kapsar. 6. dönemde zorunlu ders olarak alınır, 5 AKTS taşır.",
+    "question_variants": [
+      "Yazılım Mühendisliği ne öğretiyor?",
+      "YMÜ hangi dönem?",
+      "1213659 zorunlu mu?"
+    ],
+    "keywords": [
+      "yazılım mühendisliği",
+      "uml",
+      "agile",
+      "1213659",
+      "6. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_yazilim_muh_002",
+    "category": "bolum_dersleri",
+    "subcategory": "bagli_dersler",
+    "topic": "Yazılım Mühendisliği (1213659)",
+    "canonical_question": "Yazılım Mühendisliği dersinin önşartı nedir?",
+    "answer_short": "Veri Yapıları dersini geçmiş olmak gerekir.",
+    "answer_full": "Yazılım Mühendisliği (1213659) dersini alabilmek için Veri Yapıları (1213353) dersini geçmiş olmanız gerekir.",
+    "question_variants": [
+      "Yazılım Mühendisliği için hangi ders lazım?",
+      "YMÜ önşartı ne?"
+    ],
+    "keywords": [
+      "yazılım mühendisliği",
+      "veri yapıları",
+      "önşart"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_bil_tek_uygulama_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Bilişim Teknolojileri Uygulaması (1213673)",
+    "canonical_question": "Bilişim Teknolojileri Uygulaması dersinin amacı nedir?",
+    "answer_short": "Gerçek dünya projesi geliştirerek mesleki beceri kazandırmayı hedefler.",
+    "answer_full": "1213673 kodlu Bilişim Teknolojileri Uygulaması; öğrencilerin bir proje tasarlayıp geliştirmesini kapsayan uygulamalı bir derstir. 6. dönemde zorunlu ders olarak alınır, 6 AKTS taşır.",
+    "question_variants": [
+      "BTU dersi ne işliyor?",
+      "Bilişim Teknolojileri Uygulaması hangi dönem?",
+      "1213673 nedir?"
+    ],
+    "keywords": [
+      "bilişim teknolojileri uygulaması",
+      "proje",
+      "1213673",
+      "6. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_bm_uygulama1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Bilgisayar Mühendisliği Uygulaması I / Bitirme Projesi I (1213780)",
+    "canonical_question": "Bilgisayar Mühendisliği Uygulaması I (Bitirme Projesi I) dersinin amacı nedir?",
+    "answer_short": "4. sınıf öğrencilerinin bir öğretim üyesi danışmanlığında özgün proje geliştirmesini sağlar.",
+    "answer_full": "1213780 kodlu Bilgisayar Mühendisliği Uygulaması I; öğrencilerin bir danışman hoca ile birlikte teknik bir proje tasarlayıp geliştirmesini kapsar. 7. dönemde alınır, 15 AKTS taşır. Bu ders Bilgisayar Mühendisliği Uygulaması II'nin önşartıdır.",
+    "question_variants": [
+      "Bitirme projesi ne zaman başlıyor?",
+      "BM Uygulaması 1 hangi dönemde?",
+      "bitirme 1 nasıl alınır?"
+    ],
+    "keywords": [
+      "bitirme projesi",
+      "bm uygulaması",
+      "1213780",
+      "7. dönem",
+      "danışman"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_bm_uygulama1_002",
+    "category": "bolum_dersleri",
+    "subcategory": "bagli_dersler",
+    "topic": "Bilgisayar Mühendisliği Uygulaması I / Bitirme Projesi I (1213780)",
+    "canonical_question": "Bilgisayar Mühendisliği Uygulaması II için ne gerekir?",
+    "answer_short": "BM Uygulaması I'i geçmiş olmak zorunludur.",
+    "answer_full": "Bilgisayar Mühendisliği Uygulaması II (1213796/1213880) dersini alabilmek için Bilgisayar Mühendisliği Uygulaması I (1213780) dersini geçmiş olmanız gerekir.",
+    "question_variants": [
+      "Bitirme 2 için ne lazım?",
+      "BM Uygulaması 2 önşartı ne?",
+      "Bitirme 1 geçmeden 2 alınır mı?"
+    ],
+    "keywords": [
+      "bitirme projesi",
+      "bm uygulaması",
+      "önşart"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213560_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Bilgisayarla Grafik İşlemeye Giriş (1213560)",
+    "canonical_question": "Bilgisayarla Grafik İşlemeye Giriş dersinin amacı nedir?",
+    "answer_short": "Görüntü oluşturma, 3D modelleme ve bilgisayar grafikleri temellerini öğretir.",
+    "answer_full": "1213560 kodlu Bilgisayarla Grafik İşlemeye Giriş dersi; görüntü oluşturma, 3d modelleme ve bilgisayar grafikleri temellerini öğretir. 5. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Bilgisayarla Grafik İşlemeye Giriş hangi dönemde veriliyor?",
+      "1213560 dersi nedir?"
+    ],
+    "keywords": [
+      "bilgisayarla",
+      "grafik",
+      "1213560",
+      "5. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213561_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "E-İş/E-Ticarete Giriş (1213561)",
+    "canonical_question": "E-İş/E-Ticarete Giriş dersinin amacı nedir?",
+    "answer_short": "Elektronik ticaret modelleri, dijital ödeme sistemleri ve online iş stratejilerini öğretir.",
+    "answer_full": "1213561 kodlu E-İş/E-Ticarete Giriş dersi; elektronik ticaret modelleri, dijital ödeme sistemleri ve online iş stratejilerini öğretir. 5. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "E-İş/E-Ticarete Giriş hangi dönemde veriliyor?",
+      "1213561 dersi nedir?"
+    ],
+    "keywords": [
+      "e-ticaret",
+      "1213561",
+      "5. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213562_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Web Programlama (1213562)",
+    "canonical_question": "Web Programlama dersinin amacı nedir?",
+    "answer_short": "HTML, CSS, JavaScript ve sunucu taraflı web geliştirme teknolojilerini öğretir.",
+    "answer_full": "1213562 kodlu Web Programlama dersi; html, css, javascript ve sunucu taraflı web geliştirme teknolojilerini öğretir. 5. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Web Programlama hangi dönemde veriliyor?",
+      "1213562 dersi nedir?"
+    ],
+    "keywords": [
+      "web",
+      "programlama",
+      "1213562",
+      "5. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213563_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Mikroişlemci Tabanlı Tasarım (1213563)",
+    "canonical_question": "Mikroişlemci Tabanlı Tasarım dersinin amacı nedir?",
+    "answer_short": "Mikroişlemci tabanlı gömülü sistem tasarımı ve programlamayı öğretir.",
+    "answer_full": "1213563 kodlu Mikroişlemci Tabanlı Tasarım dersi; mikroişlemci tabanlı gömülü sistem tasarımı ve programlamayı öğretir. 5. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Mikroişlemci Tabanlı Tasarım hangi dönemde veriliyor?",
+      "1213563 dersi nedir?"
+    ],
+    "keywords": [
+      "mikroişlemci",
+      "tabanlı",
+      "tasarım",
+      "1213563",
+      "5. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213564_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Mantık Programlamaya Giriş (1213564)",
+    "canonical_question": "Mantık Programlamaya Giriş dersinin amacı nedir?",
+    "answer_short": "Prolog gibi mantık tabanlı programlama dilleri ve yapay zeka uygulamalarını öğretir.",
+    "answer_full": "1213564 kodlu Mantık Programlamaya Giriş dersi; prolog gibi mantık tabanlı programlama dilleri ve yapay zeka uygulamalarını öğretir. 5. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Mantık Programlamaya Giriş hangi dönemde veriliyor?",
+      "1213564 dersi nedir?"
+    ],
+    "keywords": [
+      "mantık",
+      "programlama",
+      "1213564",
+      "5. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213565_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Yapay Zekâ (1213565)",
+    "canonical_question": "Yapay Zekâ dersinin amacı nedir?",
+    "answer_short": "Arama algoritmaları, bilgi temsili ve makine öğrenmesinin temellerini öğretir.",
+    "answer_full": "1213565 kodlu Yapay Zekâ dersi; arama algoritmaları, bilgi temsili ve makine öğrenmesinin temellerini öğretir. 5. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Yapay Zekâ hangi dönemde veriliyor?",
+      "1213565 dersi nedir?"
+    ],
+    "keywords": [
+      "yapay",
+      "zeka",
+      "1213565",
+      "5. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213566_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Dosya Yapıları (1213566)",
+    "canonical_question": "Dosya Yapıları dersinin amacı nedir?",
+    "answer_short": "Harici bellek üzerinde veri organizasyonu ve dosya erişim yöntemlerini öğretir.",
+    "answer_full": "1213566 kodlu Dosya Yapıları dersi; harici bellek üzerinde veri organizasyonu ve dosya erişim yöntemlerini öğretir. 5. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Dosya Yapıları hangi dönemde veriliyor?",
+      "1213566 dersi nedir?"
+    ],
+    "keywords": [
+      "dosya",
+      "yapıları",
+      "1213566",
+      "5. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213567_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Gömülü Programlama (1213567)",
+    "canonical_question": "Gömülü Programlama dersinin amacı nedir?",
+    "answer_short": "Gömülü sistemler için C programlama ve donanım kontrolünü öğretir.",
+    "answer_full": "1213567 kodlu Gömülü Programlama dersi; gömülü sistemler için c programlama ve donanım kontrolünü öğretir. 5. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Gömülü Programlama hangi dönemde veriliyor?",
+      "1213567 dersi nedir?"
+    ],
+    "keywords": [
+      "gömülü",
+      "programlama",
+      "1213567",
+      "5. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213568_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Mobil Programlama (1213568)",
+    "canonical_question": "Mobil Programlama dersinin amacı nedir?",
+    "answer_short": "Android veya iOS platformlarında mobil uygulama geliştirmeyi öğretir.",
+    "answer_full": "1213568 kodlu Mobil Programlama dersi; android veya ios platformlarında mobil uygulama geliştirmeyi öğretir. 5. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Mobil Programlama hangi dönemde veriliyor?",
+      "1213568 dersi nedir?"
+    ],
+    "keywords": [
+      "mobil",
+      "programlama",
+      "1213568",
+      "5. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213661_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "İnsan-Bilgisayar Etkileşimi (1213661)",
+    "canonical_question": "İnsan-Bilgisayar Etkileşimi dersinin amacı nedir?",
+    "answer_short": "Kullanıcı arayüzü tasarımı, kullanılabilirlik ve UX prensiplerini öğretir.",
+    "answer_full": "1213661 kodlu İnsan-Bilgisayar Etkileşimi dersi; kullanıcı arayüzü tasarımı, kullanılabilirlik ve ux prensiplerini öğretir. 6. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "İnsan-Bilgisayar Etkileşimi hangi dönemde veriliyor?",
+      "1213661 dersi nedir?"
+    ],
+    "keywords": [
+      "insan",
+      "bilgisayar",
+      "etkileşimi",
+      "1213661",
+      "6. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213662_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Sistem Yöneticiliği (1213662)",
+    "canonical_question": "Sistem Yöneticiliği dersinin amacı nedir?",
+    "answer_short": "Sunucu yönetimi, ağ yapılandırması ve sistem güvenliği konularını öğretir.",
+    "answer_full": "1213662 kodlu Sistem Yöneticiliği dersi; sunucu yönetimi, ağ yapılandırması ve sistem güvenliği konularını öğretir. 6. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Sistem Yöneticiliği hangi dönemde veriliyor?",
+      "1213662 dersi nedir?"
+    ],
+    "keywords": [
+      "sistem",
+      "yöneticiliği",
+      "1213662",
+      "6. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213663_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Kriptolojiye Giriş (1213663)",
+    "canonical_question": "Kriptolojiye Giriş dersinin amacı nedir?",
+    "answer_short": "Şifreleme algoritmaları, açık anahtar altyapısı ve kriptografik protokolleri öğretir.",
+    "answer_full": "1213663 kodlu Kriptolojiye Giriş dersi; şifreleme algoritmaları, açık anahtar altyapısı ve kriptografik protokolleri öğretir. 6. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Kriptolojiye Giriş hangi dönemde veriliyor?",
+      "1213663 dersi nedir?"
+    ],
+    "keywords": [
+      "kriptoloji",
+      "1213663",
+      "6. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213664_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Mikrodenetleyiciler (1213664)",
+    "canonical_question": "Mikrodenetleyiciler dersinin amacı nedir?",
+    "answer_short": "Arduino ve benzeri mikrodenetleyici platformlarıyla donanım programlamayı öğretir.",
+    "answer_full": "1213664 kodlu Mikrodenetleyiciler dersi; arduino ve benzeri mikrodenetleyici platformlarıyla donanım programlamayı öğretir. 6. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Mikrodenetleyiciler hangi dönemde veriliyor?",
+      "1213664 dersi nedir?"
+    ],
+    "keywords": [
+      "mikrodenetleyici",
+      "1213664",
+      "6. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213665_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Bilgisayar Mimarisi (1213665)",
+    "canonical_question": "Bilgisayar Mimarisi dersinin amacı nedir?",
+    "answer_short": "Modern işlemci mimarisi, pipeline, önbellek ve çok çekirdekli sistemleri öğretir.",
+    "answer_full": "1213665 kodlu Bilgisayar Mimarisi dersi; modern işlemci mimarisi, pipeline, önbellek ve çok çekirdekli sistemleri öğretir. 6. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Bilgisayar Mimarisi hangi dönemde veriliyor?",
+      "1213665 dersi nedir?"
+    ],
+    "keywords": [
+      "bilgisayar",
+      "mimarisi",
+      "1213665",
+      "6. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213666_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Veri Madenciliğine Giriş (1213666)",
+    "canonical_question": "Veri Madenciliğine Giriş dersinin amacı nedir?",
+    "answer_short": "Büyük veri kümelerinden anlamlı örüntüler çıkarmak için kullanılan temel teknikleri öğretir.",
+    "answer_full": "1213666 kodlu Veri Madenciliğine Giriş dersi; büyük veri kümelerinden anlamlı örüntüler çıkarmak için kullanılan temel teknikleri öğretir. 6. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Veri Madenciliğine Giriş hangi dönemde veriliyor?",
+      "1213666 dersi nedir?"
+    ],
+    "keywords": [
+      "veri",
+      "madenciliği",
+      "1213666",
+      "6. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213668_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "İleri Programlama Dilleri (1213668)",
+    "canonical_question": "İleri Programlama Dilleri dersinin amacı nedir?",
+    "answer_short": "Fonksiyonel ve mantıksal programlama paradigmalarını kapsar.",
+    "answer_full": "1213668 kodlu İleri Programlama Dilleri dersi; fonksiyonel ve mantıksal programlama paradigmalarını kapsar. 6. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "İleri Programlama Dilleri hangi dönemde veriliyor?",
+      "1213668 dersi nedir?"
+    ],
+    "keywords": [
+      "ileri",
+      "programlama",
+      "dilleri",
+      "1213668",
+      "6. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213670_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Yönetim Bilgi Sistemlerine Giriş (1213670)",
+    "canonical_question": "Yönetim Bilgi Sistemlerine Giriş dersinin amacı nedir?",
+    "answer_short": "Organizasyonlarda bilgi sistemlerinin rolü ve yönetim uygulamalarını öğretir.",
+    "answer_full": "1213670 kodlu Yönetim Bilgi Sistemlerine Giriş dersi; organizasyonlarda bilgi sistemlerinin rolü ve yönetim uygulamalarını öğretir. 6. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Yönetim Bilgi Sistemlerine Giriş hangi dönemde veriliyor?",
+      "1213670 dersi nedir?"
+    ],
+    "keywords": [
+      "yönetim",
+      "bilgi",
+      "sistemleri",
+      "1213670",
+      "6. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213674_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Python Programlamaya Giriş (1213674)",
+    "canonical_question": "Python Programlamaya Giriş dersinin amacı nedir?",
+    "answer_short": "Python dilinin temel sözdizimi, veri yapıları ve uygulama alanlarını öğretir.",
+    "answer_full": "1213674 kodlu Python Programlamaya Giriş dersi; python dilinin temel sözdizimi, veri yapıları ve uygulama alanlarını öğretir. 6. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Python Programlamaya Giriş hangi dönemde veriliyor?",
+      "1213674 dersi nedir?"
+    ],
+    "keywords": [
+      "python",
+      "programlama",
+      "1213674",
+      "6. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213695_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Veri Biliminin Temelleri (1213695)",
+    "canonical_question": "Veri Biliminin Temelleri dersinin amacı nedir?",
+    "answer_short": "Veri analizi, istatistik ve makine öğrenmesine giriş konularını öğretir.",
+    "answer_full": "1213695 kodlu Veri Biliminin Temelleri dersi; veri analizi, istatistik ve makine öğrenmesine giriş konularını öğretir. 6. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Veri Biliminin Temelleri hangi dönemde veriliyor?",
+      "1213695 dersi nedir?"
+    ],
+    "keywords": [
+      "veri",
+      "bilimi",
+      "1213695",
+      "6. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213760_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Biyomedikal Veri İşleme Teknikleri (1213760)",
+    "canonical_question": "Biyomedikal Veri İşleme Teknikleri dersinin amacı nedir?",
+    "answer_short": "Tıbbi sinyallerin ve görüntülerin sayısal işlenmesi yöntemlerini öğretir.",
+    "answer_full": "1213760 kodlu Biyomedikal Veri İşleme Teknikleri dersi; tıbbi sinyallerin ve görüntülerin sayısal işlenmesi yöntemlerini öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Biyomedikal Veri İşleme Teknikleri hangi dönemde veriliyor?",
+      "1213760 dersi nedir?"
+    ],
+    "keywords": [
+      "biyomedikal",
+      "veri",
+      "işleme",
+      "1213760",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213761_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Sayısal Görüntü İşleme (1213761)",
+    "canonical_question": "Sayısal Görüntü İşleme dersinin amacı nedir?",
+    "answer_short": "Dijital görüntülerin iyileştirilmesi, sıkıştırılması ve analizini öğretir.",
+    "answer_full": "1213761 kodlu Sayısal Görüntü İşleme dersi; dijital görüntülerin iyileştirilmesi, sıkıştırılması ve analizini öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Sayısal Görüntü İşleme hangi dönemde veriliyor?",
+      "1213761 dersi nedir?"
+    ],
+    "keywords": [
+      "sayısal",
+      "görüntü",
+      "işleme",
+      "1213761",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213762_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Multimedya Sistemleri (1213762)",
+    "canonical_question": "Multimedya Sistemleri dersinin amacı nedir?",
+    "answer_short": "Ses, görüntü ve video verilerinin işlenmesi ve iletilmesi konularını öğretir.",
+    "answer_full": "1213762 kodlu Multimedya Sistemleri dersi; ses, görüntü ve video verilerinin işlenmesi ve iletilmesi konularını öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Multimedya Sistemleri hangi dönemde veriliyor?",
+      "1213762 dersi nedir?"
+    ],
+    "keywords": [
+      "multimedya",
+      "sistemleri",
+      "1213762",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213763_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Ağ Programcılığı (1213763)",
+    "canonical_question": "Ağ Programcılığı dersinin amacı nedir?",
+    "answer_short": "Socket programlama ve ağ uygulamaları geliştirme tekniklerini öğretir.",
+    "answer_full": "1213763 kodlu Ağ Programcılığı dersi; socket programlama ve ağ uygulamaları geliştirme tekniklerini öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Ağ Programcılığı hangi dönemde veriliyor?",
+      "1213763 dersi nedir?"
+    ],
+    "keywords": [
+      "ağ",
+      "programcılığı",
+      "1213763",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213764_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "XML ve Web Servisleri (1213764)",
+    "canonical_question": "XML ve Web Servisleri dersinin amacı nedir?",
+    "answer_short": "XML teknolojileri, REST ve SOAP web servisleri konularını öğretir.",
+    "answer_full": "1213764 kodlu XML ve Web Servisleri dersi; xml teknolojileri, rest ve soap web servisleri konularını öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "XML ve Web Servisleri hangi dönemde veriliyor?",
+      "1213764 dersi nedir?"
+    ],
+    "keywords": [
+      "xml",
+      "web",
+      "servisleri",
+      "1213764",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213765_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Semantik Web (1213765)",
+    "canonical_question": "Semantik Web dersinin amacı nedir?",
+    "answer_short": "Ontolojiler, RDF, OWL ve bağlantılı veri teknolojilerini öğretir.",
+    "answer_full": "1213765 kodlu Semantik Web dersi; ontolojiler, rdf, owl ve bağlantılı veri teknolojilerini öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Semantik Web hangi dönemde veriliyor?",
+      "1213765 dersi nedir?"
+    ],
+    "keywords": [
+      "semantik",
+      "web",
+      "1213765",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213767_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Sistem Programlama (1213767)",
+    "canonical_question": "Sistem Programlama dersinin amacı nedir?",
+    "answer_short": "İşletim sistemi düzeyinde C programlama ve sistem çağrılarını öğretir.",
+    "answer_full": "1213767 kodlu Sistem Programlama dersi; i̇şletim sistemi düzeyinde c programlama ve sistem çağrılarını öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Sistem Programlama hangi dönemde veriliyor?",
+      "1213767 dersi nedir?"
+    ],
+    "keywords": [
+      "sistem",
+      "programlama",
+      "1213767",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213768_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "VLSI Devre Tasarımı (1213768)",
+    "canonical_question": "VLSI Devre Tasarımı dersinin amacı nedir?",
+    "answer_short": "Çok büyük ölçekli tümleşik devre tasarım yöntemlerini öğretir.",
+    "answer_full": "1213768 kodlu VLSI Devre Tasarımı dersi; çok büyük ölçekli tümleşik devre tasarım yöntemlerini öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "VLSI Devre Tasarımı hangi dönemde veriliyor?",
+      "1213768 dersi nedir?"
+    ],
+    "keywords": [
+      "vlsi",
+      "devre",
+      "tasarımı",
+      "1213768",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213770_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Gömülü Sistemler (1213770)",
+    "canonical_question": "Gömülü Sistemler dersinin amacı nedir?",
+    "answer_short": "Gerçek zamanlı işletim sistemleri ve gömülü donanım-yazılım entegrasyonunu öğretir.",
+    "answer_full": "1213770 kodlu Gömülü Sistemler dersi; gerçek zamanlı işletim sistemleri ve gömülü donanım-yazılım entegrasyonunu öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Gömülü Sistemler hangi dönemde veriliyor?",
+      "1213770 dersi nedir?"
+    ],
+    "keywords": [
+      "gömülü",
+      "sistemler",
+      "1213770",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213771_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Uzman Sistemler (1213771)",
+    "canonical_question": "Uzman Sistemler dersinin amacı nedir?",
+    "answer_short": "Bilgi tabanlı sistemler ve kural motorları kullanarak uzman sistem geliştirmeyi öğretir.",
+    "answer_full": "1213771 kodlu Uzman Sistemler dersi; bilgi tabanlı sistemler ve kural motorları kullanarak uzman sistem geliştirmeyi öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Uzman Sistemler hangi dönemde veriliyor?",
+      "1213771 dersi nedir?"
+    ],
+    "keywords": [
+      "uzman",
+      "sistemler",
+      "1213771",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213772_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Yapay Sinir Ağlarına Giriş (1213772)",
+    "canonical_question": "Yapay Sinir Ağlarına Giriş dersinin amacı nedir?",
+    "answer_short": "Yapay sinir ağlarının temel yapıları ve öğrenme algoritmalarını öğretir.",
+    "answer_full": "1213772 kodlu Yapay Sinir Ağlarına Giriş dersi; yapay sinir ağlarının temel yapıları ve öğrenme algoritmalarını öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Yapay Sinir Ağlarına Giriş hangi dönemde veriliyor?",
+      "1213772 dersi nedir?"
+    ],
+    "keywords": [
+      "yapay",
+      "sinir",
+      "ağları",
+      "1213772",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213773_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Evrimsel Hesaplamaya Giriş (1213773)",
+    "canonical_question": "Evrimsel Hesaplamaya Giriş dersinin amacı nedir?",
+    "answer_short": "Genetik algoritmalar ve sürü zekası gibi doğadan esinlenen optimizasyon yöntemlerini öğretir.",
+    "answer_full": "1213773 kodlu Evrimsel Hesaplamaya Giriş dersi; genetik algoritmalar ve sürü zekası gibi doğadan esinlenen optimizasyon yöntemlerini öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Evrimsel Hesaplamaya Giriş hangi dönemde veriliyor?",
+      "1213773 dersi nedir?"
+    ],
+    "keywords": [
+      "evrimsel",
+      "hesaplama",
+      "1213773",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213774_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Nesneye Yönelik Tasarım ve Analiz (1213774)",
+    "canonical_question": "Nesneye Yönelik Tasarım ve Analiz dersinin amacı nedir?",
+    "answer_short": "UML ile yazılım tasarım örüntüleri ve nesneye yönelik analiz yöntemlerini öğretir.",
+    "answer_full": "1213774 kodlu Nesneye Yönelik Tasarım ve Analiz dersi; uml ile yazılım tasarım örüntüleri ve nesneye yönelik analiz yöntemlerini öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Nesneye Yönelik Tasarım ve Analiz hangi dönemde veriliyor?",
+      "1213774 dersi nedir?"
+    ],
+    "keywords": [
+      "nesneye",
+      "yönelik",
+      "tasarım",
+      "analiz",
+      "1213774",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213775_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Doğal Dil İşlemeye Giriş (1213775)",
+    "canonical_question": "Doğal Dil İşlemeye Giriş dersinin amacı nedir?",
+    "answer_short": "Metin analizi, dil modelleri ve NLP uygulamalarının temellerini öğretir.",
+    "answer_full": "1213775 kodlu Doğal Dil İşlemeye Giriş dersi; metin analizi, dil modelleri ve nlp uygulamalarının temellerini öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Doğal Dil İşlemeye Giriş hangi dönemde veriliyor?",
+      "1213775 dersi nedir?"
+    ],
+    "keywords": [
+      "doğal",
+      "dil",
+      "işleme",
+      "nlp",
+      "1213775",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213776_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Veri Tabanı II (1213776)",
+    "canonical_question": "Veri Tabanı II dersinin amacı nedir?",
+    "answer_short": "İleri SQL, NoSQL sistemleri ve veritabanı performans optimizasyonunu öğretir.",
+    "answer_full": "1213776 kodlu Veri Tabanı II dersi; i̇leri sql, nosql sistemleri ve veritabanı performans optimizasyonunu öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Veri Tabanı II hangi dönemde veriliyor?",
+      "1213776 dersi nedir?"
+    ],
+    "keywords": [
+      "veri",
+      "tabanı",
+      "II",
+      "1213776",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213777_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Bulut Bilişime Giriş (1213777)",
+    "canonical_question": "Bulut Bilişime Giriş dersinin amacı nedir?",
+    "answer_short": "Cloud computing mimarileri, servis modelleri ve bulut platformlarını öğretir.",
+    "answer_full": "1213777 kodlu Bulut Bilişime Giriş dersi; cloud computing mimarileri, servis modelleri ve bulut platformlarını öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Bulut Bilişime Giriş hangi dönemde veriliyor?",
+      "1213777 dersi nedir?"
+    ],
+    "keywords": [
+      "bulut",
+      "bilişim",
+      "1213777",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213793_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Oyun Programlama (1213793)",
+    "canonical_question": "Oyun Programlama dersinin amacı nedir?",
+    "answer_short": "Oyun motoru yapıları, fizik simülasyonu ve oyun geliştirme süreçlerini öğretir.",
+    "answer_full": "1213793 kodlu Oyun Programlama dersi; oyun motoru yapıları, fizik simülasyonu ve oyun geliştirme süreçlerini öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Oyun Programlama hangi dönemde veriliyor?",
+      "1213793 dersi nedir?"
+    ],
+    "keywords": [
+      "oyun",
+      "programlama",
+      "1213793",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213794_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Temel Öğrenme Algoritmaları (1213794)",
+    "canonical_question": "Temel Öğrenme Algoritmaları dersinin amacı nedir?",
+    "answer_short": "Gözetimli ve gözetimsiz makine öğrenmesi algoritmalarını öğretir.",
+    "answer_full": "1213794 kodlu Temel Öğrenme Algoritmaları dersi; gözetimli ve gözetimsiz makine öğrenmesi algoritmalarını öğretir. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Temel Öğrenme Algoritmaları hangi dönemde veriliyor?",
+      "1213794 dersi nedir?"
+    ],
+    "keywords": [
+      "temel",
+      "öğrenme",
+      "algoritmaları",
+      "makine",
+      "öğrenmesi",
+      "1213794",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213795_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Uygulamalı Veri Bilimi (1213795)",
+    "canonical_question": "Uygulamalı Veri Bilimi dersinin amacı nedir?",
+    "answer_short": "Gerçek veri setleri üzerinde veri analizi, görselleştirme ve modelleme uygulamalarını kapsar.",
+    "answer_full": "1213795 kodlu Uygulamalı Veri Bilimi dersi; gerçek veri setleri üzerinde veri analizi, görselleştirme ve modelleme uygulamalarını kapsar. 7. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Uygulamalı Veri Bilimi hangi dönemde veriliyor?",
+      "1213795 dersi nedir?"
+    ],
+    "keywords": [
+      "uygulamalı",
+      "veri",
+      "bilimi",
+      "1213795",
+      "7. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213860_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Tıp Bilişimine Giriş (1213860)",
+    "canonical_question": "Tıp Bilişimine Giriş dersinin amacı nedir?",
+    "answer_short": "Sağlık bilişimi, elektronik sağlık kayıtları ve klinik karar destek sistemlerini öğretir.",
+    "answer_full": "1213860 kodlu Tıp Bilişimine Giriş dersi; sağlık bilişimi, elektronik sağlık kayıtları ve klinik karar destek sistemlerini öğretir. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Tıp Bilişimine Giriş hangi dönemde veriliyor?",
+      "1213860 dersi nedir?"
+    ],
+    "keywords": [
+      "tıp",
+      "bilişimi",
+      "1213860",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213861_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Biyoinformatik (1213861)",
+    "canonical_question": "Biyoinformatik dersinin amacı nedir?",
+    "answer_short": "DNA/RNA dizileme, protein yapı analizi ve biyolojik veri işleme yöntemlerini öğretir.",
+    "answer_full": "1213861 kodlu Biyoinformatik dersi; dna/rna dizileme, protein yapı analizi ve biyolojik veri işleme yöntemlerini öğretir. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Biyoinformatik hangi dönemde veriliyor?",
+      "1213861 dersi nedir?"
+    ],
+    "keywords": [
+      "biyoinformatik",
+      "1213861",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213862_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Bilgisayarla Görmeye Giriş (1213862)",
+    "canonical_question": "Bilgisayarla Görmeye Giriş dersinin amacı nedir?",
+    "answer_short": "Nesne tanıma, özellik çıkarımı ve derin öğrenme tabanlı görü algoritmalarını öğretir.",
+    "answer_full": "1213862 kodlu Bilgisayarla Görmeye Giriş dersi; nesne tanıma, özellik çıkarımı ve derin öğrenme tabanlı görü algoritmalarını öğretir. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Bilgisayarla Görmeye Giriş hangi dönemde veriliyor?",
+      "1213862 dersi nedir?"
+    ],
+    "keywords": [
+      "bilgisayarla",
+      "görme",
+      "1213862",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213863_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Mobil Hesaplama (1213863)",
+    "canonical_question": "Mobil Hesaplama dersinin amacı nedir?",
+    "answer_short": "Kablosuz ağlar, konum tabanlı servisler ve mobil uygulama mimarilerini öğretir.",
+    "answer_full": "1213863 kodlu Mobil Hesaplama dersi; kablosuz ağlar, konum tabanlı servisler ve mobil uygulama mimarilerini öğretir. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Mobil Hesaplama hangi dönemde veriliyor?",
+      "1213863 dersi nedir?"
+    ],
+    "keywords": [
+      "mobil",
+      "hesaplama",
+      "1213863",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213864_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Bilgisayar ve Ağ Güvenliği (1213864)",
+    "canonical_question": "Bilgisayar ve Ağ Güvenliği dersinin amacı nedir?",
+    "answer_short": "Saldırı türleri, güvenlik protokolleri ve ağ savunma yöntemlerini öğretir.",
+    "answer_full": "1213864 kodlu Bilgisayar ve Ağ Güvenliği dersi; saldırı türleri, güvenlik protokolleri ve ağ savunma yöntemlerini öğretir. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Bilgisayar ve Ağ Güvenliği hangi dönemde veriliyor?",
+      "1213864 dersi nedir?"
+    ],
+    "keywords": [
+      "bilgisayar",
+      "ağ",
+      "güvenliği",
+      "1213864",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213865_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Gezgin ve Kablosuz Ağlar (1213865)",
+    "canonical_question": "Gezgin ve Kablosuz Ağlar dersinin amacı nedir?",
+    "answer_short": "Mobil ağ protokolleri, WiFi, Bluetooth ve hücresel ağ teknolojilerini öğretir.",
+    "answer_full": "1213865 kodlu Gezgin ve Kablosuz Ağlar dersi; mobil ağ protokolleri, wifi, bluetooth ve hücresel ağ teknolojilerini öğretir. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Gezgin ve Kablosuz Ağlar hangi dönemde veriliyor?",
+      "1213865 dersi nedir?"
+    ],
+    "keywords": [
+      "gezgin",
+      "kablosuz",
+      "ağlar",
+      "1213865",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213866_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Dağıtık Sistemler (1213866)",
+    "canonical_question": "Dağıtık Sistemler dersinin amacı nedir?",
+    "answer_short": "Dağıtık hesaplama modelleri, tutarlılık protokolleri ve ölçeklenebilir sistemleri öğretir.",
+    "answer_full": "1213866 kodlu Dağıtık Sistemler dersi; dağıtık hesaplama modelleri, tutarlılık protokolleri ve ölçeklenebilir sistemleri öğretir. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Dağıtık Sistemler hangi dönemde veriliyor?",
+      "1213866 dersi nedir?"
+    ],
+    "keywords": [
+      "dağıtık",
+      "sistemler",
+      "1213866",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213868_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Derleyici Tasarımı (1213868)",
+    "canonical_question": "Derleyici Tasarımı dersinin amacı nedir?",
+    "answer_short": "Sözcüksel analiz, sözdizimi analizi ve kod üretimi konularını öğretir.",
+    "answer_full": "1213868 kodlu Derleyici Tasarımı dersi; sözcüksel analiz, sözdizimi analizi ve kod üretimi konularını öğretir. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Derleyici Tasarımı hangi dönemde veriliyor?",
+      "1213868 dersi nedir?"
+    ],
+    "keywords": [
+      "derleyici",
+      "tasarımı",
+      "1213868",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213869_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "FPGA ile Sayısal Devre Tasarımı (1213869)",
+    "canonical_question": "FPGA ile Sayısal Devre Tasarımı dersinin amacı nedir?",
+    "answer_short": "FPGA programlama ve donanım tanımlama dilleriyle sayısal devre tasarımını öğretir.",
+    "answer_full": "1213869 kodlu FPGA ile Sayısal Devre Tasarımı dersi; fpga programlama ve donanım tanımlama dilleriyle sayısal devre tasarımını öğretir. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "FPGA ile Sayısal Devre Tasarımı hangi dönemde veriliyor?",
+      "1213869 dersi nedir?"
+    ],
+    "keywords": [
+      "fpga",
+      "sayısal",
+      "devre",
+      "1213869",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213870_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Bulanık Mantığın Temelleri (1213870)",
+    "canonical_question": "Bulanık Mantığın Temelleri dersinin amacı nedir?",
+    "answer_short": "Bulanık küme teorisi ve bulanık mantık tabanlı karar sistemlerini öğretir.",
+    "answer_full": "1213870 kodlu Bulanık Mantığın Temelleri dersi; bulanık küme teorisi ve bulanık mantık tabanlı karar sistemlerini öğretir. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Bulanık Mantığın Temelleri hangi dönemde veriliyor?",
+      "1213870 dersi nedir?"
+    ],
+    "keywords": [
+      "bulanık",
+      "mantık",
+      "1213870",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213871_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Örüntü Tanımaya Giriş (1213871)",
+    "canonical_question": "Örüntü Tanımaya Giriş dersinin amacı nedir?",
+    "answer_short": "İstatistiksel ve yapay zeka tabanlı örüntü sınıflandırma yöntemlerini öğretir.",
+    "answer_full": "1213871 kodlu Örüntü Tanımaya Giriş dersi; i̇statistiksel ve yapay zeka tabanlı örüntü sınıflandırma yöntemlerini öğretir. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Örüntü Tanımaya Giriş hangi dönemde veriliyor?",
+      "1213871 dersi nedir?"
+    ],
+    "keywords": [
+      "örüntü",
+      "tanıma",
+      "1213871",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213872_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Bilgi Mühendisliğine Giriş (1213872)",
+    "canonical_question": "Bilgi Mühendisliğine Giriş dersinin amacı nedir?",
+    "answer_short": "Bilgi temsili, ontoloji mühendisliği ve akıllı sistem tasarımını öğretir.",
+    "answer_full": "1213872 kodlu Bilgi Mühendisliğine Giriş dersi; bilgi temsili, ontoloji mühendisliği ve akıllı sistem tasarımını öğretir. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Bilgi Mühendisliğine Giriş hangi dönemde veriliyor?",
+      "1213872 dersi nedir?"
+    ],
+    "keywords": [
+      "bilgi",
+      "mühendisliği",
+      "1213872",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213873_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Simülasyon ve Modelleme (1213873)",
+    "canonical_question": "Simülasyon ve Modelleme dersinin amacı nedir?",
+    "answer_short": "Sistem modellemesi, simülasyon teknikleri ve sonuç analizini öğretir.",
+    "answer_full": "1213873 kodlu Simülasyon ve Modelleme dersi; sistem modellemesi, simülasyon teknikleri ve sonuç analizini öğretir. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Simülasyon ve Modelleme hangi dönemde veriliyor?",
+      "1213873 dersi nedir?"
+    ],
+    "keywords": [
+      "simülasyon",
+      "modelleme",
+      "1213873",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213874_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Algoritma Analizi (1213874)",
+    "canonical_question": "Algoritma Analizi dersinin amacı nedir?",
+    "answer_short": "Algoritmaların karmaşıklık analizi ve ileri tasarım tekniklerini kapsar.",
+    "answer_full": "1213874 kodlu Algoritma Analizi dersi; algoritmaların karmaşıklık analizi ve ileri tasarım tekniklerini kapsar. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Algoritma Analizi hangi dönemde veriliyor?",
+      "1213874 dersi nedir?"
+    ],
+    "keywords": [
+      "algoritma",
+      "analizi",
+      "1213874",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213875_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Bilgi Güvenliği (1213875)",
+    "canonical_question": "Bilgi Güvenliği dersinin amacı nedir?",
+    "answer_short": "Kriptografi, erişim kontrolü ve güvenli yazılım geliştirme prensiplerini öğretir.",
+    "answer_full": "1213875 kodlu Bilgi Güvenliği dersi; kriptografi, erişim kontrolü ve güvenli yazılım geliştirme prensiplerini öğretir. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Bilgi Güvenliği hangi dönemde veriliyor?",
+      "1213875 dersi nedir?"
+    ],
+    "keywords": [
+      "bilgi",
+      "güvenliği",
+      "1213875",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_1213876_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Paralel Sistemler ve Programlama (1213876)",
+    "canonical_question": "Paralel Sistemler ve Programlama dersinin amacı nedir?",
+    "answer_short": "Çok çekirdekli ve çok işlemcili sistemlerde paralel algoritma tasarımını öğretir.",
+    "answer_full": "1213876 kodlu Paralel Sistemler ve Programlama dersi; çok çekirdekli ve çok işlemcili sistemlerde paralel algoritma tasarımını öğretir. 8. dönem seçmeli olarak sunulur, 4 AKTS taşır.",
+    "question_variants": [
+      "Paralel Sistemler ve Programlama hangi dönemde veriliyor?",
+      "1213876 dersi nedir?"
+    ],
+    "keywords": [
+      "paralel",
+      "sistemler",
+      "programlama",
+      "1213876",
+      "8. dönem",
+      "seçmeli"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_onşart_genel_001",
+    "category": "bolum_dersleri",
+    "subcategory": "bagli_dersler",
+    "topic": "Önşart Sistemi Genel",
+    "canonical_question": "Önşartlı bir dersi almak için ne yapmalıyım?",
+    "answer_short": "Önşart dersini geçmiş olmanız gerekir; aksi halde sisteme kayıt yaptıramazsınız.",
+    "answer_full": "KTÜN Bilgisayar Mühendisliği'nde bazı dersler diğer derslerin önşartıdır. Önşartlı bir derse kayıt yaptırabilmek için önşart olan dersi başarıyla geçmiş olmanız (FF veya DZ almamış olmanız) gerekir. Önşart kontrolü OBS tarafından otomatik yapılır. Örneğin Veri Yapıları'nı almak için Algoritma ve Programlama I veya II'yi, Yazılım Mühendisliği'ni almak için Veri Yapıları'nı geçmiş olmanız gerekir.",
+    "question_variants": [
+      "Önşart nedir?",
+      "Önşart dersini geçemezsem ne olur?",
+      "OBS önşart dersimi kontrol eder mi?"
+    ],
+    "keywords": [
+      "önşart",
+      "kayıt",
+      "obs",
+      "ders alma koşulu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_secmeli_genel_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_donemi",
+    "topic": "Teknik Seçmeli Dersler Genel",
+    "canonical_question": "Teknik seçmeli dersler nasıl seçilir?",
+    "answer_short": "Her dönem bölüm tarafından açılan seçmeli dersler arasından OBS üzerinden seçim yapılır.",
+    "answer_full": "KTÜN BM bölümünde 5. dönemden itibaren teknik seçmeli dersler bulunmaktadır. Her dönem hangi seçmeli derslerin açılacağı bölüm tarafından belirlenir; tüm seçmeli dersler her dönem açılmayabilir. Seçim işlemi OBS üzerinden ders kayıt döneminde yapılır. Hangi derslerin açıldığını öğrenmek için bölüm duyurularını ve OBS'yi takip etmeniz gerekir.",
+    "question_variants": [
+      "Hangi seçmeli dersler açık bu dönem?",
+      "Seçmeli ders seçimi ne zaman yapılır?",
+      "Tüm seçmeli dersler her dönem açılıyor mu?"
+    ],
+    "keywords": [
+      "seçmeli ders",
+      "teknik seçmeli",
+      "obs",
+      "ders kaydı"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_ders_icerigi_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_icerigi",
+    "topic": "Ders İçerikleri Genel",
+    "canonical_question": "Derslerin haftalık içeriklerine nereden ulaşabilirim?",
+    "answer_short": "Derslerin ayrıntılı haftalık içeriklerine bölüm web sitesindeki ders bilgi formlarından ulaşabilirsiniz.",
+    "answer_full": "KTÜN Bilgisayar Mühendisliği Bölümü'nün tüm derslerine ait haftalık ders planları ve öğrenme çıktıları bölüm web sitesinde yer almaktadır. bm.ktun.edu.tr adresinden 'Dersler' bölümüne girerek ilgili dersin AKTS formuna ulaşabilirsiniz.",
+    "question_variants": [
+      "Ders içeriklerine nasıl ulaşırım?",
+      "AKTS formu nerede?",
+      "Dersin konularını nereden görebilirim?"
+    ],
+    "keywords": [
+      "ders içeriği",
+      "akts formu",
+      "haftalık plan",
+      "bölüm sitesi"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_toplam_ders_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_donemi",
+    "topic": "Müfredat Genel",
+    "canonical_question": "Bilgisayar Mühendisliği lisans programı kaç yıl ve kaç dönemden oluşuyor?",
+    "answer_short": "Program 4 yıl (8 dönem) olup zorunlu ve teknik seçmeli derslerden oluşur.",
+    "answer_full": "KTÜN Bilgisayar Mühendisliği Bölümü lisans programı 4 yıl (8 dönem) sürmektedir. Zorunlu dersler 1-6. dönemlerde yoğunlaşırken, 7. ve 8. dönemlerde ağırlıklı olarak teknik seçmeli dersler ve bitirme projesi (BM Uygulaması I ve II) yer almaktadır. Mezun olabilmek için toplamda 240 AKTS tamamlanması gerekir.",
+    "question_variants": [
+      "BM bölümü kaç yıl?",
+      "Kaçıncı dönemde bitirme projesi alınır?",
+      "Mezun olmak için kaç AKTS gerekir?"
+    ],
+    "keywords": [
+      "müfredat",
+      "4 yıl",
+      "8 dönem",
+      "akts",
+      "mezuniyet"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-13"
+  },
+  {
+    "id": "bolum_dersleri_turkdili1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Türk Dili ve Edebiyatı I (1213121)",
+    "canonical_question": "Türk Dili ve Edebiyatı I dersinin amacı nedir?",
+    "answer_short": "Türkçeyi doğru ve etkili kullanma becerisini geliştirir.",
+    "answer_full": "1213121 kodlu Türk Dili ve Edebiyatı I; Türkçenin yapısı, yazım kuralları, anlatım bozuklukları ve metin türleri konularını kapsar. 1. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
+    "question_variants": [
+      "Türk Dili 1 ne işliyor?",
+      "1. dönemde Türkçe dersi var mı?",
+      "Türk dili dersi zorunlu mu?"
+    ],
+    "keywords": [
+      "türk dili",
+      "edebiyat",
+      "1213121",
+      "1. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_ataturk1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Atatürk İlkeleri ve İnkılap Tarihi I (1213122)",
+    "canonical_question": "Atatürk İlkeleri ve İnkılap Tarihi I dersinin amacı nedir?",
+    "answer_short": "Türk Kurtuluş Savaşı ve Cumhuriyet'in kuruluş sürecini öğretir.",
+    "answer_full": "1213122 kodlu Atatürk İlkeleri ve İnkılap Tarihi I; Osmanlı'nın çöküşü, Kurtuluş Savaşı ve Cumhuriyet'in ilanı süreçlerini kapsar. 1. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
+    "question_variants": [
+      "Atatürk dersi 1. dönemde mi?",
+      "İnkılap tarihi zorunlu mu?",
+      "1213122 hangi dönem?"
+    ],
+    "keywords": [
+      "atatürk",
+      "inkılap tarihi",
+      "1213122",
+      "1. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_fizik1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Fizik I (1213130)",
+    "canonical_question": "Fizik I dersinin amacı nedir?",
+    "answer_short": "Mekanik, kinematik ve dinamik gibi klasik fizik konularını öğretir.",
+    "answer_full": "1213130 kodlu Fizik I; hareket, kuvvet, enerji, momentum ve dönme hareketi konularını kapsar. Mühendislik uygulamalarında fizik temeli oluşturmayı hedefler. 1. dönemde zorunlu ders olarak alınır, 5 AKTS taşır.",
+    "question_variants": [
+      "Fizik 1 ne işliyor?",
+      "1. dönemde fizik var mı?",
+      "Fizik I kaç AKTS?",
+      "fizik dersi zorunlu mu"
+    ],
+    "keywords": [
+      "fizik",
+      "mekanik",
+      "1213130",
+      "1. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_iss1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "İş Sağlığı ve Güvenliği I (1213157)",
+    "canonical_question": "İş Sağlığı ve Güvenliği I dersinin amacı nedir?",
+    "answer_short": "İş kazaları, meslek hastalıkları ve güvenli çalışma ortamı konularını öğretir.",
+    "answer_full": "1213157 kodlu İş Sağlığı ve Güvenliği I; iş kazası türleri, risk değerlendirmesi, kişisel koruyucu ekipmanlar ve yasal düzenlemeler konularını kapsar. 1. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
+    "question_variants": [
+      "İSG dersi nedir?",
+      "İş sağlığı 1. dönemde mi?",
+      "1213157 zorunlu mu?"
+    ],
+    "keywords": [
+      "iş sağlığı",
+      "güvenlik",
+      "isg",
+      "1213157",
+      "1. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_ingilizce1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "İngilizce I (1213131)",
+    "canonical_question": "İngilizce I dersinin amacı nedir?",
+    "answer_short": "Temel İngilizce okuma, yazma ve anlama becerilerini geliştirir.",
+    "answer_full": "1213131 kodlu İngilizce I; okuma anlama, kelime bilgisi ve temel İngilizce yazım konularını kapsar. 1. dönemde zorunlu ders olarak alınır, 3 AKTS taşır.",
+    "question_variants": [
+      "İngilizce 1 ne işliyor?",
+      "1. dönemde ingilizce var mı?",
+      "1213131 dersi nedir?"
+    ],
+    "keywords": [
+      "ingilizce",
+      "1213131",
+      "1. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_matematik2_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Matematik II (1213201)",
+    "canonical_question": "Matematik II dersinin amacı nedir?",
+    "answer_short": "Çok değişkenli fonksiyonlar, diziler ve seriler gibi ileri analiz konularını öğretir.",
+    "answer_full": "1213201 kodlu Matematik II; çok değişkenli türev ve integral, vektörel analiz, sonsuz seriler konularını kapsar. Matematik I'in devamıdır. 2. dönemde zorunlu ders olarak alınır, 7 AKTS taşır.",
+    "question_variants": [
+      "Matematik 2 ne işliyor?",
+      "2. dönemde matematik var mı?",
+      "Mat 2 kaç akts?",
+      "matematik 2 zorunlu mu"
+    ],
+    "keywords": [
+      "matematik",
+      "analiz",
+      "1213201",
+      "2. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_turkdili2_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Türk Dili ve Edebiyatı II (1213221)",
+    "canonical_question": "Türk Dili ve Edebiyatı II dersinin amacı nedir?",
+    "answer_short": "Akademik yazma ve sözlü anlatım becerilerini geliştirir.",
+    "answer_full": "1213221 kodlu Türk Dili ve Edebiyatı II; rapor yazımı, sözlü sunum teknikleri ve akademik Türkçe konularını kapsar. 2. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
+    "question_variants": [
+      "Türk Dili 2 ne işliyor?",
+      "2. dönemde Türkçe dersi var mı?",
+      "Türk dili 2 zorunlu mu?"
+    ],
+    "keywords": [
+      "türk dili",
+      "edebiyat",
+      "1213221",
+      "2. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_ataturk2_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Atatürk İlkeleri ve İnkılap Tarihi II (1213222)",
+    "canonical_question": "Atatürk İlkeleri ve İnkılap Tarihi II dersinin amacı nedir?",
+    "answer_short": "Atatürk ilkeleri ve Türkiye Cumhuriyeti'nin gelişim sürecini öğretir.",
+    "answer_full": "1213222 kodlu Atatürk İlkeleri ve İnkılap Tarihi II; Atatürk ilkeleri, çok partili hayata geçiş ve Türkiye'nin modernleşme süreci konularını kapsar. 2. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
+    "question_variants": [
+      "İnkılap tarihi 2 ne işliyor?",
+      "Atatürk dersi 2. dönemde mi?",
+      "1213222 nedir?"
+    ],
+    "keywords": [
+      "atatürk",
+      "inkılap tarihi",
+      "1213222",
+      "2. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_fizik2_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Fizik II (1213230)",
+    "canonical_question": "Fizik II dersinin amacı nedir?",
+    "answer_short": "Elektrik, manyetizma ve elektromanyetik dalga konularını öğretir.",
+    "answer_full": "1213230 kodlu Fizik II; elektrik alanı, manyetik alan, elektromanyetik indüksiyon ve optik konularını kapsar. Fizik I'in devamıdır. 2. dönemde zorunlu ders olarak alınır, 5 AKTS taşır.",
+    "question_variants": [
+      "Fizik 2 ne işliyor?",
+      "2. dönemde fizik var mı?",
+      "Fizik 2 kaç akts?",
+      "fizik 2 zorunlu mu"
+    ],
+    "keywords": [
+      "fizik",
+      "elektrik",
+      "manyetizma",
+      "1213230",
+      "2. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_ingilizce2_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "İngilizce II (1213231)",
+    "canonical_question": "İngilizce II dersinin amacı nedir?",
+    "answer_short": "Teknik İngilizce okuma ve akademik yazım becerilerini geliştirir.",
+    "answer_full": "1213231 kodlu İngilizce II; mesleki ve akademik İngilizce metinlerin anlaşılması ile teknik yazım konularını kapsar. 2. dönemde zorunlu ders olarak alınır, 3 AKTS taşır.",
+    "question_variants": [
+      "İngilizce 2 ne işliyor?",
+      "2. dönemde ingilizce var mı?",
+      "İng 2 zorunlu mu?"
+    ],
+    "keywords": [
+      "ingilizce",
+      "1213231",
+      "2. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_iss2_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "İş Sağlığı ve Güvenliği II (1213248)",
+    "canonical_question": "İş Sağlığı ve Güvenliği II dersinin amacı nedir?",
+    "answer_short": "İleri düzey iş güvenliği uygulamaları ve acil durum yönetimini öğretir.",
+    "answer_full": "1213248 kodlu İş Sağlığı ve Güvenliği II; işyeri tehlike analizi, acil durum planları ve mesleki sağlık yönetimi konularını kapsar. 2. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
+    "question_variants": [
+      "İSG 2 nedir?",
+      "İş sağlığı 2. dönemde mi?",
+      "1213248 zorunlu mu?"
+    ],
+    "keywords": [
+      "iş sağlığı",
+      "güvenlik",
+      "isg",
+      "1213248",
+      "2. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_lineer_cebir_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Lineer Cebir (1213346)",
+    "canonical_question": "Lineer Cebir dersinin amacı nedir?",
+    "answer_short": "Matrisler, vektör uzayları ve lineer dönüşümler konularını öğretir.",
+    "answer_full": "1213346 kodlu Lineer Cebir; matris işlemleri, determinantlar, özvektörler, vektör uzayları ve lineer dönüşümler konularını kapsar. Bilgisayar grafikleri ve makine öğrenmesi gibi alanlarda temel oluşturur. 3. dönemde zorunlu ders olarak alınır, 3 AKTS taşır.",
+    "question_variants": [
+      "Lineer Cebir ne işliyor?",
+      "3. dönemde lineer cebir var mı?",
+      "1213346 kaç akts?",
+      "lineer cebir zorunlu mu"
+    ],
+    "keywords": [
+      "lineer cebir",
+      "matris",
+      "vektör",
+      "1213346",
+      "3. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_temel_elektronik_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Temel Elektronik (1213358)",
+    "canonical_question": "Temel Elektronik dersinin amacı nedir?",
+    "answer_short": "Devre analizi, diyot, transistör ve op-amp gibi temel elektronik bileşenleri öğretir.",
+    "answer_full": "1213358 kodlu Temel Elektronik; Ohm yasası, Kirchhoff kuralları, diyotlar, transistörler ve operasyonel yükselteçler konularını kapsar. 3. dönemde zorunlu ders olarak alınır, 6 AKTS taşır.",
+    "question_variants": [
+      "Temel Elektronik ne işliyor?",
+      "Elektronik dersi 3. dönemde mi?",
+      "1213358 kaç akts?",
+      "temel elektronik zorunlu mu"
+    ],
+    "keywords": [
+      "elektronik",
+      "devre",
+      "transistör",
+      "1213358",
+      "3. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_istatistik_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "İstatistik ve İhtimaller Teorisi (1213457)",
+    "canonical_question": "İstatistik ve İhtimaller Teorisi dersinin amacı nedir?",
+    "answer_short": "Olasılık teorisi, istatistiksel dağılımlar ve veri analizi yöntemlerini öğretir.",
+    "answer_full": "1213457 kodlu İstatistik ve İhtimaller Teorisi; olasılık aksiyomları, koşullu olasılık, Bayes teoremi, binom/Poisson/normal dağılımlar ve istatistiksel tahmin konularını kapsar. Makine öğrenmesi ve veri biliminin matematiksel temelini oluşturur. 4. dönemde zorunlu ders olarak alınır, 5 AKTS taşır.",
+    "question_variants": [
+      "İstatistik dersi ne işliyor?",
+      "4. dönemde istatistik var mı?",
+      "Olasılık dersi zorunlu mu?",
+      "1213457 kaç akts?"
+    ],
+    "keywords": [
+      "istatistik",
+      "olasılık",
+      "ihtimaller",
+      "1213457",
+      "4. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_staj1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Mesleki Staj I (1213546)",
+    "canonical_question": "Mesleki Staj I dersi hangi dönemde ve amacı nedir?",
+    "answer_short": "5. dönemde alınan zorunlu staj dersidir; öğrencilerin sektörde pratik deneyim kazanmasını amaçlar.",
+    "answer_full": "1213546 kodlu Mesleki Staj I, 5. dönemde yer alan 3 AKTS'lik zorunlu bir derstir. Öğrencilerin bir şirket veya kurumda belirli bir süre çalışarak mesleki deneyim kazanmasını hedefler. Stajın süresi, başvuru süreci ve belgeler hakkında ayrıntılı bilgiye staj kategorisinden ulaşabilirsiniz.",
+    "question_variants": [
+      "Staj 1 kaçıncı dönemde?",
+      "Mesleki Staj 1 ne zaman alınır?",
+      "1213546 nedir?",
+      "Staj dersi 5. dönemde mi?"
+    ],
+    "keywords": [
+      "mesleki staj",
+      "staj 1",
+      "1213546",
+      "5. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_staj2_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Mesleki Staj II (1213720)",
+    "canonical_question": "Mesleki Staj II dersi hangi dönemde ve amacı nedir?",
+    "answer_short": "7. dönemde alınan ikinci zorunlu staj dersidir; öğrencilerin daha ileri düzey mesleki deneyim kazanmasını amaçlar.",
+    "answer_full": "1213720 kodlu Mesleki Staj II, 7. dönemde yer alan 3 AKTS'lik zorunlu bir derstir. Mesleki Staj I'in devamı niteliğindedir ve öğrencilerin teknik bilgilerini sektörde pekiştirmesini hedefler. Stajın süresi, başvuru süreci ve belgeler hakkında ayrıntılı bilgiye staj kategorisinden ulaşabilirsiniz.",
+    "question_variants": [
+      "Staj 2 kaçıncı dönemde?",
+      "Mesleki Staj 2 ne zaman alınır?",
+      "1213720 nedir?",
+      "İkinci staj ne zaman yapılır?"
+    ],
+    "keywords": [
+      "mesleki staj",
+      "staj 2",
+      "1213720",
+      "7. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_turkdili1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Türk Dili ve Edebiyatı I (1213121)",
+    "canonical_question": "Türk Dili ve Edebiyatı I dersinin amacı nedir?",
+    "answer_short": "Türkçeyi doğru ve etkili kullanma becerisini geliştirir.",
+    "answer_full": "1213121 kodlu Türk Dili ve Edebiyatı I; Türkçenin yapısı, yazım kuralları, anlatım bozuklukları ve metin türleri konularını kapsar. 1. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
+    "question_variants": [
+      "Türk Dili 1 ne işliyor?",
+      "1. dönemde Türkçe dersi var mı?",
+      "Türk dili dersi zorunlu mu?"
+    ],
+    "keywords": [
+      "türk dili",
+      "edebiyat",
+      "1213121",
+      "1. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_ataturk1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Atatürk İlkeleri ve İnkılap Tarihi I (1213122)",
+    "canonical_question": "Atatürk İlkeleri ve İnkılap Tarihi I dersinin amacı nedir?",
+    "answer_short": "Türk Kurtuluş Savaşı ve Cumhuriyet'in kuruluş sürecini öğretir.",
+    "answer_full": "1213122 kodlu Atatürk İlkeleri ve İnkılap Tarihi I; Osmanlı'nın çöküşü, Kurtuluş Savaşı ve Cumhuriyet'in ilanı süreçlerini kapsar. 1. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
+    "question_variants": [
+      "Atatürk dersi 1. dönemde mi?",
+      "İnkılap tarihi zorunlu mu?",
+      "1213122 hangi dönem?"
+    ],
+    "keywords": [
+      "atatürk",
+      "inkılap tarihi",
+      "1213122",
+      "1. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_fizik1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Fizik I (1213130)",
+    "canonical_question": "Fizik I dersinin amacı nedir?",
+    "answer_short": "Mekanik, kinematik ve dinamik gibi klasik fizik konularını öğretir.",
+    "answer_full": "1213130 kodlu Fizik I; hareket, kuvvet, enerji, momentum ve dönme hareketi konularını kapsar. Mühendislik uygulamalarında fizik temeli oluşturmayı hedefler. 1. dönemde zorunlu ders olarak alınır, 5 AKTS taşır.",
+    "question_variants": [
+      "Fizik 1 ne işliyor?",
+      "1. dönemde fizik var mı?",
+      "Fizik I kaç AKTS?",
+      "fizik dersi zorunlu mu"
+    ],
+    "keywords": [
+      "fizik",
+      "mekanik",
+      "1213130",
+      "1. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_iss1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "İş Sağlığı ve Güvenliği I (1213157)",
+    "canonical_question": "İş Sağlığı ve Güvenliği I dersinin amacı nedir?",
+    "answer_short": "İş kazaları, meslek hastalıkları ve güvenli çalışma ortamı konularını öğretir.",
+    "answer_full": "1213157 kodlu İş Sağlığı ve Güvenliği I; iş kazası türleri, risk değerlendirmesi, kişisel koruyucu ekipmanlar ve yasal düzenlemeler konularını kapsar. 1. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
+    "question_variants": [
+      "İSG dersi nedir?",
+      "İş sağlığı 1. dönemde mi?",
+      "1213157 zorunlu mu?"
+    ],
+    "keywords": [
+      "iş sağlığı",
+      "güvenlik",
+      "isg",
+      "1213157",
+      "1. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_ingilizce1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "İngilizce I (1213131)",
+    "canonical_question": "İngilizce I dersinin amacı nedir?",
+    "answer_short": "Temel İngilizce okuma, yazma ve anlama becerilerini geliştirir.",
+    "answer_full": "1213131 kodlu İngilizce I; okuma anlama, kelime bilgisi ve temel İngilizce yazım konularını kapsar. 1. dönemde zorunlu ders olarak alınır, 3 AKTS taşır.",
+    "question_variants": [
+      "İngilizce 1 ne işliyor?",
+      "1. dönemde ingilizce var mı?",
+      "1213131 dersi nedir?"
+    ],
+    "keywords": [
+      "ingilizce",
+      "1213131",
+      "1. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_matematik2_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Matematik II (1213201)",
+    "canonical_question": "Matematik II dersinin amacı nedir?",
+    "answer_short": "Çok değişkenli fonksiyonlar, diziler ve seriler gibi ileri analiz konularını öğretir.",
+    "answer_full": "1213201 kodlu Matematik II; çok değişkenli türev ve integral, vektörel analiz, sonsuz seriler konularını kapsar. Matematik I'in devamıdır. 2. dönemde zorunlu ders olarak alınır, 7 AKTS taşır.",
+    "question_variants": [
+      "Matematik 2 ne işliyor?",
+      "2. dönemde matematik var mı?",
+      "Mat 2 kaç akts?",
+      "matematik 2 zorunlu mu"
+    ],
+    "keywords": [
+      "matematik",
+      "analiz",
+      "1213201",
+      "2. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_turkdili2_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Türk Dili ve Edebiyatı II (1213221)",
+    "canonical_question": "Türk Dili ve Edebiyatı II dersinin amacı nedir?",
+    "answer_short": "Akademik yazma ve sözlü anlatım becerilerini geliştirir.",
+    "answer_full": "1213221 kodlu Türk Dili ve Edebiyatı II; rapor yazımı, sözlü sunum teknikleri ve akademik Türkçe konularını kapsar. 2. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
+    "question_variants": [
+      "Türk Dili 2 ne işliyor?",
+      "2. dönemde Türkçe dersi var mı?",
+      "Türk dili 2 zorunlu mu?"
+    ],
+    "keywords": [
+      "türk dili",
+      "edebiyat",
+      "1213221",
+      "2. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_ataturk2_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Atatürk İlkeleri ve İnkılap Tarihi II (1213222)",
+    "canonical_question": "Atatürk İlkeleri ve İnkılap Tarihi II dersinin amacı nedir?",
+    "answer_short": "Atatürk ilkeleri ve Türkiye Cumhuriyeti'nin gelişim sürecini öğretir.",
+    "answer_full": "1213222 kodlu Atatürk İlkeleri ve İnkılap Tarihi II; Atatürk ilkeleri, çok partili hayata geçiş ve Türkiye'nin modernleşme süreci konularını kapsar. 2. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
+    "question_variants": [
+      "İnkılap tarihi 2 ne işliyor?",
+      "Atatürk dersi 2. dönemde mi?",
+      "1213222 nedir?"
+    ],
+    "keywords": [
+      "atatürk",
+      "inkılap tarihi",
+      "1213222",
+      "2. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_fizik2_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Fizik II (1213230)",
+    "canonical_question": "Fizik II dersinin amacı nedir?",
+    "answer_short": "Elektrik, manyetizma ve elektromanyetik dalga konularını öğretir.",
+    "answer_full": "1213230 kodlu Fizik II; elektrik alanı, manyetik alan, elektromanyetik indüksiyon ve optik konularını kapsar. Fizik I'in devamıdır. 2. dönemde zorunlu ders olarak alınır, 5 AKTS taşır.",
+    "question_variants": [
+      "Fizik 2 ne işliyor?",
+      "2. dönemde fizik var mı?",
+      "Fizik 2 kaç akts?",
+      "fizik 2 zorunlu mu"
+    ],
+    "keywords": [
+      "fizik",
+      "elektrik",
+      "manyetizma",
+      "1213230",
+      "2. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_ingilizce2_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "İngilizce II (1213231)",
+    "canonical_question": "İngilizce II dersinin amacı nedir?",
+    "answer_short": "Teknik İngilizce okuma ve akademik yazım becerilerini geliştirir.",
+    "answer_full": "1213231 kodlu İngilizce II; mesleki ve akademik İngilizce metinlerin anlaşılması ile teknik yazım konularını kapsar. 2. dönemde zorunlu ders olarak alınır, 3 AKTS taşır.",
+    "question_variants": [
+      "İngilizce 2 ne işliyor?",
+      "2. dönemde ingilizce var mı?",
+      "İng 2 zorunlu mu?"
+    ],
+    "keywords": [
+      "ingilizce",
+      "1213231",
+      "2. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_iss2_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "İş Sağlığı ve Güvenliği II (1213248)",
+    "canonical_question": "İş Sağlığı ve Güvenliği II dersinin amacı nedir?",
+    "answer_short": "İleri düzey iş güvenliği uygulamaları ve acil durum yönetimini öğretir.",
+    "answer_full": "1213248 kodlu İş Sağlığı ve Güvenliği II; işyeri tehlike analizi, acil durum planları ve mesleki sağlık yönetimi konularını kapsar. 2. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
+    "question_variants": [
+      "İSG 2 nedir?",
+      "İş sağlığı 2. dönemde mi?",
+      "1213248 zorunlu mu?"
+    ],
+    "keywords": [
+      "iş sağlığı",
+      "güvenlik",
+      "isg",
+      "1213248",
+      "2. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_lineer_cebir_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Lineer Cebir (1213346)",
+    "canonical_question": "Lineer Cebir dersinin amacı nedir?",
+    "answer_short": "Matrisler, vektör uzayları ve lineer dönüşümler konularını öğretir.",
+    "answer_full": "1213346 kodlu Lineer Cebir; matris işlemleri, determinantlar, özvektörler, vektör uzayları ve lineer dönüşümler konularını kapsar. Bilgisayar grafikleri ve makine öğrenmesi gibi alanlarda temel oluşturur. 3. dönemde zorunlu ders olarak alınır, 3 AKTS taşır.",
+    "question_variants": [
+      "Lineer Cebir ne işliyor?",
+      "3. dönemde lineer cebir var mı?",
+      "1213346 kaç akts?",
+      "lineer cebir zorunlu mu"
+    ],
+    "keywords": [
+      "lineer cebir",
+      "matris",
+      "vektör",
+      "1213346",
+      "3. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_temel_elektronik_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Temel Elektronik (1213358)",
+    "canonical_question": "Temel Elektronik dersinin amacı nedir?",
+    "answer_short": "Devre analizi, diyot, transistör ve op-amp gibi temel elektronik bileşenleri öğretir.",
+    "answer_full": "1213358 kodlu Temel Elektronik; Ohm yasası, Kirchhoff kuralları, diyotlar, transistörler ve operasyonel yükselteçler konularını kapsar. 3. dönemde zorunlu ders olarak alınır, 6 AKTS taşır.",
+    "question_variants": [
+      "Temel Elektronik ne işliyor?",
+      "Elektronik dersi 3. dönemde mi?",
+      "1213358 kaç akts?",
+      "temel elektronik zorunlu mu"
+    ],
+    "keywords": [
+      "elektronik",
+      "devre",
+      "transistör",
+      "1213358",
+      "3. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_istatistik_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "İstatistik ve İhtimaller Teorisi (1213457)",
+    "canonical_question": "İstatistik ve İhtimaller Teorisi dersinin amacı nedir?",
+    "answer_short": "Olasılık teorisi, istatistiksel dağılımlar ve veri analizi yöntemlerini öğretir.",
+    "answer_full": "1213457 kodlu İstatistik ve İhtimaller Teorisi; olasılık aksiyomları, koşullu olasılık, Bayes teoremi, binom/Poisson/normal dağılımlar ve istatistiksel tahmin konularını kapsar. Makine öğrenmesi ve veri biliminin matematiksel temelini oluşturur. 4. dönemde zorunlu ders olarak alınır, 5 AKTS taşır.",
+    "question_variants": [
+      "İstatistik dersi ne işliyor?",
+      "4. dönemde istatistik var mı?",
+      "Olasılık dersi zorunlu mu?",
+      "1213457 kaç akts?"
+    ],
+    "keywords": [
+      "istatistik",
+      "olasılık",
+      "ihtimaller",
+      "1213457",
+      "4. dönem"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_staj1_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Mesleki Staj I (1213546)",
+    "canonical_question": "Mesleki Staj I dersi hangi dönemde ve amacı nedir?",
+    "answer_short": "5. dönemde alınan zorunlu staj dersidir; öğrencilerin sektörde pratik deneyim kazanmasını amaçlar.",
+    "answer_full": "1213546 kodlu Mesleki Staj I, 5. dönemde yer alan 3 AKTS'lik zorunlu bir derstir. Öğrencilerin bir şirket veya kurumda belirli bir süre çalışarak mesleki deneyim kazanmasını hedefler. Stajın süresi, başvuru süreci ve belgeler hakkında ayrıntılı bilgiye staj kategorisinden ulaşabilirsiniz.",
+    "question_variants": [
+      "Staj 1 kaçıncı dönemde?",
+      "Mesleki Staj 1 ne zaman alınır?",
+      "1213546 nedir?",
+      "Staj dersi 5. dönemde mi?"
+    ],
+    "keywords": [
+      "mesleki staj",
+      "staj 1",
+      "1213546",
+      "5. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "bolum_dersleri_staj2_001",
+    "category": "bolum_dersleri",
+    "subcategory": "ders_amaci",
+    "topic": "Mesleki Staj II (1213720)",
+    "canonical_question": "Mesleki Staj II dersi hangi dönemde ve amacı nedir?",
+    "answer_short": "7. dönemde alınan ikinci zorunlu staj dersidir; öğrencilerin daha ileri düzey mesleki deneyim kazanmasını amaçlar.",
+    "answer_full": "1213720 kodlu Mesleki Staj II, 7. dönemde yer alan 3 AKTS'lik zorunlu bir derstir. Mesleki Staj I'in devamı niteliğindedir ve öğrencilerin teknik bilgilerini sektörde pekiştirmesini hedefler. Stajın süresi, başvuru süreci ve belgeler hakkında ayrıntılı bilgiye staj kategorisinden ulaşabilirsiniz.",
+    "question_variants": [
+      "Staj 2 kaçıncı dönemde?",
+      "Mesleki Staj 2 ne zaman alınır?",
+      "1213720 nedir?",
+      "İkinci staj ne zaman yapılır?"
+    ],
+    "keywords": [
+      "mesleki staj",
+      "staj 2",
+      "1213720",
+      "7. dönem",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_ders_programi_2024_2025",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  }
+]

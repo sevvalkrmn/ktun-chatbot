@@ -1,0 +1,798 @@
+[
+  {
+    "id": "genel_universite_tarihce_001",
+    "category": "genel_universite",
+    "subcategory": "tarihce",
+    "topic": "Üniversite Kuruluşu",
+    "canonical_question": "Konya Teknik Üniversitesi ne zaman kurulmuştur?",
+    "answer_short": "2018 yılında kurulmuştur.",
+    "answer_full": "2018 yılında Selçuk Üniversitesi'nden ayrılarak kurulmuştur. Akademik kökleri 1970 yılında kurulan Konya Devlet Mühendislik Mimarlık Akademisi'ne uzanır.",
+    "question_variants": [
+      "KTÜN hangi tarihte kuruldu?",
+      "Üniversitenin resmi kuruluş yılı nedir?",
+      "Konya Teknik Üniversitesi ne zaman faaliyete başladı?"
+    ],
+    "keywords": ["kuruluş", "tarih", "2018", "yasa"],
+    "source": "KTÜN Resmi Web Sitesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_tarihce_002",
+    "category": "genel_universite",
+    "subcategory": "tarihce",
+    "topic": "Selçuk Üniversitesi İlişkisi",
+    "canonical_question": "Konya Teknik Üniversitesi hangi üniversiteden ayrılarak kurulmuştur?",
+    "answer_short": "Selçuk Üniversitesi.",
+    "answer_full": "2018 yılında Selçuk Üniversitesi'nden ayrılarak yine Konya'da kurulmuştur.",
+    "question_variants": [
+      "KTÜN eskiden hangi üniversiteye bağlıydı?",
+      "Üniversitenin Selçuk Üniversitesi ile bağı nedir?",
+      "Hangi kurumdan bölünerek kurulduk?"
+    ],
+    "keywords": ["Selçuk Üniversitesi", "ayrılma", "kuruluş süreci"],
+    "source": "7141 Sayılı Kanun",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_tarihce_003",
+    "category": "genel_universite",
+    "subcategory": "tarihce",
+    "topic": "Üniversite Misyonu",
+    "canonical_question": "Konya Teknik Üniversitesi'nin temel misyonu nedir?",
+    "answer_short": "Eleştirel düşünen, nitelikli, üretme odaklı bireyler; yerel ve evrensel sorunlara çözümler yaratmak.",
+    "answer_full": "Yenilikçi, girişimci, etik değerlere bağlı ve eleştirel düşünen nitelikli bireyler yetiştirmek; bilgi, tasarım ve teknoloji üretmek; toplumsal sorumluluk bilinciyle yerel ve evrensel sorunlara sürdürülebilir çözümler geliştirmek.",
+    "question_variants": [
+      "Üniversitenin görev tanımı nedir?",
+      "KTÜN neyi amaçlamaktadır?",
+      "Kurumsal misyonumuz nedir?"
+    ],
+    "keywords": ["misyon", "vizyon", "amaç", "hedef"],
+    "source": "KTÜN Stratejik Plan",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_tarihce_004",
+    "category": "genel_universite",
+    "subcategory": "tarihce",
+    "topic": "Üniversite Vizyonu",
+    "canonical_question": "Konya Teknik Üniversitesi'nin gelecek vizyonu nedir?",
+    "answer_short": "Yenilikte öncü, üreten bir araştırma üniversitesi olmak.",
+    "answer_full": "Bilim, tasarım, teknoloji ve yenilikte öncü; ürettiği bilgi ve çözümlerle sanayi ve toplumun gelişimine yön veren bir araştırma üniversitesi olmak.",
+    "question_variants": [
+      "Üniversitenin gelecek hedefleri nelerdir?",
+      "KTÜN vizyonu hakkında bilgi verir misin?",
+      "Gelecekte nasıl bir üniversite olmayı hedefliyoruz?"
+    ],
+    "keywords": ["vizyon", "gelecek", "hedef", "strateji"],
+    "source": "KTÜN Stratejik Plan",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_tarihce_005",
+    "category": "genel_universite",
+    "subcategory": "tarihce",
+    "topic": "Üniversite İsmi",
+    "canonical_question": "Üniversitemizin tam adı ve kısaltması nedir?",
+    "answer_short": "Konya Teknik Üniversitesi - KTÜN",
+    "answer_full": "Üniversitemizin tam adı Konya Teknik Üniversitesi'dir. KTÜN olarak kısaltılmakta ve bu kısaltma ile belirtilmektedir.",
+    "question_variants": [
+      "Üniversitenin kısa adı nedir?",
+      "KTÜN neyin kısaltması?",
+      "Üniversitemizin resmi adı nedir?"
+    ],
+    "keywords": ["isim", "kısaltma", "KTÜN", "ünvan"],
+    "source": "KTÜN Kurumsal Kimlik Rehberi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_tarihce_006",
+    "category": "genel_universite",
+    "subcategory": "tarihce",
+    "topic": "Kurucu Rektör",
+    "canonical_question": "Konya Teknik Üniversitesi'nin kurucu rektörü kimdir?",
+    "answer_short": "Prof. Dr. Mustafa Şahin.",
+    "answer_full": "Üniversitemizin kurucu rektörü Profesör Doktor Mustafa Şahin'dir.",
+    "question_variants": [
+      "Üniversitenin ilk rektörü kimdi?",
+      "KTÜN'ün ilk dönem rektörlüğünü kim yaptı?"
+    ],
+    "keywords": ["rektör", "kurucu", "ilk", "yönetim"],
+    "source": "KTÜN Arşiv",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_tarihce_007",
+    "category": "genel_universite",
+    "subcategory": "tarihce",
+    "topic": "Üniversite Türü",
+    "canonical_question": "Konya Teknik Üniversitesi devlet üniversitesi mi yoksa vakıf üniversitesi midir?",
+    "answer_short": "Devlet üniversitesi.",
+    "answer_full": "Konya Teknik Üniversitesi, devlet üniversitesidir.",
+    "question_variants": [
+      "KTÜN özel mi?",
+      "Üniversitemiz bir devlet kurumu mu?",
+      "Vakıf üniversitesi miyiz?"
+    ],
+    "keywords": ["devlet", "vakıf", "özel", "tür"],
+    "source": "YÖK Kayıtları",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_tarihce_008",
+    "category": "genel_universite",
+    "subcategory": "tarihce",
+    "topic": "Yerleşke Gelişimi",
+    "canonical_question": "Üniversitemizin ana kampüs yerleşimi nasıl bir gelişim izlemiştir?",
+    "answer_short": "Üniversitenin ana yerleşkesi, Gelişim Yerleşkesi'dir. Burada Rektörlük ve Mimarlık ve Tasarım Fakültesi bulunmaktadır.",
+    "answer_full": "Üniversitenin ana yerleşkesi, Gelişim Yerleşkesi'dir. Burada Rektörlük ve Mimarlık ve Tasarım Fakültesi bulunmaktadır. Diğer fakülteler ise Selçuk Üniversitesi Alaeddin Keykubat Kampüsü içinde yer almaktadır. Ayrıca Selçuk Üniversitesi kampüsü devamındaki yeni alanlar, ileride ana kampüs olarak planlanmaktadır.",
+    "question_variants": [
+      "Kampüsümüz nerede kuruldu?",
+      "Gelişim yerleşkesi tarihçesi nedir?",
+      "Yerleşke alanı ne zaman belirlendi?"
+    ],
+    "keywords": ["yerleşke", "kampüs", "gelişim", "tarihçe"],
+    "source": "KTÜN Resmi Tarihçe",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_yonetim_001",
+    "category": "genel_universite",
+    "subcategory": "yonetim",
+    "topic": "Mevcut Rektör",
+    "canonical_question": "Konya Teknik Üniversitesi'nin güncel rektörü kimdir?",
+    "answer_short": "Prof. Dr. Osman Nuri Çelik.",
+    "answer_full": "Profesör Doktor Osman Nuri Çelik, üniversitenin güncel rektörüdür.",
+    "question_variants": [
+      "Şu anki rektörümüz kim?",
+      "Üniversitenin rektörü kimdir?",
+      "Rektörlük makamında kim bulunuyor?"
+    ],
+    "keywords": ["rektör", "yönetim", "makam", "isim"],
+    "source": "KTÜN Yönetim Sayfası",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_yonetim_002",
+    "category": "genel_universite",
+    "subcategory": "yonetim",
+    "topic": "Rektör Yardımcıları",
+    "canonical_question": "Üniversitede kaç rektör yardımcısı bulunmaktadır ve görevleri nelerdir?",
+    "answer_short": "2 rektör yardımcısı bulunmaktadır.",
+    "answer_full": "Prof. Dr. Ali Köken ve Prof. Dr. Nurettin Çetinkaya üniversitenin rektör yardımcılarıdır.",
+    "question_variants": [
+      "Rektör yardımcıları kimler?",
+      "Yönetimde rektöre kimler eşlik ediyor?",
+      "Kaç tane rektör yardımcımız var?"
+    ],
+    "keywords": ["rektör yardımcısı", "yönetim", "idari"],
+    "source": "KTÜN Yönetim Şeması",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_yonetim_003",
+    "category": "genel_universite",
+    "subcategory": "yonetim",
+    "topic": "Genel Sekreterlik",
+    "canonical_question": "Üniversite Genel Sekreteri kimdir ve görevi nedir?",
+    "answer_short": "Kamil Gök, üniversite genel sekreteridir.",
+    "answer_full": "Üniversite genel sekreteri 2022'den beri Kamil Gök'tür.",
+    "question_variants": [
+      "Genel sekreter kim?",
+      "Üniversitenin idari teşkilatının başında kim var?",
+      "Genel sekreterlik makamı ne iş yapar?"
+    ],
+    "keywords": ["genel sekreter", "idari", "teşkilat", "yönetim"],
+    "source": "KTÜN İdari Şema",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_yonetim_004",
+    "category": "genel_universite",
+    "subcategory": "yonetim",
+    "topic": "Üniversite Senatosu",
+    "canonical_question": "Üniversite Senatosu nedir ve kimlerden oluşur?",
+    "answer_short": "Senato 15 makamdan oluşmaktadır.",
+    "answer_full": "Senato 15 makamdan oluşmaktadır. Senato üyelerine üniversite sitesinden Yönetim/Senato alanından ulaşılabilir.",
+    "question_variants": [
+      "Senato üyeleri kimlerdir?",
+      "Üniversitenin en üst akademik karar organı hangisidir?",
+      "Senato ne zaman toplanır?"
+    ],
+    "keywords": ["senato", "akademik", "karar", "kurul"],
+    "source": "KTÜN Mevzuat",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_yonetim_005",
+    "category": "genel_universite",
+    "subcategory": "yonetim",
+    "topic": "Yönetim Kurulu",
+    "canonical_question": "Üniversite Yönetim Kurulu'nun görevleri nelerdir?",
+    "answer_short": "Üniversite Yönetim Kurulu, üniversitenin idari ve akademik işleyişini düzenleyen, stratejik kararlar alan ve kurumun genel politikalarını belirleyen en üst yönetim organlarından biridir.",
+    "answer_full": "Üniversite Yönetim Kurulu, üniversitenin idari ve akademik işleyişini düzenleyen, stratejik kararlar alan ve kurumun genel politikalarını belirleyen en üst yönetim organlarından biridir. Bu kurul; bütçe, kadro planlaması, eğitim-öğretim faaliyetleri, araştırma politikaları ve kurumsal gelişim gibi konularda kararlar alır. Yönetim Kurulu ekibine sitenin Yönetim/Yönetim Kurulu kısmından ulaşılabilir.",
+    "question_variants": [
+      "Yönetim kurulu kimlerden oluşur?",
+      "Üniversite yönetim kurulu ne iş yapar?",
+      "İdari kararlar nerede alınır?"
+    ],
+    "keywords": ["yönetim kurulu", "idari", "karar", "organ"],
+    "source": "KTÜN Mevzuat",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_yonetim_006",
+    "category": "genel_universite",
+    "subcategory": "yonetim",
+    "topic": "Öğrenci İşleri Daire Başkanlığı",
+    "canonical_question": "Öğrenci İşleri Daire Başkanlığı'nın sorumlulukları nelerdir?",
+    "answer_short": "Öğrenci İşleri Daire Başkanlığı, üniversitedeki öğrencilerin akademik ve idari süreçlerini düzenleyen ve yürüten birimdir.",
+    "answer_full": "Öğrenci İşleri Daire Başkanlığı, üniversitedeki öğrencilerin akademik ve idari süreçlerini düzenleyen ve yürüten birimdir. Öğrencilerle alakalı her türlü basılı, dijital süreçleri yönetir.",
+    "question_variants": [
+      "Öğrenci işleri ne yapar?",
+      "Kayıt işlemleri ile hangi birim ilgileniyor?",
+      "Öğrenci dairesi nerede?"
+    ],
+    "keywords": ["öğrenci işleri", "kayıt", "mezuniyet", "belge"],
+    "source": "KTÜN Teşkilat Şeması",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_yonetim_007",
+    "category": "genel_universite",
+    "subcategory": "yonetim",
+    "topic": "SKS Daire Başkanlığı",
+    "canonical_question": "Sağlık, Kültür ve Spor (SKS) Daire Başkanlığı hangi hizmetleri sunmaktadır?",
+    "answer_short": "SKS, öğrencilerin beden ve ruh sağlıklarının korunması, sosyal, kültürel, rehberlik ve spor ihtiyaçlarının karşılanması amacıyla hizmet vermektedir.",
+    "answer_full": "Sağlık, Kültür ve Spor Daire Başkanlığı, 2547 sayılı Yükseköğretim Kanunu'nun 46. ve 47. maddeleri uyarınca, öğrencilerin beden ve ruh sağlıklarının korunması, sosyal, kültürel, rehberlik ve spor ihtiyaçlarının karşılanması amacıyla hizmet vermektedir.",
+    "question_variants": [
+      "SKS ne iş yapar?",
+      "Kültürel faaliyetlerle hangi birim ilgileniyor?",
+      "Spor imkanlarını kim sağlıyor?"
+    ],
+    "keywords": ["SKS", "sağlık", "kültür", "spor", "kantin", "yemekhane"],
+    "source": "KTÜN SKS Web Sayfası",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_yonetim_008",
+    "category": "genel_universite",
+    "subcategory": "yonetim",
+    "topic": "Kütüphane ve Dokümantasyon Daire Başkanlığı",
+    "canonical_question": "Kütüphane ve Dokümantasyon Daire Başkanlığı'nın görevleri nelerdir?",
+    "answer_short": "Konya Teknik Üniversitesinin eğitim-öğretim faaliyetlerini destekleyerek geliştirmek.",
+    "answer_full": "Konya Teknik Üniversitesinin eğitim-öğretim faaliyetlerini destekleyerek geliştirmek; kullanıcıların bir araştırma üniversitesi olma hedefimize ulaşabilmemiz için ihtiyaç duydukları bilgi kaynaklarını temin ederek kesintisiz ve nitelikli hizmet sunmak.",
+    "question_variants": [
+      "Kütüphaneyi hangi birim yönetiyor?",
+      "Kitap ödünç alma kurallarını kim belirler?",
+      "Veritabanı erişimlerini kim sağlıyor?"
+    ],
+    "keywords": ["kütüphane", "dokümantasyon", "kitap", "kaynak"],
+    "source": "KTÜN Kütüphane Yönergesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_yonetim_009",
+    "category": "genel_universite",
+    "subcategory": "yonetim",
+    "topic": "Bilgi İşlem Daire Başkanlığı",
+    "canonical_question": "Bilgi İşlem Daire Başkanlığı üniversitede hangi altyapılardan sorumludur?",
+    "answer_short": "Üniversitenin dijital alanlardaki yetkinlik ve ihtiyaçlarını tamamlayıp geliştirmek.",
+    "answer_full": "Başkanlığımız bilişim alanını yakından takip edip, mevcut sistemimizi geliştirerek işletmek, bunun yanında akademik personelimizin araştırma, proje vb. çalışmalarına katkı sağlamak, öğrencilerimizin daha kaliteli eğitim alabilmeleri ve ihtiyaç duydukları bilgilere daha hızlı ulaşabilmeleri için bilgi teknolojilerine ulaşımlarını kolaylaştırmak, idari personelimizin işlerini hızlandırıp, uygulama programlarıyla destekleyip yapılan işlemlerin daha hızlı, etkin ve sağlıklı yürütülebilmesi, doğruluğunun kontrol edilebilmesi mümkün bir yapıya kavuşmasını sağlamak ve üniversitemizin ihtiyaç duyacağı diğer bilgi işlem hizmetlerini yerine getirmektir.",
+    "question_variants": [
+      "İnternet ve e-posta sorunları ile kim ilgileniyor?",
+      "Üniversite web sitesini kim yönetiyor?",
+      "Bilgi işlem dairesi ne yapar?"
+    ],
+    "keywords": ["bilgi işlem", "it", "internet", "sunucu", "teknik destek"],
+    "source": "KTÜN Bilgi İşlem Sayfası",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_yonetim_010",
+    "category": "genel_universite",
+    "subcategory": "yonetim",
+    "topic": "Strateji Geliştirme Daire Başkanlığı",
+    "canonical_question": "Strateji Geliştirme Daire Başkanlığı'nın temel fonksiyonu nedir?",
+    "answer_short": "Üniversite kaynaklarının etkili ve verimli kullanımını sağlamak.",
+    "answer_full": "Üniversitemizin misyonu çerçevesinde kaynakların etkili, ekonomik ve verimli kullanılmasını sağlamakla birlikte; yenilikçi, şeffaf, etkin ve hesap verilebilir bir mali yönetim kontrol sistemi oluşturarak, kurumsal yönetim ve işleyişe bu doğrultuda katkı sağlamaktır.",
+    "question_variants": [
+      "Üniversite bütçesini kim yönetiyor?",
+      "Stratejik planlamayı hangi birim yapar?",
+      "Mali işlerden kim sorumlu?"
+    ],
+    "keywords": ["strateji", "bütçe", "mali", "planlama"],
+    "source": "KTÜN İdari Birimler",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_iletisim_001",
+    "category": "genel_universite",
+    "subcategory": "iletisim",
+    "topic": "Genel İletişim Bilgileri",
+    "canonical_question": "Konya Teknik Üniversitesi'nin genel santral numarası ve e-posta adresi nedir?",
+    "answer_short": "Genel Santral Numarası:  0332 205 10 24, E-Posta: genelsekreterlik@ktun.edu.tr",
+    "answer_full": "Genel Santral Numarası:  0332 205 10 24, E-Posta: genelsekreterlik@ktun.edu.tr",
+    "question_variants": [
+      "Üniversiteye nasıl telefonla ulaşabilirim?",
+      "Resmi e-posta adresi nedir?",
+      "Üniversite santral numarası kaç?"
+    ],
+    "keywords": ["telefon", "e-posta", "santral", "iletişim"],
+    "source": "KTÜN İletişim Sayfası",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_iletisim_002",
+    "category": "genel_universite",
+    "subcategory": "iletisim",
+    "topic": "Üniversite Adresi",
+    "canonical_question": "Konya Teknik Üniversitesi'nin resmi yazışma adresi nedir?",
+    "answer_short": "Akademi Mah. Yeni İstanbul Cad. No:235 42130 Selçuklu/KONYA",
+    "answer_full": "Akademi Mah. Yeni İstanbul Cad. No:235 42130 Selçuklu/KONYA",
+    "question_variants": [
+      "Rektörlük binası nerede?",
+      "Üniversitenin posta adresi nedir?",
+      "KTÜN'e nasıl mektup/paket gönderirim?"
+    ],
+    "keywords": ["adres", "konum", "posta kodu", "yazışma"],
+    "source": "KTÜN Resmi Web Sitesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_iletisim_003",
+    "category": "genel_universite",
+    "subcategory": "iletisim",
+    "topic": "Sosyal Medya Hesapları",
+    "canonical_question": "Üniversitenin resmi sosyal medya hesapları nelerdir?",
+    "answer_short": "Üniversitenin Instagram ve X adreslerine @ktunedu üzerinden ulaşılabilir.",
+    "answer_full": "Üniversitenin Instagram ve X adreslerine @ktunedu üzerinden ulaşılabilir. Üniversitenin YouTube, LinkedIn gibi platformlarda da hesapları bulunmaktadır.",
+    "question_variants": [
+      "Üniversitenin Instagram hesabı hangisi?",
+      "KTÜN'ü Twitter'da (X) nasıl bulurum?",
+      "Resmi Youtube kanalı var mı?"
+    ],
+    "keywords": ["sosyal medya", "instagram", "twitter", "x", "facebook", "youtube"],
+    "source": "KTÜN Kurumsal İletişim Koordinatörlüğü",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_iletisim_004",
+    "category": "genel_universite",
+    "subcategory": "iletisim",
+    "topic": "Toplu Taşıma ile Ulaşım",
+    "canonical_question": "Şehir merkezinden Konya Teknik Üniversitesi'ne toplu taşıma ile nasıl gidilir?",
+    "answer_short": "Üniversiteye H1, H2 Tramvay hatları ile ulaşılabilir.",
+    "answer_full": "Üniversiteye H1, H2 Tramvay hatları ile ulaşılabilir.",
+    "question_variants": [
+      "Tramvay ile üniversiteye gidilir mi?",
+      "Kampüse hangi otobüs hatları gidiyor?",
+      "Toplu taşıma imkanları nelerdir?"
+    ],
+    "keywords": ["ulaşım", "tramvay", "otobüs", "konum", "yol tarifi"],
+    "source": "KTÜN Ulaşım Rehberi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_iletisim_005",
+    "category": "genel_universite",
+    "subcategory": "iletisim",
+    "topic": "KEP Adresi",
+    "canonical_question": "Konya Teknik Üniversitesi'nin Kayıtlı Elektronik Posta (KEP) adresi nedir?",
+    "answer_short": "konyateknikuniversitesi@hs01.kep.tr",
+    "answer_full": "Üniversitenin KEP Adresi: konyateknikuniversitesi@hs01.kep.tr",
+    "question_variants": [
+      "Resmi KEP adresi nedir?",
+      "Üniversiteye KEP üzerinden nasıl evrak gönderilir?"
+    ],
+    "keywords": ["KEP", "resmi yazışma", "elektronik posta"],
+    "source": "KTÜN İletişim Bilgileri",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_iletisim_006",
+    "category": "genel_universite",
+    "subcategory": "iletisim",
+    "topic": "Yerleşke Haritası",
+    "canonical_question": "Üniversite yerleşke planına ve bina haritalarına nereden ulaşabilirim?",
+    "answer_short": "Yerleşke planlarına sitedeki İdari/Yapı İşleri ve Teknik Daire Başkanlığı sayfasından ulaşılabilir.",
+    "answer_full": "Yerleşke planlarına sitedeki İdari/Yapı İşleri ve Teknik Daire Başkanlığı sayfasından ulaşılabilir.",
+    "question_variants": [
+      "Kampüs haritası var mı?",
+      "Binaların yerini nasıl bulurum?",
+      "Yerleşke krokisine nereden bakılır?"
+    ],
+    "keywords": ["harita", "kroki", "plan", "yerleşke"],
+    "source": "KTÜN Resmi Web Sitesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_iletisim_007",
+    "category": "genel_universite",
+    "subcategory": "iletisim",
+    "topic": "Güvenlik Birimi",
+    "canonical_question": "Kampüs içerisindeki güvenlik birimi ile nasıl iletişime geçilir?",
+    "answer_short": "Koruma ve Güvenlik Şube Müdürlüğü iletişim numarası: 0332 205 11 86",
+    "answer_full": "Koruma ve Güvenlik Şube Müdürlüğü ofisine 0332 205 11 86 numarasından ulaşılabilir.",
+    "question_variants": [
+      "Güvenlik numarası kaç?",
+      "Acil durumda güvenliğe nasıl ulaşırım?",
+      "Kampüs güvenlik ofisi nerede?"
+    ],
+    "keywords": ["güvenlik", "acil", "iletişim", "koruma"],
+    "source": "KTÜN İdari İşler",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_iletisim_008",
+    "category": "genel_universite",
+    "subcategory": "iletisim",
+    "topic": "Kayıp Eşya",
+    "canonical_question": "Kampüs içerisinde kaybedilen eşyalar için nereye başvurulmalıdır?",
+    "answer_short": "Koruma ve Güvenlik Şube Müdürlüğü.",
+    "answer_full": "Koruma ve Güvenlik Şube Müdürlüğü'ne başvurabilirsin.",
+    "question_variants": [
+      "Kayıp eşya ofisi nerede?",
+      "Eşyamı kaybettim ne yapmalıyım?",
+      "Bulunan eşyalar nereye teslim ediliyor?"
+    ],
+    "keywords": ["kayıp eşya", "buluntu", "başvuru"],
+    "source": "KTÜN Güvenlik Amirliği",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_iletisim_009",
+    "category": "genel_universite",
+    "subcategory": "iletisim",
+    "topic": "Fax Numarası",
+    "canonical_question": "Rektörlük ve fakültelerin genel faks numaraları nelerdir?",
+    "answer_short": "Genel Sekreterlik Faks: 0332 354 00 12",
+    "answer_full": "Genel Sekreterlik Faks Numarası: 0332 354 00 12",
+    "question_variants": [
+      "Üniversite faks numarası kaç?",
+      "Evrak göndermek için faks kullanabilir miyim?"
+    ],
+    "keywords": ["faks", "fax", "iletişim", "belge"],
+    "source": "KTÜN İletişim Sayfası",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_fakulte_bilgisi_001",
+    "category": "genel_universite",
+    "subcategory": "fakulte_bilgisi",
+    "topic": "Mühendislik ve Doğa Bilimleri Fakültesi",
+    "canonical_question": "Mühendislik ve Doğa Bilimleri Fakültesi bünyesinde hangi bölümler yer almaktadır?",
+    "answer_short": "Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Harita Mühendisliği, İnşaat Mühendisliği, Jeoloji Mühendisliği, Kimya Mühendisliği, Maden Mühendisliği, Makine Mühendisliği, Metalurji ve Malzeme Mühendisliği bu fakültedeki bölümlerdir.",
+    "answer_full": "Çevre Mühendisliği, Elektrik-Elektronik Mühendisliği, Endüstri Mühendisliği, Harita Mühendisliği, İnşaat Mühendisliği, Jeoloji Mühendisliği, Kimya Mühendisliği, Maden Mühendisliği, Makine Mühendisliği, Metalurji ve Malzeme Mühendisliği bu fakültedeki bölümlerdir.",
+    "question_variants": [
+      "Mühendislik fakültesinde hangi mühendislikler var?",
+      "Fakültenin bölüm listesini verir misin?",
+      "Bilgisayar mühendisliği hangi fakültede?"
+    ],
+    "keywords": ["mühendislik", "fakülte", "bölüm", "doğa bilimleri"],
+    "source": "KTÜN Fakülte Sayfası",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_fakulte_bilgisi_002",
+    "category": "genel_universite",
+    "subcategory": "fakulte_bilgisi",
+    "topic": "Mimarlık ve Tasarım Fakültesi",
+    "canonical_question": "Mimarlık ve Tasarım Fakültesi'nde hangi programlar bulunmaktadır?",
+    "answer_short": "Endüstri Ürünleri Tasarımı, İç Mimarlık, Mimarlık, Şehir ve Bölge Planlama bölümleri bu fakülteye dahildir.",
+    "answer_full": "Endüstri Ürünleri Tasarımı, İç Mimarlık, Mimarlık, Şehir ve Bölge Planlama bölümleri bu fakülteye dahildir.",
+    "question_variants": [
+      "Mimarlık bölümleri nelerdir?",
+      "Tasarım fakültesi nerede?",
+      "Şehir ve bölge planlama hangi fakültede?"
+    ],
+    "keywords": ["mimarlık", "tasarım", "şehir planlama", "iç mimarlık"],
+    "source": "KTÜN Mimarlık Fakültesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_fakulte_bilgisi_002",
+    "category": "genel_universite",
+    "subcategory": "fakulte_bilgisi",
+    "topic": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
+    "canonical_question": "Bilgisayar ve Bilişim Bilimleri Fakültesi'nde hangi programlar bulunmaktadır?",
+    "answer_short": "Bilgisayar Mühendisliği, Yapay Zeka ve Makine Öğrenmesi ve Yazılım Mühendisliği bölümleri bu fakültededir.",
+    "answer_full": "Bilgisayar Mühendisliği, Yapay Zeka ve Makine Öğrenmesi ve Yazılım Mühendisliği bölümleri bu fakültededir.",
+    "question_variants": [
+      "Bilgisayar bölümleri nelerdir?",
+      "Bilişim fakültesi nerede?",
+      "Yazılım hangi fakültede?"
+    ],
+    "keywords": ["bilgisayar", "bilişim", "yazılım", "yapay zeka"],
+    "source": "KTÜN Bilgisayar ve Bilişim Bilimleri Fakültesi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_fakulte_bilgisi_003",
+    "category": "genel_universite",
+    "subcategory": "fakulte_bilgisi",
+    "topic": "Lisansüstü Eğitim Enstitüsü",
+    "canonical_question": "Üniversitede yüksek lisans ve doktora eğitimleri hangi birim tarafından koordine edilir?",
+    "answer_short": "Lisansüstü Eğitim Enstitüsü",
+    "answer_full": "Lisansüstü Eğitim Enstitüsü",
+    "question_variants": [
+      "Enstitü nerede?",
+      "Lisansüstü başvuruları nasıl yapılır?",
+      "Hangi enstitüler var?"
+    ],
+    "keywords": ["enstitü", "lisansüstü", "yüksek lisans", "doktora"],
+    "source": "KTÜN Lisansüstü Eğitim Enstitüsü",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_fakulte_bilgisi_004",
+    "category": "genel_universite",
+    "subcategory": "fakulte_bilgisi",
+    "topic": "Teknik Bilimler MYO",
+    "canonical_question": "Teknik Bilimler Meslek Yüksekokulu'nda yer alan ön lisans programları nelerdir?",
+    "answer_short": "Bilgisayar Teknolojileri, El Sanatları, Elektrik ve Enerji, Elektronik ve Otomasyon, Gıda İşleme, Görsel İşitsel Teknikler ve Medya Yapımcılığı, İnşaat, Kimya ve Kimyasal İşleme Teknolojileri, Makine ve Metal Teknolojileri, Malzeme ve Malzeme İşleme Teknolojileri, Mimarlık ve Şehir Planlama, Mülkiyet Koruma ve Güvenlik, Tekstil Giyim Ayakkabı ve Deri bölümleri bu yüksekokulda bulunmaktadır.",
+    "answer_full": "Bilgisayar Teknolojileri, El Sanatları, Elektrik ve Enerji, Elektronik ve Otomasyon, Gıda İşleme, Görsel İşitsel Teknikler ve Medya Yapımcılığı, İnşaat, Kimya ve Kimyasal İşleme Teknolojileri, Makine ve Metal Teknolojileri, Malzeme ve Malzeme İşleme Teknolojileri, Mimarlık ve Şehir Planlama, Mülkiyet Koruma ve Güvenlik, Tekstil Giyim Ayakkabı ve Deri bölümleri bu yüksekokulda bulunmaktadır.",
+    "question_variants": [
+      "MYO bölümleri nelerdir?",
+      "İki yıllık bölümler hangileri?",
+      "Teknik bilimler MYO nerede?"
+    ],
+    "keywords": ["MYO", "ön lisans", "teknik bilimler", "2 yıllık"],
+    "source": "KTÜN MYO Web Sayfası",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_fakulte_bilgisi_005",
+    "category": "genel_universite",
+    "subcategory": "fakulte_bilgisi",
+    "topic": "Yabancı Diller Yüksekokulu",
+    "canonical_question": "İngilizce hazırlık eğitimi hangi birim tarafından verilmektedir?",
+    "answer_short": "Yabancı Diller Yüksekokulu",
+    "answer_full": "Yabancı Diller Yüksekokulu tarafından verilmektedir.",
+    "question_variants": [
+      "Hazırlık okulu nerede?",
+      "Yabancı diller yüksekokulu ne iş yapar?",
+      "Dil eğitimi süreci nasıl işliyor?"
+    ],
+    "keywords": ["yabancı diller", "hazırlık", "ingilizce", "dil eğitimi"],
+    "source": "KTÜN Yabancı Diller Yüksekokulu",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_fakulte_bilgisi_006",
+    "category": "genel_universite",
+    "subcategory": "fakulte_bilgisi",
+    "topic": "Akreditasyon Bilgileri",
+    "canonical_question": "Hangi mühendislik bölümlerinin MÜDEK akreditasyonu bulunmaktadır?",
+    "answer_short": "Harita Mühendisliği bölümünün MÜDEK akreditasyonu bulunmaktadır.",
+    "answer_full": "Harita Mühendisliği bölümünün MÜDEK akreditasyonu bulunmaktadır.",
+    "question_variants": [
+      "Bölümlerimiz akredite mi?",
+      "MÜDEK belgesi olan bölümler hangileri?",
+      "Eğitim kalitesi nasıl belgeleniyor?"
+    ],
+    "keywords": ["akreditasyon", "MÜDEK", "kalite", "belge"],
+    "source": "KTÜN Kalite Komisyonu",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_fakulte_bilgisi_007",
+    "category": "genel_universite",
+    "subcategory": "fakulte_bilgisi",
+    "topic": "Erasmus Koordinatörlüğü",
+    "canonical_question": "Uluslararası değişim programları (Erasmus+) hangi birim tarafından yürütülmektedir?",
+    "answer_short": "Erasmus+ Koordinatörlüğü tarafından yürütülmektedir.",
+    "answer_full": "Değişim programları, Erasmus+ Koordinatörlüğü tarafından yürütülmektedir.",
+    "question_variants": [
+      "Erasmus ofisi nerede?",
+      "Yurt dışı imkanları için kiminle görüşülür?",
+      "Dış ilişkiler koordinatörlüğü ne yapar?"
+    ],
+    "keywords": ["erasmus", "değişim programı", "yurt dışı", "uluslararası"],
+    "source": "KTÜN Dış İlişkiler",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_fakulte_bilgisi_008",
+    "category": "genel_universite",
+    "subcategory": "fakulte_bilgisi",
+    "topic": "KTÜNSEM (Sürekli Eğitim Merkezi)",
+    "canonical_question": "KTÜN Sürekli Eğitim Uygulama ve Araştırma Merkezi (KTÜNSEM) hangi eğitimleri vermektedir?",
+    "answer_short": "KTÜNSEM eğitimleri ktunsem.ktun.edu.tr sitesi üzerinden takip edilebilir.",
+    "answer_full": "KTÜNSEM eğitimleri sürekli gelişen ve değişen bir havuza sahip olduğundan ktunsem.ktun.edu.tr sitesinden takip edilebilir.",
+    "question_variants": [
+      "Sertifika programları var mı?",
+      "Dışarıdan kurs alabilir miyim?",
+      "KTÜNSEM nedir?"
+    ],
+    "keywords": ["KTÜNSEM", "sertifika", "kurs", "eğitim"],
+    "source": "KTÜNSEM Web Sayfası",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_fakulte_bilgisi_009",
+    "category": "genel_universite",
+    "subcategory": "fakulte_bilgisi",
+    "topic": "Teknoloji Transfer Ofisi (TTO)",
+    "canonical_question": "Üniversite-sanayi iş birliği ve patent süreçlerini hangi birim yönetmektedir?",
+    "answer_short": "Teknoloji Transfer Ofisi Uygulama ve Araştırma Merkezi.",
+    "answer_full": "Süreçleri Teknoloji Transfer Ofisi Uygulama ve Araştırma Merkezi yönetmektedir.",
+    "question_variants": [
+      "TTO ne yapar?",
+      "Proje desteği için nereye başvurulur?",
+      "Teknoloji transfer ofisi nerede?"
+    ],
+    "keywords": ["TTO", "patent", "sanayi", "iş birliği", "proje"],
+    "source": "KTÜN TTO",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_fakulte_bilgisi_010",
+    "category": "genel_universite",
+    "subcategory": "fakulte_bilgisi",
+    "topic": "Uzaktan Eğitim Merkezi (UZEM)",
+    "canonical_question": "Uzaktan eğitim dersleri ve altyapısı hangi birim tarafından sağlanmaktadır?",
+    "answer_short": "Uzaktan Eğitim Merkezi (UZEM)",
+    "answer_full": "Uzaktan eğitim dersleri ve altyapısından okulun Uzaktan Eğitim Merkezi (UZEM) sorumludur.",
+    "question_variants": [
+      "Online dersler nereden işleniyor?",
+      "UZEM sistemi nasıl kullanılır?",
+      "Uzaktan eğitim ofisi nerede?"
+    ],
+    "keywords": ["UZEM", "uzaktan eğitim", "online ders", "lms"],
+    "source": "KTÜN UZEM",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_fakulte_bilgisi_011",
+    "category": "genel_universite",
+    "subcategory": "fakulte_bilgisi",
+    "topic": "Kariyer Merkezi",
+    "canonical_question": "Öğrencilerin staj ve iş bulma süreçlerine destek olan birim hangisidir?",
+    "answer_short": "Kariyer Merkezi.",
+    "answer_full": "Sektör hakkında öğrencilere Kariyer Merkezi birimi yardım etmektedir.",
+    "question_variants": [
+      "Kariyer merkezi ne yapar?",
+      "İş ilanlarını nereden takip edebilirim?",
+      "Mezun takip sistemi var mı?"
+    ],
+    "keywords": ["kariyer", "staj", "iş", "mezun", "danışmanlık"],
+    "source": "KTÜN Kariyer Merkezi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "genel_universite_fakulte_bilgisi_012",
+    "category": "genel_universite",
+    "subcategory": "fakulte_bilgisi",
+    "topic": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
+    "canonical_question": "Üniversite bünyesindeki iş sağlığı ve güvenliği süreçlerini kim takip etmektedir?",
+    "answer_short": "İş Sağlığı ve Güvenliği Koordinatörlüğü.",
+    "answer_full": "İş sağlığı ve güvenlik süreçlerini okulun İş Sağlığı ve Güvenliği Koordinatörlüğü yürütmektedir.",
+    "question_variants": [
+      "İSG birimi nerede?",
+      "İş güvenliği eğitimlerini kim veriyor?"
+    ],
+    "keywords": ["İSG", "iş sağlığı", "güvenlik", "koordinatörlük"],
+    "source": "KTÜN İdari Birimler",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  }
+]

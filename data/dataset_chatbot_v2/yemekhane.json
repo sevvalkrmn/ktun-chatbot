@@ -1,0 +1,202 @@
+[
+  {
+    "id": "yemekhane_saatler_001",
+    "category": "yemekhane",
+    "subcategory": "saatler_ve_fiyat",
+    "topic": "Öğle Yemeği Servis Saatleri",
+    "canonical_question": "Öğrenci yemekhanesinde öğle yemeği servis saatleri kaçtır?",
+    "answer_short": "Öğle Yemeği Saati: 11.30-13.30",
+    "answer_full": "Öğle yemeği, okulun tüm yemekhanelerinde 11.30-13.30 arasında servis edilmektedir.",
+    "question_variants": [
+      "Yemekhane saat kaçta açılıyor?",
+      "Öğle yemeği ne zamana kadar devam ediyor?",
+      "Yemek servisi hangi saatler arasında yapılıyor?"
+    ],
+    "keywords": ["saat", "servis", "öğle yemeği", "mesai"],
+    "source": "KTÜN SKS Daire Başkanlığı",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "yemekhane_fiyat_001",
+    "category": "yemekhane",
+    "subcategory": "saatler_ve_fiyat",
+    "topic": "Öğrenci Yemek Ücreti",
+    "canonical_question": "Öğrenciler için bir öğün yemek ücreti ne kadardır?",
+    "answer_short": "30 TL.",
+    "answer_full": "Belirlenen güncel yemek ücreti öğün başına 30 Türk Lirası'dır.",
+    "question_variants": [
+      "Öğrenci yemek fiyatı kaç TL?",
+      "Yemekhane ücretleri ne kadar?",
+      "Bir yemek fişi ne kadar?"
+    ],
+    "keywords": ["fiyat", "ücret", "öğrenci", "yemek"],
+    "source": "KTÜN SKS Daire Başkanlığı",
+    "verified": false,
+    "valid_until": "2026-09-01",
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "yemekhane_fiyat_002",
+    "category": "yemekhane",
+    "subcategory": "saatler_ve_fiyat",
+    "topic": "Personel Yemek Ücreti",
+    "canonical_question": "Akademik ve idari personel için yemek ücretleri nasıl belirlenmiştir?",
+    "answer_short": "Akademik personelin öğün başına verdiği ücret güncel olarak 130,90 TL'dir.",
+    "answer_full": "Akademik personelin öğün başına verdiği ücret güncel olarak 130,90 TL'dir.",
+    "question_variants": [
+      "Personel yemek fiyatı nedir?",
+      "Hocalar yemekhaneye ne kadar ödüyor?",
+      "Memur yemek ücreti ne kadar?"
+    ],
+    "keywords": ["personel", "ücret", "fiyat", "idari", "akademik"],
+    "source": "KTÜN SKS Daire Başkanlığı",
+    "verified": false,
+    "valid_until": "2026-09-01",
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "yemekhane_odeme_001",
+    "category": "yemekhane",
+    "subcategory": "saatler_ve_fiyat",
+    "topic": "Ödeme Yöntemleri",
+    "canonical_question": "Yemekhanede ödemeler nasıl yapılmaktadır?",
+    "answer_short": "Yemekhane sisteminden veya Soliclub uygulaması üzerinden bir gün öncesi saat 15.00'e kadar online ödeme yöntemiyle randevu alınmalıdır.",
+    "answer_full": "Yemekhane sisteminden veya Soliclub uygulaması üzerinden bir gün öncesi saat 15.00'e kadar online ödeme yöntemiyle randevu alınmalıdır.",
+    "question_variants": [
+      "Yemekhanede nakit geçiyor mu?",
+      "Yemek ücretini nasıl öderim?",
+      "Öğrenci kartına para nasıl yüklenir?"
+    ],
+    "keywords": ["ödeme", "pos", "kart", "nakit", "para yükleme"],
+    "source": "KTÜN SKS Daire Başkanlığı",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "yemekhane_konum_001",
+    "category": "yemekhane",
+    "subcategory": "saatler_ve_fiyat",
+    "topic": "Gelişim Yerleşkesi Yemekhane Konumu",
+    "canonical_question": "Gelişim Yerleşkesindeki merkez yemekhane nerede bulunmaktadır?",
+    "answer_short": "Bina içerisinde ikinci katta yemekhane bulunmaktadır.",
+    "answer_full": "Bina içerisinde ikinci katta yemekhane bulunmaktadır.",
+    "question_variants": [
+      "Ana yemekhane hangi binada?",
+      "Gelişim yerleşkesi yemekhanesine nasıl giderim?",
+      "Mühendislik fakültesi yemekhanesi nerede?"
+    ],
+    "keywords": ["konum", "adres", "nerede", "gelişim yerleşkesi"],
+    "source": "KTÜN Yerleşke Planı",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "yemekhane_konum_002",
+    "category": "yemekhane",
+    "subcategory": "saatler_ve_fiyat",
+    "topic": "Teknik Bilimler MYO Yemekhanesi",
+    "canonical_question": "Teknik Bilimler Meslek Yüksekokulu yemekhanesi nerede?",
+    "answer_short": "Yükseokul çevresinde bulunmaktadır.",
+    "answer_full": "Yükseokul çevresinde bulunmaktadır.",
+    "question_variants": [
+      "MYO öğrencileri nerede yemek yiyor?",
+      "Ardınçlı yerleşkesinde yemekhane var mı?",
+      "Teknik Bilimler MYO yemek saati farklı mı?"
+    ],
+    "keywords": ["MYO", "teknik bilimler", "yemekhane", "konum"],
+    "source": "KTÜN Resmi Bilgi",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "yemekhane_fiyat_003",
+    "category": "yemekhane",
+    "subcategory": "saatler_ve_fiyat",
+    "topic": "Misafir Yemek Ücreti",
+    "canonical_question": "Üniversite dışından gelen misafirler için yemek ücreti ne kadardır?",
+    "answer_short": "120 TL.",
+    "answer_full": "Üniversite kadrosu ve üniversitenin öğrencileri dışındaki misafirlerin öğün başı ücreti güncel olarak 120 TL'dir.",
+    "question_variants": [
+      "Dışarıdan birisi yemekhanede yemek yiyebilir mi?",
+      "Misafir yemek tarifesi nedir?",
+      "Üniversite personeli olmayanlar için yemek fiyatı nedir?"
+    ],
+    "keywords": ["misafir", "ücret", "dışarıdan", "tarifesi"],
+    "source": "KTÜN SKS Daire Başkanlığı",
+    "verified": false,
+    "valid_until": "2026-09-01",
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "yemekhane_kosullar_001",
+    "category": "yemekhane",
+    "subcategory": "saatler_ve_fiyat",
+    "topic": "Hafta Sonu Hizmet Durumu",
+    "canonical_question": "Hafta sonları ve resmi tatillerde yemekhane hizmet vermekte midir?",
+    "answer_short": "Yemekhane, yalnızca haftaiçi mesai günlerinde hizmet vermektedir.",
+    "answer_full": "Yemekhane, yalnızca haftaiçi mesai günlerinde hizmet vermektedir. Resmi tatillerde ve hafta sonları yemekhane kapalıdır.",
+    "question_variants": [
+      "Cumartesi günü yemek çıkıyor mu?",
+      "Tatillerde yemekhane açık mı?",
+      "Pazar günü yemekhane kapalı mı?"
+    ],
+    "keywords": ["hafta sonu", "tatil", "hizmet", "açılış"],
+    "source": "KTÜN SKS Uygulama Esasları",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "yemekhane_ikinci_ogretim_001",
+    "category": "yemekhane",
+    "subcategory": "saatler_ve_fiyat",
+    "topic": "Akşam Yemeği Hizmeti",
+    "canonical_question": "İkinci öğretim öğrencileri için akşam yemeği servisi var mı?",
+    "answer_short": "Yoktur.",
+    "answer_full": "İkinci öğretim öğrencileri için akşam yemeği 2025 yılı itibarıyla verilmemektedir.",
+    "question_variants": [
+      "Akşam yemeği saat kaçta?",
+      "İkinci öğretim yemek ücreti farklı mı?",
+      "Gece yemeği çıkıyor mu?"
+    ],
+    "keywords": ["akşam yemeği", "ikinci öğretim", "servis saatleri"],
+    "source": "KTÜN SKS Daire Başkanlığı",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  },
+  {
+    "id": "yemekhane_randevu_001",
+    "category": "yemekhane",
+    "subcategory": "saatler_ve_fiyat",
+    "topic": "Yemek Rezervasyon Sistemi",
+    "canonical_question": "Yemek yemek için önceden rezervasyon veya bakiye yüklemesi yapılması zorunlu mudur?",
+    "answer_short": "Bir önceki gün, saat 15.00'e kadar rezervasyon yapılması zorunludur.",
+    "answer_full": "Öğünün rezerve edileceği günden bir gün önce, saat 15.00'e kadar online sistemler üzerinden rezervasyon yapılması gerekmektedir.",
+    "question_variants": [
+      "Yemeği önceden seçmek gerekiyor mu?",
+      "Rezervasyonsuz yemek yenir mi?",
+      "Yemekhane bakiye sistemi nasıl çalışır?"
+    ],
+    "keywords": ["rezervasyon", "bakiye", "randevu", "zorunluluk"],
+    "source": "KTÜN Bilgi İşlem / SKS",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "Can",
+    "created_at": "2026-04-14"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm:*)",
+      "Bash(python -c ':*)",
+      "Bash(venv/Scripts/python.exe -c \"import sys; sys.stdout.reconfigure\\(encoding='utf-8'\\); from config import MODEL_NAME; print\\('MODEL_NAME:', MODEL_NAME\\)\")"
+    ]
+  }
+}

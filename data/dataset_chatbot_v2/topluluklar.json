@@ -1,0 +1,363 @@
+[
+  {
+    "id": "topluluk_ailab_001",
+    "category": "topluluk",
+    "subcategory": "ailab_bilgi",
+    "topic": "AI Lab",
+    "canonical_question": "AI Lab nedir?",
+    "answer_short": "KTUN AI Lab, yapay zeka ve veri bilimi alanında çalışan bir proje laboratuvarıdır.",
+    "answer_full": "KTUN Yapay Zeka ve Veri Bilimi Laboratuvarı (AI Lab), temelleri 2020 yılında atılan tematik bir proje laboratuvarıdır. Yapay zeka ve veri bilimi alanlarında proje geliştirme, araştırma ve prototipleme çalışmaları yürütmektedir.",
+    "question_variants": [
+      "Ai Lab ne?",
+      "Ai Lab ne işe yarar?",
+      "Ai Lab'ı anlat?"
+    ],
+    "keywords": [
+      "ailab",
+      "yapay zeka",
+      "veri bilimi",
+      "laboratuvar"
+    ],
+    "source": "ailab_tanitim_metni",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "ayberk",
+    "created_at": "2026-04-15"
+  },
+  {
+    "id": "topluluk_ailab_002",
+    "category": "topluluk",
+    "subcategory": "ailab_bilgi",
+    "topic": "AI Lab",
+    "canonical_question": "Ai Lab ne yapar?",
+    "answer_short": "Ai Lab, proje geliştirme, Ar-Ge ve teknoloji odaklı çalışmalar yürütür.",
+    "answer_full": "Ai Lab; TEKNOFEST, TÜBİTAK, girişim ve sanayi iş birlikleri kapsamında projeler geliştiren bir laboratuvardır. Üyeleriyle birlikte gerçek dünya problemlerine çözüm üretmeye odaklanır.",
+    "question_variants": [
+      "Ai Lab'de neler yapılıyor?",
+      "Ai Lab ne üzerine çalışıyor?"
+    ],
+    "keywords": [
+      "ailab",
+      "proje",
+      "arge",
+      "teknoloji"
+    ],
+    "source": "ailab_tanitim_metni",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "ayberk",
+    "created_at": "2026-04-15"
+  },
+  {
+    "id": "topluluk_ailab_003",
+    "category": "topluluk",
+    "subcategory": "ailab_bilgi",
+    "topic": "AI Lab",
+    "canonical_question": "Ai Lab hangi alanlarda çalışır?",
+    "answer_short": "Ai Lab, yapay zeka, otonom sistemler, robotik ve görüntü işleme alanlarında çalışır.",
+    "answer_full": "Ai Lab; yapay zeka, otonom sistemler, görüntü işleme, büyük dil modelleri (LLM) ve robotik gibi alanlarda çalışmalar yürütmektedir. Farklı disiplinlerden ekiplerle çeşitli projeler geliştirilmektedir.",
+    "question_variants": [
+      "Ai Lab hangi teknolojilerle ilgileniyor?",
+      "Ai Lab hangi konular üzerine çalışıyor?"
+    ],
+    "keywords": [
+      "ailab",
+      "yapay zeka",
+      "robotik",
+      "goruntu isleme"
+    ],
+    "source": "ailab_tanitim_metni",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "ayberk",
+    "created_at": "2026-04-15"
+  },
+  {
+    "id": "topluluk_ailab_004",
+    "category": "topluluk",
+    "subcategory": "ailab_bilgi",
+    "topic": "AI Lab",
+    "canonical_question": "Ai Lab'de ne tür projeler yapılır?",
+    "answer_short": "Ai Lab'de yarışma, akademik ve ürün odaklı projeler yapılır.",
+    "answer_full": "Ai Lab bünyesinde hem takım halinde hem de bireysel olarak projeler geliştirilir. Bu projeler yarışma odaklı, akademik veya ürün geliştirme odaklı olabilir. Bunlar yapay zeka, otonom sistemler, robotik, girişim fikirleri vb. üzerine olabilir.",
+    "question_variants": [
+      "Ai Lab projeleri neler?",
+      "Ai Lab'de projeler nasıl oluyor?"
+    ],
+    "keywords": [
+      "ailab",
+      "proje",
+      "takim",
+      "akademik"
+    ],
+    "source": "ailab_tanitim_metni",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "ayberk",
+    "created_at": "2026-04-15"
+  },
+  {
+    "id": "topluluk_ailab_005",
+    "category": "topluluk",
+    "subcategory": "ailab_bilgi",
+    "topic": "AI Lab",
+    "canonical_question": "Ai Lab yarışmalara mı katılıyor?",
+    "answer_short": "Ai Lab, TEKNOFEST başta olmak üzere çeşitli yarışmalara katılır.",
+    "answer_full": "Ai Lab, TEKNOFEST başta olmak üzere TÜBİTAK ve çeşitli hackathonlara aktif olarak katılım sağlamaktadır. Bu süreçlerde farklı alanlarda projeler geliştirilmektedir.",
+    "question_variants": [
+      "Ai Lab teknofest'e katılıyor mu?",
+      "Ai Lab yarışmalara giriyor mu?"
+    ],
+    "keywords": [
+      "ailab",
+      "teknofest",
+      "yarisma",
+      "hackathon"
+    ],
+    "source": "ailab_tanitim_metni",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "ayberk",
+    "created_at": "2026-04-15"
+  },
+  {
+    "id": "topluluk_ailab_006",
+    "category": "topluluk",
+    "subcategory": "ailab_bilgi",
+    "topic": "AI Lab",
+    "canonical_question": "Ai Lab akademik çalışmalar yapar mı?",
+    "answer_short": "Ai Lab, TÜBİTAK projeleri ve akademik çalışmalar yürütür.",
+    "answer_full": "Ai Lab bünyesinde tamamlanmış ve devam eden TÜBİTAK projeleri bulunmaktadır. Ayrıca akademik araştırmalar ve yayın çalışmaları da yürütülmektedir.",
+    "question_variants": [
+      "Ai Lab tübitak projeleri yapıyor mu?",
+      "Ai Lab akademik araştırma yapıyor mu?"
+    ],
+    "keywords": [
+      "ailab",
+      "tubitak",
+      "akademik",
+      "arastirma"
+    ],
+    "source": "ailab_tanitim_metni",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "ayberk",
+    "created_at": "2026-04-15"
+  },
+  {
+    "id": "topluluk_ailab_007",
+    "category": "topluluk",
+    "subcategory": "ailab_bilgi",
+    "topic": "AI Lab",
+    "canonical_question": "Ai Lab'de eğitim veriliyor mu?",
+    "answer_short": "Ai Lab, üyelerine teknik eğitimler ve etkinlikler sunar.",
+    "answer_full": "Ai Lab, üyelerine proje geliştirme süreçlerinde kullanacakları teknolojiler üzerine eğitimler vermektedir. Ayrıca ekip içi etkinliklerle sosyal ve teknik gelişim desteklenmektedir.",
+    "question_variants": [
+      "Ai Lab'de eğitim oluyor mu?",
+      "Ai Lab'de nasıl eğitimler var?"
+    ],
+    "keywords": [
+      "ailab",
+      "egitim",
+      "etkinlik",
+      "gelisim"
+    ],
+    "source": "ailab_tanitim_metni",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "ayberk",
+    "created_at": "2026-04-15"
+  },
+  {
+    "id": "topluluk_ailab_008",
+    "category": "topluluk",
+    "subcategory": "ailab_bilgi",
+    "topic": "AI Lab",
+    "canonical_question": "Ai Lab nasıl bir ekip yapısına sahiptir?",
+    "answer_short": "Ai Lab, hiyerarşik ve çok disiplinli bir ekip yapısına sahiptir.",
+    "answer_full": "Ai Lab, farklı bölümlerden öğrencilerin yer aldığı çok disiplinli bir ekip yapısına sahiptir. Organizasyon içerisinde hiyerarşik bir yapı bulunmakta ve ekipler belirli projeler etrafında organize olmaktadır. Her bölümden öğrenciler istekleri doğrultusunda projelerde yer alabilirler.",
+    "question_variants": [
+      "Ai Lab'de ekip yapısı nasıl?",
+      "Ai Lab'de kimler çalışabilir'?"
+    ],
+    "keywords": [
+      "ailab",
+      "ekip",
+      "hiyerarsi",
+      "multidisipliner"
+    ],
+    "source": "ailab_tanitim_metni",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "ayberk",
+    "created_at": "2026-04-15"
+  },
+  {
+    "id": "topluluk_ailab_009",
+    "category": "topluluk",
+    "subcategory": "ailab_bilgi",
+    "topic": "AI Lab",
+    "canonical_question": "Ai Lab'in amacı nedir?",
+    "answer_short": "Ai Lab'in amacı proje üretmek ve üyelerini sektöre hazırlamaktır.",
+    "answer_full": "Ai Lab'in amacı, projeler geliştirmenin yanı sıra üyelerinin teknik olarak gelişmesini sağlamak ve onları sektöre hazırlamaktır. Aynı zamanda gerçek dünya problemlerine çözüm üreten bir yapı oluşturmayı hedefler.",
+    "question_variants": [
+      "Ai Lab neden var?",
+      "Ai Lab neyi hedefliyor?"
+    ],
+    "keywords": [
+      "ailab",
+      "amac",
+      "hedef",
+      "gelisim"
+    ],
+    "source": "ailab_tanitim_metni",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "ayberk",
+    "created_at": "2026-04-15"
+  },
+  {
+    "id": "topluluk_ailab_010",
+    "category": "topluluk",
+    "subcategory": "ailab_bilgi",
+    "topic": "AI Lab",
+    "canonical_question": "Ai Lab'de projeler bireysel mi yapılır?",
+    "answer_short": "Ai Lab'de projeler hem bireysel hem de takım halinde yapılabilir.",
+    "answer_full": "Ai Lab bünyesinde projeler genellikle takım halinde yürütülmektedir. Ancak bireysel olarak geliştirilen TÜBİTAK projeleri de bulunmaktadır.",
+    "question_variants": [
+      "Ai Lab projeleri takım mı?",
+      "Ai Lab'de bireysel proje yapılır mı?"
+    ],
+    "keywords": [
+      "ailab",
+      "proje",
+      "takim",
+      "bireysel"
+    ],
+    "source": "ailab_tanitim_metni",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "ayberk",
+    "created_at": "2026-04-15"
+  },
+  {
+    "id": "topluluk_ailab_011",
+    "category": "topluluk",
+    "subcategory": "ailab_bilgi",
+    "topic": "AI Lab",
+    "canonical_question": "Ai Lab fiziksel projeler yapar mı?",
+    "answer_short": "Ai Lab hem fiziksel hem yazılım projeleri geliştirir.",
+    "answer_full": "Ai Lab bünyesinde sadece yazılım değil, aynı zamanda fiziksel prototip içeren projeler de geliştirilmektedir. Robotik ve otonom sistemler buna örnektir.",
+    "question_variants": [
+      "Ai Lab sadece yazılım mı yapıyor?",
+      "Ai Lab donanım projeleri yapıyor mu?"
+    ],
+    "keywords": [
+      "ailab",
+      "robotik",
+      "prototip",
+      "donanim"
+    ],
+    "source": "ailab_tanitim_metni",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "ayberk",
+    "created_at": "2026-04-15"
+  },
+  {
+    "id": "topluluk_ailab_012",
+    "category": "topluluk",
+    "subcategory": "ailab_bilgi",
+    "topic": "AI Lab",
+    "canonical_question": "Ai Lab'de hangi takımlar vardır?",
+    "answer_short": "Ai Lab'de farklı alanlara odaklanan proje takımları bulunmaktadır.",
+    "answer_full": "Ai Lab bünyesinde sağlıkta yapay zeka, havacılıkta yapay zeka, robotaksi, sürü İHA, rover ve hava savunma sistemleri gibi farklı alanlara odaklanan proje takımları bulunmaktadır.",
+    "question_variants": [
+      "Ai Lab'de takımları ne üzerine?",
+      "Ai Lab takımları neler?"
+    ],
+    "keywords": [
+      "ailab",
+      "takim",
+      "robotaksi",
+      "iha"
+    ],
+    "source": "ailab_tanitim_metni",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "ayberk",
+    "created_at": "2026-04-15"
+  },
+  {
+    "id": "topluluk_ailab_013",
+    "category": "topluluk",
+    "subcategory": "ailab_bilgi",
+    "topic": "AI Lab",
+    "canonical_question": "Ai Lab'de yapay zeka dışında alanlar var mı?",
+    "answer_short": "Ai Lab sadece yapay zeka değil, robotik ve otonom sistemler gibi alanlarda da çalışır.",
+    "answer_full": "Ai Lab, yapay zekanın yanı sıra robotik, otonom sistemler, görüntü işleme ve büyük dil modelleri gibi farklı teknolojik alanlarda da çalışmalar yürütmektedir.",
+    "question_variants": [
+      "Ai Lab sadece yapay zeka mı?",
+      "Ai Lab başka hangi alanlarda çalışıyor?"
+    ],
+    "keywords": [
+      "ailab",
+      "robotik",
+      "otonom",
+      "llm"
+    ],
+    "source": "ailab_tanitim_metni",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "ayberk",
+    "created_at": "2026-04-15"
+  },
+  {
+    "id": "topluluk_ailab_014",
+    "category": "topluluk",
+    "subcategory": "ailab_bilgi",
+    "topic": "AI Lab",
+    "canonical_question": "Ai Lab üyelerine ne kazandırır?",
+    "answer_short": "Ai Lab, üyelerine teknik bilgi ve proje deneyimi kazandırır.",
+    "answer_full": "Ai Lab, üyelerine gerçek projelerde çalışma fırsatı sunarak teknik bilgi, takım çalışması deneyimi ve sektör hazırlığı kazandırır.",
+    "question_variants": [
+      "Ai Lab bana ne katar?",
+      "Ai Lab'de ne öğrenirim?"
+    ],
+    "keywords": [
+      "ailab",
+      "gelisim",
+      "deneyim",
+      "egitim"
+    ],
+    "source": "ailab_tanitim_metni",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "ayberk",
+    "created_at": "2026-04-15"
+  },
+  {
+    "id": "topluluk_ailab_015",
+    "category": "topluluk",
+    "subcategory": "ailab_bilgi",
+    "topic": "AI Lab",
+    "canonical_question": "Ai Lab'de sosyal etkinlikler var mı?",
+    "answer_short": "Ai Lab'de teknik çalışmaların yanında sosyal etkinlikler de yapılır.",
+    "answer_full": "Ai Lab sadece teknik projelerle sınırlı değildir. Üyeler arasında iletişimi güçlendirmek ve keyifli vakit geçirmek için çeşitli sosyal etkinlikler de düzenlenmektedir.",
+    "question_variants": [
+      "Ai Lab'de etkinlik oluyor mu?",
+      "Ai Lab sadece proje mi?"
+    ],
+    "keywords": [
+      "ailab",
+      "etkinlik",
+      "sosyal",
+      "topluluk"
+    ],
+    "source": "ailab_tanitim_metni",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "ayberk",
+    "created_at": "2026-04-15"
+  }
+]

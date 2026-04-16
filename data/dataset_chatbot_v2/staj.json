@@ -1,0 +1,551 @@
+[
+  {
+    "id": "staj_sure_kosullar_001",
+    "category": "staj",
+    "subcategory": "sure_ve_kosullar",
+    "topic": "Zorunlu Staj Süresi",
+    "canonical_question": "KTÜN Bilgisayar Mühendisliği'nde zorunlu staj süresi ne kadardır?",
+    "answer_short": "Zorunlu staj toplam 40 iş günüdür; her biri 20 iş günü olan iki oturumda yapılır.",
+    "answer_full": "KTÜN Bilgisayar Mühendisliği Bölümü'nde zorunlu staj, her biri 20 iş günü olmak üzere iki oturumda toplam 40 iş günü olarak yapılır. Birinci oturum 4. dönem tamamlandıktan sonra, ikinci oturum 6. dönem tamamlandıktan sonra yapılabilir. 6. dönemi tamamlayan öğrenciler iki oturumu birleştirerek aynı kurumda tek seferde 40 iş günü staj yapabilirler.",
+    "question_variants": [
+      "Staj kaç gün?",
+      "Staj ne kadar sürer?",
+      "Zorunlu staj kaç iş günü?",
+      "Stajı tek seferde yapabilir miyim?"
+    ],
+    "keywords": [
+      "staj",
+      "süre",
+      "40 iş günü",
+      "20 iş günü",
+      "iki oturum",
+      "zorunlu"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_sure_kosullar_002",
+    "category": "staj",
+    "subcategory": "sure_ve_kosullar",
+    "topic": "Staj Oturumları Ne Zaman Yapılır",
+    "canonical_question": "Staj oturumları hangi dönemlerden sonra yapılabilir?",
+    "answer_short": "Staj I 4. dönem sonrası, Staj II 6. dönem sonrası yapılabilir.",
+    "answer_full": "Bilgisayar Mühendisliği Bölümü'nde birinci staj oturumu öğrenim süresinin 4. dönemi tamamlandıktan sonra, ikinci staj oturumu ise 6. dönemi tamamlandıktan sonra yapılabilir. 6. dönemi tamamlayan öğrenciler her iki oturumu birleştirerek aynı kurumda toplam 40 iş günü staj yapma hakkına sahiptir.",
+    "question_variants": [
+      "Stajı ne zaman yapabilirim?",
+      "Staj 1 kaçıncı dönemden sonra?",
+      "Staj 2 için hangi dönemi bitirmem gerekiyor?",
+      "Stajları birleştirebilir miyim?"
+    ],
+    "keywords": [
+      "staj",
+      "4. dönem",
+      "6. dönem",
+      "oturum",
+      "staj I",
+      "staj II"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_sure_kosullar_003",
+    "category": "staj",
+    "subcategory": "sure_ve_kosullar",
+    "topic": "Staj Birleştirme",
+    "canonical_question": "İki staj oturumu birleştirilebilir mi?",
+    "answer_short": "Evet, 6. dönemi tamamlayan öğrenciler iki oturumu aynı kurumda tek seferde 40 iş günü olarak birleştirebilir.",
+    "answer_full": "6. dönemi tamamlayan öğrenciler, Staj I ve Staj II oturumlarını birleştirerek aynı kurum veya kuruluşta tek seferde toplam 40 iş günü staj yapabilirler. Birleştirme yapılabilmesi için her iki oturumun da aynı iş yerinde gerçekleştirilmesi zorunludur.",
+    "question_variants": [
+      "Stajlarımı birleştirebilir miyim?",
+      "Tek seferde 40 gün staj yapabilir miyim?",
+      "İki stajı aynı yerde yapabilir miyim?"
+    ],
+    "keywords": [
+      "staj birleştirme",
+      "40 iş günü",
+      "aynı kurum",
+      "6. dönem"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_sure_kosullar_004",
+    "category": "staj",
+    "subcategory": "sure_ve_kosullar",
+    "topic": "Staj Dönemleri",
+    "canonical_question": "Staj yaz tatilinde mi yapılmak zorunda?",
+    "answer_short": "Esas olan yaz ya da yarıyıl tatilinde yapmaktır; ancak bazı istisnalarda ders dönemi içinde de yapılabilir.",
+    "answer_full": "Stajların yarıyıl veya yaz tatiline rastlayan aylarda yapılması esastır. Ancak işletme koşullarının uygun olmaması, öğrencinin tüm derslerini tamamlamış olması veya komisyon onayı gibi özel durumlarda eğitim-öğretim dönemi içinde de staj yapılabilir. Staj takvimi için bölüm web sayfasını takip ediniz: bm.ktun.edu.tr",
+    "question_variants": [
+      "Stajı ders döneminde yapabilir miyim?",
+      "Staj yazın mı yapılır?",
+      "Güz döneminde staj yapılabilir mi?"
+    ],
+    "keywords": [
+      "staj",
+      "yaz tatili",
+      "yarıyıl",
+      "ders dönemi",
+      "takvim"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_sure_kosullar_005",
+    "category": "staj",
+    "subcategory": "sure_ve_kosullar",
+    "topic": "Staj Devamsızlık",
+    "canonical_question": "Staj sırasında devamsızlık yapılabilir mi?",
+    "answer_short": "Stajyer staj süresince devamsızlık yapamaz; hastalık gibi mücbir durumlarda staj süresini tamamlamak zorundadır.",
+    "answer_full": "Stajyer, staj süresince devamsızlık yapamaz. Hastalık veya iş kazası gibi mücbir durumlarda eksik kalan günlerin tamamlanması zorunludur. Raporlu olunan günler stajdan sayılmaz; bu günler staj süresine eklenerek tamamlanmalıdır. Hastalık raporunun en geç iki iş günü içinde Bölüm Staj Komisyonu'na bildirilmesi gerekir.",
+    "question_variants": [
+      "Stajda hastalanırsam ne olur?",
+      "Raporlu günler stajdan sayılır mı?",
+      "Stajda devamsızlık hakkım var mı?",
+      "Stajda izin kullanabilir miyim?"
+    ],
+    "keywords": [
+      "staj",
+      "devamsızlık",
+      "rapor",
+      "hastalık",
+      "süre tamamlama"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_sure_kosullar_006",
+    "category": "staj",
+    "subcategory": "sure_ve_kosullar",
+    "topic": "İsteğe Bağlı Staj",
+    "canonical_question": "İsteğe bağlı staj yapabilmek için ne gerekir?",
+    "answer_short": "Lisans öğrencileri 3. sınıftan itibaren genel not ortalaması 2.50 ve üzerindeyse isteğe bağlı staj yapabilir.",
+    "answer_full": "Lisans programlarında 3. sınıftan (5. dönemden) itibaren isteğe bağlı staj yapılabilir. Bunun için genel not ortalamasının 2.50 ve üzerinde olması şarttır. İsteğe bağlı stajın süresi mezuniyet kredisi hesabına dahil edilmez ve not ortalamasına katılmaz. Tüm derslerini tamamlamış ve yalnızca zorunlu stajı kalan öğrenci isteğe bağlı staj yapamaz.",
+    "question_variants": [
+      "İsteğe bağlı staj yapabilir miyim?",
+      "Ekstra staj nasıl yapılır?",
+      "Gönüllü staj şartları neler?",
+      "İsteğe bağlı staj not ortalamasına girer mi?"
+    ],
+    "keywords": [
+      "isteğe bağlı staj",
+      "gno",
+      "2.50",
+      "3. sınıf",
+      "isteğe bağlı"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_sure_kosullar_007",
+    "category": "staj",
+    "subcategory": "sure_ve_kosullar",
+    "topic": "Çift Anadal Staj",
+    "canonical_question": "Çift anadal öğrencisi staj konusunda ne yapmalıdır?",
+    "answer_short": "Çift anadal öğrencisi her iki programın zorunlu staj yükümlülüğünü de ayrı ayrı yerine getirmek zorundadır.",
+    "answer_full": "Çift anadal programı öğrencisi, hem kendi ana programının hem de çift anadal programının (Bilgisayar Mühendisliği) zorunlu staj yükümlülüğünü ayrı ayrı yerine getirmek zorundadır. Çift anadal öğrencisi de isteğe bağlı staj yapabilir.",
+    "question_variants": [
+      "Çift anadal yapıyorum stajım nasıl?",
+      "İki bölümün stajını yapmak zorunda mıyım?",
+      "Çift anadal staj muafiyeti var mı?"
+    ],
+    "keywords": [
+      "çift anadal",
+      "staj",
+      "zorunlu staj",
+      "muafiyet"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_sure_kosullar_008",
+    "category": "staj",
+    "subcategory": "sure_ve_kosullar",
+    "topic": "Yurt Dışı Staj",
+    "canonical_question": "Stajımı yurt dışında yapabilir miyim?",
+    "answer_short": "Evet, IAESTE, Erasmus veya AIESEC gibi programlar aracılığıyla ya da bireysel olarak yurt dışında staj yapılabilir.",
+    "answer_full": "Stajını yurt dışında yapmak isteyen öğrenci kendi imkânlarıyla veya IAESTE, Erasmus, AIESEC gibi uluslararası programlar aracılığıyla yurt dışında staj yapabilir. Yurt dışı stajın kendi programındaki stajla eşdeğerliği bölüm staj komisyonu tarafından değerlendirilir. Yurt dışı stajlarda sigorta dahil tüm sorumluluk öğrenciye aittir.",
+    "question_variants": [
+      "Yurt dışında staj yapabilir miyim?",
+      "Erasmus ile staj olur mu?",
+      "Yabancı ülkede staj geçerli mi?"
+    ],
+    "keywords": [
+      "yurt dışı staj",
+      "erasmus",
+      "iaeste",
+      "aiesec",
+      "uluslararası staj"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_basvuru_001",
+    "category": "staj",
+    "subcategory": "basvuru_sureci",
+    "topic": "Staj Başvurusu Nasıl Yapılır",
+    "canonical_question": "Staj başvurusu nasıl yapılır?",
+    "answer_short": "Önce iş yeri bulunur, iş yerinden kabul belgesi alınır, ardından bölüm staj komisyonuna başvurulur.",
+    "answer_full": "Staj başvurusu şu adımlarla yapılır: 1) Öğrenci staj yapmak istediği iş yerine bizzat başvurur. 2) Kabul durumunda iş yerinden antetli/kaşeli kabul belgesi alınır. 3) Bu belge ve bölümün istediği diğer evraklarla bölüm staj komisyonuna başvurulur. 4) Komisyon iş yerinin uygunluğunu değerlendirir ve onaylar. Başvuru tarihleri için bölüm web sitesini takip ediniz: bm.ktun.edu.tr",
+    "question_variants": [
+      "Staj başvurusu nasıl yapılır?",
+      "Staj için ne yapmalıyım?",
+      "Staj başvuru süreci nasıl işliyor?",
+      "Staj yerini ben mi bulmalıyım?"
+    ],
+    "keywords": [
+      "staj başvurusu",
+      "iş yeri",
+      "kabul belgesi",
+      "komisyon onayı"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_basvuru_002",
+    "category": "staj",
+    "subcategory": "basvuru_sureci",
+    "topic": "Staj Takvimi",
+    "canonical_question": "Staj başvuru tarihleri ne zaman?",
+    "answer_short": "Staj takvimi her yıl güncellenir; güncel tarihler için bölüm web sitesini takip ediniz.",
+    "answer_full": "Staj başvuru, staj dönemi ve belge teslim tarihleri her yıl bölüm staj komisyonu tarafından belirlenerek bölüm web sayfasında yayınlanır. Ayrıca bahar yarıyılı başında staj bilgilendirme toplantısı düzenlenir. Güncel takvim için bm.ktun.edu.tr adresini takip ediniz.",
+    "question_variants": [
+      "Staj başvurusu ne zaman açılıyor?",
+      "Staj takvimi ne zaman?",
+      "Staj başvurusu için son gün ne zaman?"
+    ],
+    "keywords": [
+      "staj takvimi",
+      "başvuru tarihi",
+      "bölüm sitesi",
+      "bilgilendirme toplantısı"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_basvuru_003",
+    "category": "staj",
+    "subcategory": "basvuru_sureci",
+    "topic": "Staj Yeri Değiştirme",
+    "canonical_question": "Staj başladıktan sonra staj yeri değiştirilebilir mi?",
+    "answer_short": "Zorunlu durumlarda komisyon onayıyla staj yeri aynı dönem içinde değiştirilebilir.",
+    "answer_full": "Öğrenci, bölüm staj komisyonunun onayladığı iş yeri dışında staj yapamaz. Ancak iş yerinde veya öğrenci açısından zorunlu bir durum ortaya çıkarsa, öğrencinin talebi üzerine komisyon aynı staj dönemi içinde iş yeri değişikliğine izin verebilir.",
+    "question_variants": [
+      "Staj yerimi değiştirebilir miyim?",
+      "Staj başladıktan sonra iş yeri değişir mi?",
+      "Staj yerinden ayrılmak zorunda kalsam ne olur?"
+    ],
+    "keywords": [
+      "staj yeri değiştirme",
+      "komisyon onayı",
+      "iş yeri değişikliği"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_basvuru_004",
+    "category": "staj",
+    "subcategory": "basvuru_sureci",
+    "topic": "Staj Yeri Şartları",
+    "canonical_question": "Staj yapılacak iş yerinde ne gibi şartlar aranır?",
+    "answer_short": "İş yerinin staj için uygunluğuna bölüm staj komisyonu karar verir; kamu veya özel sektör işyerleri olabilir.",
+    "answer_full": "Zorunlu staj kamu kurumlarında ya da özel sektör iş yerlerinde yapılabilir. İş yerinin uygunluğuna bölüm staj komisyonu karar verir. Öğrenci ayrıca bölüm staj komisyonunun uygun görmesi halinde yurt içi veya yurt dışı yükseköğretim kurumlarındaki projelerde de staj yapabilir.",
+    "question_variants": [
+      "Her şirkette staj yapılabilir mi?",
+      "Staj yeri nasıl seçilmeli?",
+      "Hangi iş yerlerinde staj yapılabilir?",
+      "Staj yeri özel mi kamu mu?"
+    ],
+    "keywords": [
+      "staj yeri",
+      "kamu",
+      "özel sektör",
+      "komisyon onayı",
+      "uygunluk"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_belgeler_001",
+    "category": "staj",
+    "subcategory": "belgeler",
+    "topic": "Staj Başvurusu İçin Gerekli Belgeler",
+    "canonical_question": "Staj başvurusu için hangi belgeler gereklidir?",
+    "answer_short": "İş yerinden alınan kabul belgesi ve bölümün istediği diğer evraklar komisyona teslim edilir.",
+    "answer_full": "Staj başvurusu için: 1) İş yerinden alınan antetli veya kaşeli, tarihli ve stajın adını içeren kabul belgesi, 2) Bölüm tarafından istenen diğer evraklar hazırlanarak bölüm staj komisyonuna teslim edilir. Başvuru formu ve güncel belge listesi için bölüm web sitesini ziyaret ediniz: bm.ktun.edu.tr",
+    "question_variants": [
+      "Staj için hangi evraklar lazım?",
+      "Staj başvurusunda ne isteniyor?",
+      "Staj belgelerini nereden alırım?"
+    ],
+    "keywords": [
+      "staj belgeleri",
+      "kabul belgesi",
+      "başvuru formu",
+      "evrak"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_belgeler_002",
+    "category": "staj",
+    "subcategory": "belgeler",
+    "topic": "Staj Defteri",
+    "canonical_question": "Staj defteri nedir ve nasıl doldurulur?",
+    "answer_short": "Staj süresince yapılan çalışmaların günlük olarak kaydedildiği resmi belgedir; her sayfası iş yeri yetkilisine imzalattırılır.",
+    "answer_full": "Staj defteri, staj süresince yapılan çalışmaların haftalık çalışma çizelgesine teknik rapor formatında yazıldığı resmi belgedir. Türkçe (yurt dışı stajlarda İngilizce) yazılır. Her sayfa iş yeri yetkilisinin isim, imza, tarih ve kaşesiyle onaylanır. Defterin son sayfasındaki staj sicil fişi iş yeri yetkilisi tarafından doldurulup kapalı zarfla öğrenciye teslim edilir.",
+    "question_variants": [
+      "Staj defteri ne demek?",
+      "Staj defterini nasıl dolduracağım?",
+      "Staj defterini kim imzalar?",
+      "Staj günlüğü nasıl tutulur?"
+    ],
+    "keywords": [
+      "staj defteri",
+      "haftalık çalışma",
+      "imza",
+      "kaşe",
+      "teknik rapor"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_belgeler_003",
+    "category": "staj",
+    "subcategory": "belgeler",
+    "topic": "Staj Defteri Teslimi",
+    "canonical_question": "Staj defteri ne zamana kadar teslim edilmelidir?",
+    "answer_short": "Staj bitiminde bölüm başkanlığı tarafından ilan edilen tarihe kadar imza karşılığı teslim edilmelidir.",
+    "answer_full": "Stajyer, staj çalışmasının sonunda hazırladığı staj defterini ve staj sicil fişini içeren kapalı zarfı bölüm başkanlığının ilan ettiği tarihe kadar imza karşılığı teslim etmek zorundadır. Süresi içinde teslim etmeyen öğrencinin stajı geçersiz sayılır. Güncel teslim tarihi için bölüm web sitesini takip ediniz: bm.ktun.edu.tr",
+    "question_variants": [
+      "Staj defterini ne zaman teslim etmeliyim?",
+      "Staj defteri teslim tarihi geçerse ne olur?",
+      "Staj evraklarını nereye teslim edeceğim?"
+    ],
+    "keywords": [
+      "staj defteri teslimi",
+      "teslim tarihi",
+      "bölüm başkanlığı",
+      "geçersiz"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_belgeler_004",
+    "category": "staj",
+    "subcategory": "belgeler",
+    "topic": "Staj Sicil Fişi",
+    "canonical_question": "Staj sicil fişi nedir?",
+    "answer_short": "Staj tamamlandıktan sonra iş yeri yetkilisinin öğrenci hakkındaki değerlendirmesini içeren kapalı zarflı belgedir.",
+    "answer_full": "Staj sicil fişi, staj sonunda iş yeri yetkilisi tarafından doldurulan değerlendirme belgesidir. Defterin son sayfasında yer alır; yetkili tarafından doldurulup kapalı zarf içinde zarfın üzeri imzalı ve kaşeli olarak öğrenciye teslim edilir. Öğrenci bu zarfı açmadan bölüm başkanlığına iletmek zorundadır. Açılmış zarflar kabul edilmez.",
+    "question_variants": [
+      "Staj sicil fişi nedir?",
+      "İş yeri değerlendirme formu nedir?",
+      "Staj değerlendirme belgesi ne yapılır?"
+    ],
+    "keywords": [
+      "staj sicil fişi",
+      "değerlendirme",
+      "kapalı zarf",
+      "iş yeri yetkilisi"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_belgeler_005",
+    "category": "staj",
+    "subcategory": "belgeler",
+    "topic": "Staj Sigortası",
+    "canonical_question": "Staj sırasında sigorta işlemleri nasıl yapılır?",
+    "answer_short": "Yurt içi stajlarda sigorta işlemleri Fakülte yönetimi tarafından yapılır; öğrencinin ayrıca bir işlem yapmasına gerek yoktur.",
+    "answer_full": "Yurt içinde staj yapacak öğrencilerin iş kazası ve meslek hastalığı sigortası, ilgili Fakülte/MYO yönetimi tarafından yapılır ve primleri Konya Teknik Üniversitesi tarafından karşılanır. Yurt dışında yapılan stajlarda sigorta masrafları dahil tüm sorumluluk öğrenciye aittir. Staj sırasında iş kazası yaşanması halinde durum en geç 3 iş günü içinde SGK'ya ve Üniversiteye bildirilmelidir.",
+    "question_variants": [
+      "Stajda sigortalı mıyım?",
+      "Staj sigortasını kim yapıyor?",
+      "Staj sırasında kaza geçirirsem ne olur?",
+      "Staj sigortası ücretli mi?"
+    ],
+    "keywords": [
+      "staj sigortası",
+      "sgk",
+      "iş kazası",
+      "fakülte",
+      "sigorta pirimi"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_sureci_001",
+    "category": "staj",
+    "subcategory": "staj_sureci",
+    "topic": "Staj Değerlendirmesi",
+    "canonical_question": "Staj nasıl değerlendirilir?",
+    "answer_short": "Staj, bölüm staj komisyonu tarafından değerlendirilerek 'başarılı' veya 'başarısız' olarak sonuçlandırılır; not ortalamasına katılmaz.",
+    "answer_full": "Staj değerlendirmesi şu şekilde işler: İş yeri sicil fişinde stajın başarılı bulunması şarttır; aksi halde defter incelenmeksizin başarısız sayılır. Komisyon defteri şekilsel ve içerik açısından inceler; gerekirse mülakat veya sözlü sunum isteyebilir. Sonuç 'başarılı' (G) veya 'başarısız' (K) olarak verilir ve not ortalamasına (GANO) katılmaz. Sonuçlara 5 iş günü içinde itiraz edilebilir.",
+    "question_variants": [
+      "Staj notu not ortalamamı etkiler mi?",
+      "Staj değerlendirmesi nasıl yapılır?",
+      "Stajdan başarısız sayılırsam ne olur?",
+      "Staj sonuçlarına itiraz edebilir miyim?"
+    ],
+    "keywords": [
+      "staj değerlendirme",
+      "başarılı",
+      "başarısız",
+      "gano",
+      "itiraz",
+      "g/k notu"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_sureci_002",
+    "category": "staj",
+    "subcategory": "staj_sureci",
+    "topic": "Staj Komisyonu İletişim",
+    "canonical_question": "Staj komisyonuna nasıl ulaşabilirim?",
+    "answer_short": "Staj Komisyonu Başkanı Dr. Öğr. Üyesi Alper Kılıç'tır; iletişim için akilic@ktun.edu.tr adresini kullanabilirsiniz.",
+    "answer_full": "KTÜN Bilgisayar Mühendisliği Bölümü Staj Komisyonu üyeleri şunlardır: Başkan: Dr. Öğr. Üyesi Alper Kılıç (akilic@ktun.edu.tr), Üyeler: Dr. Öğr. Üyesi Sedat Korkmaz (skorkmaz@ktun.edu.tr), Arş. Gör. H. Esra Özdeniz (heurmamen@ktun.edu.tr), Arş. Gör. Mahmut Karaaslan (mkaraaslan@ktun.edu.tr), Arş. Gör. Atıf Özmen (aozmen@ktun.edu.tr), Arş. Gör. Nuri Koştu (nkostu@ktun.edu.tr), Arş. Gör. Hüseyin Kılınçarslan (hkilincarslan@ktun.edu.tr).",
+    "question_variants": [
+      "Staj komisyonu başkanı kim?",
+      "Staj hakkında kime sorarım?",
+      "Staj komisyonunun maili nedir?",
+      "Stajla ilgili iletişim bilgileri neler?"
+    ],
+    "keywords": [
+      "staj komisyonu",
+      "alper kılıç",
+      "iletişim",
+      "email",
+      "komisyon başkanı"
+    ],
+    "source": "ktun_bm_staj_komisyonu_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_sureci_003",
+    "category": "staj",
+    "subcategory": "staj_sureci",
+    "topic": "Staj ve Mezuniyet",
+    "canonical_question": "Stajı tamamlamadan mezun olabilir miyim?",
+    "answer_short": "Hayır, zorunlu staj mezuniyet şartlarından biridir; tamamlanmadan mezun olunamaz.",
+    "answer_full": "Zorunlu staj, mezuniyet için tamamlanması zorunlu bir yükümlülüktür. Stajını tamamladığı gün itibariyle mezun olabilecek durumda olan öğrencinin staj evrakı ve defteri 15 gün içinde değerlendirme sürecine alınır. Her dönem stajı ayrı bir ders olarak değerlendirilir ve öğrenci otomasyon sisteminde ders koduyla gösterilir.",
+    "question_variants": [
+      "Stajım yoksa mezun olamaz mıyım?",
+      "Staj mezuniyet şartı mı?",
+      "Stajsız diploma alınır mı?"
+    ],
+    "keywords": [
+      "staj",
+      "mezuniyet",
+      "zorunlu",
+      "diploma",
+      "ders kodu"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  },
+  {
+    "id": "staj_sureci_004",
+    "category": "staj",
+    "subcategory": "staj_sureci",
+    "topic": "Yatay Geçiş Staj Muafiyeti",
+    "canonical_question": "Yatay geçişle gelen öğrencinin önceki stajı sayılır mı?",
+    "answer_short": "Önceki kurumda yapılan stajın muafiyeti bölüm intibak komisyonu tarafından değerlendirilerek karara bağlanır.",
+    "answer_full": "Yatay geçiş, dikey geçiş veya başka usullerle programda öğretime başlayan öğrencinin önceki eğitim kurumlarında yapmış olduğu zorunlu stajdan muafiyeti, ilgili bölümün intibak komisyonunca değerlendirilerek karara bağlanır. Otomatik muafiyet söz konusu değildir.",
+    "question_variants": [
+      "Yatay geçişle geldim stajım sayılır mı?",
+      "Önceki okuldaki stajım geçerli mi?",
+      "Transfer öğrencisi staj muafiyeti nasıl?"
+    ],
+    "keywords": [
+      "yatay geçiş",
+      "staj muafiyeti",
+      "intibak komisyonu",
+      "transfer"
+    ],
+    "source": "ktun_bm_staj_yonergesi_2024",
+    "verified": false,
+    "valid_until": null,
+    "created_by": "sevval",
+    "created_at": "2025-04-15"
+  }
+]
