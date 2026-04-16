@@ -15,7 +15,7 @@ This project benchmarks multiple RAG (Retrieval-Augmented Generation) architectu
 - LLM: Qwen3.5-9B / Qwen2.5-7B (auto-selected based on available VRAM)
 - Embedding: `paraphrase-multilingual-MiniLM-L12-v2`
 - Orchestration: LangGraph
-- Evaluation: RAGAS
+
 
 ---
 
