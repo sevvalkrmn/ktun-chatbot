@@ -1,0 +1,927 @@
+{
+  "metadata": {
+    "toplam_soru": 100,
+    "olusturma_tarihi": "2026-04-04",
+    "amac": "RAGAS degerlendirmesi",
+    "random_seed": 42,
+    "kategori_dagilimi": {
+      "bolum_dersleri": 20,
+      "staj": 18,
+      "obs": 12,
+      "yataygecis": 12,
+      "yaz_okulu": 10,
+      "erasmus": 10,
+      "yemekhane": 6,
+      "lms": 4,
+      "genel": 4,
+      "konu_disi": 4
+    },
+    "difficulty_dagilimi": {
+      "zor": 27,
+      "orta": 41,
+      "kolay": 32
+    }
+  },
+  "sorular": [
+    {
+      "id": "bolum_dersleri_7994",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "BMG dersinin temel amacı nedir?",
+      "output": "14. haftada Veritabanı/SQL, 14-15. haftada ise Bilgisayar Ağları işlenecektir.",
+      "category": "bolum_dersleri",
+      "difficulty": "zor",
+      "ground_truth": "14. haftada Veritabanı/SQL, 14-15. haftada ise Bilgisayar Ağları işlenecektir."
+    },
+    {
+      "id": "bolum_dersleri_7589",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "İSG dersinde işlenecek konular nelerdir?",
+      "output": "Evet, 5. haftada Fiziksel Risk Etmenleri başlığı altında Gürültü ve Titreşim konuları işlenmektedir.",
+      "category": "bolum_dersleri",
+      "difficulty": "zor",
+      "ground_truth": "Evet, 5. haftada Fiziksel Risk Etmenleri başlığı altında Gürültü ve Titreşim konuları işlenmektedir."
+    },
+    {
+      "id": "bolum_dersleri_6454",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "Matematik 2 dersinin temel amacı nedir?",
+      "output": "Ders içeriğinde Seriler, Yakınsaklık Kriterleri, Çok Değişkenli Fonksiyonlar, Kısmi Türev, Katlı İntegraller (İki ve Üç Katlı) ve Vektör Değerli Fonksiyonlar yer almaktadır.",
+      "category": "bolum_dersleri",
+      "difficulty": "zor",
+      "ground_truth": "Ders içeriğinde Seriler, Yakınsaklık Kriterleri, Çok Değişkenli Fonksiyonlar, Kısmi Türev, Katlı İntegraller (İki ve Üç Katlı) ve Vektör Değerli Fonksiyonlar yer almaktadır. ..."
+    },
+    {
+      "id": "bolum_dersleri_5602",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "Nesneye Yönelik Programlama dersinden geçmek için ödev yapmak zorunlu mu?",
+      "output": "İş yükü tablosunda 2 adet kısa sınav (quiz) tanımlanmıştır.",
+      "category": "bolum_dersleri",
+      "difficulty": "zor",
+      "ground_truth": "İş yükü tablosunda 2 adet kısa sınav (quiz) tanımlanmıştır."
+    },
+    {
+      "id": "bolum_dersleri_4264",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "Kanka Yazılım Mühendisliğine Giriş 11. hafta ne işlediniz?",
+      "output": "Yazılım Mühendisliğine Giriş dersinin 11. hafta içeriği 'Nesneye Yönelik Çözümleme ve Tasarım' konusudur.",
+      "category": "bolum_dersleri",
+      "difficulty": "orta",
+      "ground_truth": "Yazılım Mühendisliğine Giriş dersinin 11. ..."
+    },
+    {
+      "id": "bolum_dersleri_5241",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "BBF402 dersinde uygulama saati var mı?",
+      "output": "Hayır, dersin uygulama saati 0 olarak belirtilmiştir.",
+      "category": "bolum_dersleri",
+      "difficulty": "orta",
+      "ground_truth": "Hayır, dersin uygulama saati 0 olarak belirtilmiştir."
+    },
+    {
+      "id": "bolum_dersleri_9706",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "İleri Yapısal Sorgulama Dili dersinin kredisi kaç?",
+      "output": "İleri Yapısal Sorgulama Dili (BIL744) dersi 5 AKTS değerindedir.",
+      "category": "bolum_dersleri",
+      "difficulty": "orta",
+      "ground_truth": "İleri Yapısal Sorgulama Dili (BIL744) dersi 5 AKTS değerindedir."
+    },
+    {
+      "id": "bolum_dersleri_1921",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "Kanka işaret sistem 6. hafta ne işledik?",
+      "output": "Dersin 6. haftasında 'Fark denklemleriyle tanımlanan sistemler, tekrarlı çözüm, dürtü cevabı' konuları işlenecektir.",
+      "category": "bolum_dersleri",
+      "difficulty": "orta",
+      "ground_truth": "Dersin 6. ..."
+    },
+    {
+      "id": "bolum_dersleri_3539",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "Kanki Veritabanı Yönetim Sistemleri dersi sıkıcı mı geçiyor, yöntemler ne?",
+      "output": "Dersin öğretim yöntemleri; anlatım, soru-cevap, proje geliştirme ve uygulama-alıştırma tekniklerini içermektedir.",
+      "category": "bolum_dersleri",
+      "difficulty": "orta",
+      "ground_truth": "Dersin öğretim yöntemleri; anlatım, soru-cevap, proje geliştirme ve uygulama-alıştırma tekniklerini içermektedir. ..."
+    },
+    {
+      "id": "bolum_dersleri_6447",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "BBF201 dersinde lab var mı?",
+      "output": "Evet, haftada 4 saat teorik derse ek olarak 2 saat uygulama saati bulunmaktadır.",
+      "category": "bolum_dersleri",
+      "difficulty": "orta",
+      "ground_truth": "Evet, haftada 4 saat teorik derse ek olarak 2 saat uygulama saati bulunmaktadır."
+    },
+    {
+      "id": "bolum_dersleri_6341",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "İnkılap Tarihi 2 dersinin ağırlığı (AKTS) nedir?",
+      "output": "Dersin AKTS değeri 2'dir.",
+      "category": "bolum_dersleri",
+      "difficulty": "orta",
+      "ground_truth": "Dersin AKTS değeri 2'dir."
+    },
+    {
+      "id": "bolum_dersleri_1482",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "İşletim Sis 7. hafta konusu zor mu, endişeliyim.",
+      "output": "Yedinci hafta deadlock durumları, diyagramları ile deadlock belirleme ve önleme algoritmaları anlatılacaktır. ",
+      "category": "bolum_dersleri",
+      "difficulty": "orta",
+      "ground_truth": "Yedinci hafta deadlock durumları, diyagramları ile deadlock belirleme ve önleme algoritmaları anlatılacaktır. ..."
+    },
+    {
+      "id": "bolum_dersleri_7586",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "Yangın eğitimi veya yangın konusu var mı?",
+      "output": "Evet, 11. haftada Yangın ve Yangın Türleri konusu işlenmektedir.",
+      "category": "bolum_dersleri",
+      "difficulty": "kolay",
+      "ground_truth": "Evet, 11. haftada Yangın ve Yangın Türleri konusu işlenmektedir."
+    },
+    {
+      "id": "bolum_dersleri_5266",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "Olasılık dağılımları (Normal, Binom, Poisson) BBF402 dersinde hangi hafta?",
+      "output": "Kesikli dağılımlar (Binom, Poisson vb.) 7. haftada; Sürekli dağılımlar (Normal, Üstel vb.) 9. haftada işlenmektedir.",
+      "category": "bolum_dersleri",
+      "difficulty": "kolay",
+      "ground_truth": "Kesikli dağılımlar (Binom, Poisson vb. ..."
+    },
+    {
+      "id": "bolum_dersleri_6311",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "BIL301 dersi hangi sınıfta işleniyor?",
+      "output": "Ders programlarına ve derslik bilgisine bölüm sayfasındaki 'Ders Programları' kısmından ulaşabilirsiniz.",
+      "category": "bolum_dersleri",
+      "difficulty": "kolay",
+      "ground_truth": "Ders programlarına ve derslik bilgisine bölüm sayfasındaki 'Ders Programları' kısmından ulaşabilirsiniz. ..."
+    },
+    {
+      "id": "bolum_dersleri_7462",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "Fizikte ders saatleri nasıl? Lab var mı?",
+      "output": "Ders haftada 3 saat teorik ve 2 saat uygulama olmak üzere toplam 5 saattir (3+2).",
+      "category": "bolum_dersleri",
+      "difficulty": "kolay",
+      "ground_truth": "Ders haftada 3 saat teorik ve 2 saat uygulama olmak üzere toplam 5 saattir (3+2)."
+    },
+    {
+      "id": "bolum_dersleri_7492",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "Newton'un hareket yasalarını görecek miyiz?",
+      "output": "Evet, 5. haftada Hareket Kanunları, 6. haftada ise Newton Kanunlarının uygulamaları işlenecektir.",
+      "category": "bolum_dersleri",
+      "difficulty": "kolay",
+      "ground_truth": "Evet, 5. haftada Hareket Kanunları, 6. haftada ise Newton Kanunlarının uygulamaları işlenecektir."
+    },
+    {
+      "id": "bolum_dersleri_7929",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "BMG Dersi Sadece bilgisayar mı anlatılıyor, başka ne var?",
+      "output": "Evet, ders içeriğinde mühendislik etiği hakkında bilgiler de verilmektedir.",
+      "category": "bolum_dersleri",
+      "difficulty": "kolay",
+      "ground_truth": "Evet, ders içeriğinde mühendislik etiği hakkında bilgiler de verilmektedir."
+    },
+    {
+      "id": "bolum_dersleri_7477",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "Fizik-1 için notlandırma sistemi nasıl? Ödev puan getiriyor mu?",
+      "output": "Ders notu sadece sınavlarla belirlenir. Ara sınavın (Vize) %100'ü ve Genel sınavın (Final) %100'ü esas alınır. Ödev katkısı görünmemektedir.",
+      "category": "bolum_dersleri",
+      "difficulty": "kolay",
+      "ground_truth": "Ders notu sadece sınavlarla belirlenir. ..."
+    },
+    {
+      "id": "bolum_dersleri_8010",
+      "source": "ktun_bm_ders_programi_2025_2026",
+      "instruction": "BMG Finalde tüm konulardan mı sorumluyuz?",
+      "output": "Dersin öğrenim çıktılarına göre bilgisayar sistemleri, algoritmalar, boole cebiri, işletim sistemleri ve programlama dilleri kavramlarının tamamı hedeflenmektedir.",
+      "category": "bolum_dersleri",
+      "difficulty": "kolay",
+      "ground_truth": "Dersin öğrenim çıktılarına göre bilgisayar sistemleri, algoritmalar, boole cebiri, işletim sistemleri ve programlama dilleri kavramlarının tamamı hedeflenmektedir. ..."
+    },
+    {
+      "id": "staj_1428",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "Başvuru formu teslim şekli?",
+      "output": "Teslim yöntemi (fiziki veya dijital) her dönem Bölüm Başkanlığı tarafından duyurulur. Güncel ilana bakarak hareket etmelisiniz.",
+      "category": "staj",
+      "difficulty": "zor",
+      "ground_truth": "Teslim yöntemi (fiziki veya dijital) her dönem Bölüm Başkanlığı tarafından duyurulur. ..."
+    },
+    {
+      "id": "staj_0815",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "Staj sonuç ilanı?",
+      "output": "Staj dosyalarının tesliminden sonra Staj Komisyonu incelemesini yapar ve sonuçlar Bölüm Başkanlığı tarafından ilan edilir. Kesin tarih akademik takvimde belirtilir.",
+      "category": "staj",
+      "difficulty": "zor",
+      "ground_truth": "Staj dosyalarının tesliminden sonra Staj Komisyonu incelemesini yapar ve sonuçlar Bölüm Başkanlığı tarafından ilan edilir. ..."
+    },
+    {
+      "id": "staj_0798",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "Yazın memlekette olacağım için okula gelme şansım yok, staj başvuru formunu arkadaşım aracılığıyla göndersem ya da online yüklesem olur mu?",
+      "output": "Bölümün duyurusuna göre değişir. Bazı dönemlerde online (e-posta veya sistem üzerinden), bazı dönemlerde ise ıslak imzalı olarak elden teslim istenir.",
+      "category": "staj",
+      "difficulty": "zor",
+      "ground_truth": "Bölümün duyurusuna göre değişir. ..."
+    },
+    {
+      "id": "staj_1533",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "3. sınıfı bitirdim, bu yaz aynı yerde 40 gün staj yapıp her iki oturumu da bitirebilir miyim?",
+      "output": "Evet, yapabilirsiniz. 3. sınıfı (6. yarıyılı) tamamladığınız için hem I. hem II. Oturum hakkınız var. Aynı iş yerinde yapıyorsanız bu iki oturumu birleştirerek 40 günü tek seferde tamamlayabilirsiniz.",
+      "category": "staj",
+      "difficulty": "zor",
+      "ground_truth": "Evet, yapabilirsiniz. ..."
+    },
+    {
+      "id": "staj_0508",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "Stajın başarısız sayılması halinde uygulanacak akademik işlem nedir?",
+      "output": "Başarısız sayılan stajı, aynı şartlarda tekrar yapmanız gerekmektedir. Başarısız staj mezuniyete engeldir.",
+      "category": "staj",
+      "difficulty": "orta",
+      "ground_truth": "Başarısız sayılan stajı, aynı şartlarda tekrar yapmanız gerekmektedir. ..."
+    },
+    {
+      "id": "staj_0892",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "Staja başlamadan bir gün önce evrak teslim etsem sorun çıkar mı?",
+      "output": "Hayır, yetişmez. Sigorta girişinin yapılabilmesi için staj başlangıç tarihinden en az 1 hafta (bazı durumlarda 15 gün) önce evrakların tamamlanmış olması gerekir.",
+      "category": "staj",
+      "difficulty": "orta",
+      "ground_truth": "Hayır, yetişmez. ..."
+    },
+    {
+      "id": "staj_0410",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "Sicil fişimi açık zarfla getirsem bir sorun yaşar mıyım?",
+      "output": "Hayır. Sicil fişi, iş yeri yetkilisi tarafından doldurulup, imzalanıp kaşelendikten sonra 'kapalı ve mühürlü' bir zarf içinde teslim edilmelidir.",
+      "category": "staj",
+      "difficulty": "orta",
+      "ground_truth": "Hayır. ..."
+    },
+    {
+      "id": "staj_1123",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "Yaz okulu bitimiyle güz dönemi başlangıcı arasında staj olur mu?",
+      "output": "Evet olur. Akademik takvimde ders/sınav görünmeyen o ara dönemde stajınızı tamamlayabilirsiniz.",
+      "category": "staj",
+      "difficulty": "orta",
+      "ground_truth": "Evet olur. Akademik takvimde ders/sınav görünmeyen o ara dönemde stajınızı tamamlayabilirsiniz."
+    },
+    {
+      "id": "staj_0007",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "staj kac gun suruyor?",
+      "output": "Bilgisayar Mühendisliği Bölümü için zorunlu staj süresi toplam 40 iş günüdür. Bu süre, her biri 20 iş günü olan iki ayrı oturum (I. Oturum ve II. Oturum) halinde yapılır. Ancak her iki oturumu da aynı iş yerinde yapmak şartıyla, I. ve II. Oturumu arka arkaya birleştirerek 40 günü tek seferde tamamlayabilirsiniz.",
+      "category": "staj",
+      "difficulty": "orta",
+      "ground_truth": "Bilgisayar Mühendisliği Bölümü için zorunlu staj süresi toplam 40 iş günüdür. ..."
+    },
+    {
+      "id": "staj_0057",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "Ben stajımı planlıyorum, 3. yarıyıl sonunda yapsam kabul olur mu?",
+      "output": "Zorunlu stajın I. oturumunu yapabilmek için önlisans/lisans programındaki öğrenim süresinin ilk 4 dönemini (2. sınıfı) tamamlamış olmanız gerekmektedir.",
+      "category": "staj",
+      "difficulty": "orta",
+      "ground_truth": "Zorunlu stajın I. ..."
+    },
+    {
+      "id": "staj_0640",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "Kendi kararımla staj yerini değiştirirsem stajım kabul olur mu?",
+      "output": "Hayır. Staj yeri değişikliği ancak zorunlu hallerde ve Staj Komisyonunun onayı ile yapılabilir. İzinsiz değişikliklerde staj geçersiz sayılır.",
+      "category": "staj",
+      "difficulty": "orta",
+      "ground_truth": "Hayır. ..."
+    },
+    {
+      "id": "staj_0424",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "Eyvah, staj sicil fişimi bulamıyorum, stajım yanar mı?",
+      "output": "Sicil fişi stajın değerlendirilmesi için zorunlu bir belgedir. Bu belge olmadan stajınız değerlendirmeye alınamaz ve geçersiz sayılabilir.",
+      "category": "staj",
+      "difficulty": "orta",
+      "ground_truth": "Sicil fişi stajın değerlendirilmesi için zorunlu bir belgedir. ..."
+    },
+    {
+      "id": "staj_1234",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "her sayfaya imza lazim mi ya?",
+      "output": "Evet lazım. Üşenmeden defterin her sayfasını oradaki mühendise veya amire imzalatıp kaşelettirmen gerekiyor.",
+      "category": "staj",
+      "difficulty": "kolay",
+      "ground_truth": "Evet lazım. ..."
+    },
+    {
+      "id": "staj_1197",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "dgs ile geldim staji saydiramazmiyim?",
+      "output": "Saydırabilirsin. Bölümdeki intibak komisyonuna başvurman lazım, onlar eski stajına bakıp karar veriyor.",
+      "category": "staj",
+      "difficulty": "kolay",
+      "ground_truth": "Saydırabilirsin. ..."
+    },
+    {
+      "id": "staj_1496",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "Sadece defter teslimi yeterli mi?",
+      "output": "Genellikle yeterlidir ancak Komisyon gerek duyarsa ek olarak mülakat yapmayı da talep edebilir.",
+      "category": "staj",
+      "difficulty": "kolay",
+      "ground_truth": "Genellikle yeterlidir ancak Komisyon gerek duyarsa ek olarak mülakat yapmayı da talep edebilir."
+    },
+    {
+      "id": "staj_1114",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "Yaz okulu sonrası staj?",
+      "output": "Dersler ve sınavlar bittiği sürece (akademik takvim dışındaki boşluklarda) staj yapmanızda bir engel yoktur.",
+      "category": "staj",
+      "difficulty": "kolay",
+      "ground_truth": "Dersler ve sınavlar bittiği sürece (akademik takvim dışındaki boşluklarda) staj yapmanızda bir engel yoktur. ..."
+    },
+    {
+      "id": "staj_1267",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "Defter teslimi için son gün ne zaman?",
+      "output": "Son gün her yıl akademik takvimle belirlenir ve duyurulur. Bölüm panolarını veya web sitesini kontrol ediniz.",
+      "category": "staj",
+      "difficulty": "kolay",
+      "ground_truth": "Son gün her yıl akademik takvimle belirlenir ve duyurulur. ..."
+    },
+    {
+      "id": "staj_1505",
+      "source": "ktun_bm_staj_yonergesi_2026",
+      "instruction": "Bilemediğim soru olursa disiplin cezası alır mıyım?",
+      "output": "Eğer stajınızın sahte olduğu (naylon staj) anlaşılırsa sadece stajınız reddedilmekle kalmaz, disiplin soruşturması da açılabilir.",
+      "category": "staj",
+      "difficulty": "kolay",
+      "ground_truth": "Eğer stajınızın sahte olduğu (naylon staj) anlaşılırsa sadece stajınız reddedilmekle kalmaz, disiplin soruşturması da açılabilir. ..."
+    },
+    {
+      "id": "obs_0965",
+      "source": "ktun_obs_kullanici_kilavuzu",
+      "instruction": "Dönem ortalaması nasıl hesaplanır?",
+      "output": "Dönem sonunda oluşan ortalama Aktif Dönem Notlarım sayfasında görüntülenir ve öğrencinin akademik durumunu takip etmesini sağlar.",
+      "category": "obs",
+      "difficulty": "zor",
+      "ground_truth": "Dönem sonunda oluşan ortalama Aktif Dönem Notlarım sayfasında görüntülenir ve öğrencinin akademik durumunu takip etmesini sağlar. ..."
+    },
+    {
+      "id": "obs_0333",
+      "source": "ktun_obs_kullanici_kilavuzu",
+      "instruction": "Şifremi unuttum ne yapmalıyım?",
+      "output": "Şifremi Unuttum butonu OBS giriş ekranında bulunmaktadır.",
+      "category": "obs",
+      "difficulty": "zor",
+      "ground_truth": "Şifremi Unuttum butonu OBS giriş ekranında bulunmaktadır."
+    },
+    {
+      "id": "obs_0403",
+      "source": "ktun_obs_kullanici_kilavuzu",
+      "instruction": "Mobil uygulama var mı?",
+      "output": "Evet, OBS sistemine https://obsogrenci.ktun.edu.tr/Home adresi üzerinden mobil cihazlardan da erişebilirsiniz.",
+      "category": "obs",
+      "difficulty": "zor",
+      "ground_truth": "Evet, OBS sistemine https://obsogrenci. ..."
+    },
+    {
+      "id": "obs_1506",
+      "source": "ktun_obs_kullanici_kilavuzu",
+      "instruction": "geçen senelerin notları",
+      "output": "Geçmiş dönem notlarınızı OBS Not Durumu sayfasından görüntüleyebilirsiniz.",
+      "category": "obs",
+      "difficulty": "orta",
+      "ground_truth": "Geçmiş dönem notlarınızı OBS Not Durumu sayfasından görüntüleyebilirsiniz."
+    },
+    {
+      "id": "obs_0439",
+      "source": "ktun_obs_kullanici_kilavuzu",
+      "instruction": "Sistem güncellemesi ne zaman?",
+      "output": "Sistem bakım durumunu üniversite duyurularından takip edebilir veya destek@ktun.edu.tr adresine sorabilirsiniz.",
+      "category": "obs",
+      "difficulty": "orta",
+      "ground_truth": "Sistem bakım durumunu üniversite duyurularından takip edebilir veya destek@ktun. ..."
+    },
+    {
+      "id": "obs_0725",
+      "source": "ktun_obs_kullanici_kilavuzu",
+      "instruction": "Hangi tarih değiştirilemez?",
+      "output": "Kayıt tarihi yalnızca bilgilendirme amaçlıdır ve değiştirilemez.",
+      "category": "obs",
+      "difficulty": "orta",
+      "ground_truth": "Kayıt tarihi yalnızca bilgilendirme amaçlıdır ve değiştirilemez."
+    },
+    {
+      "id": "obs_0520",
+      "source": "ktun_obs_kullanici_kilavuzu",
+      "instruction": "Kurumsal e-posta nedir?",
+      "output": "Kurumsal e-posta adresiniz @ktun.edu.tr uzantılı e-posta adresinizdir.",
+      "category": "obs",
+      "difficulty": "orta",
+      "ground_truth": "Kurumsal e-posta adresiniz @ktun.edu.tr uzantılı e-posta adresinizdir."
+    },
+    {
+      "id": "obs_0252",
+      "source": "ktun_obs_kullanici_kilavuzu",
+      "instruction": "Mobile responsive mi?",
+      "output": "Evet, mobil tarayıcınız üzerinden https://obsogrenci.ktun.edu.tr/Home adresine girerek OBS sistemini kullanabilirsiniz.",
+      "category": "obs",
+      "difficulty": "orta",
+      "ground_truth": "Evet, mobil tarayıcınız üzerinden https://obsogrenci. ..."
+    },
+    {
+      "id": "obs_0698",
+      "source": "ktun_obs_kullanici_kilavuzu",
+      "instruction": "Temel bilgilerim nerede?",
+      "output": "OBS sisteminde yer alan Kişisel Bilgiler sayfasından öğrenciye ait temel bilgileri görüntüleyebilirsiniz.",
+      "category": "obs",
+      "difficulty": "kolay",
+      "ground_truth": "OBS sisteminde yer alan Kişisel Bilgiler sayfasından öğrenciye ait temel bilgileri görüntüleyebilirsiniz. ..."
+    },
+    {
+      "id": "obs_1365",
+      "source": "ktun_obs_kullanici_kilavuzu",
+      "instruction": "Danışmanıma hangi konularda mesaj atabilirim?",
+      "output": "Danışmanınıza akademik konularda OBS Mesaj Kutusu üzerinden mesaj gönderebilirsiniz.",
+      "category": "obs",
+      "difficulty": "kolay",
+      "ground_truth": "Danışmanınıza akademik konularda OBS Mesaj Kutusu üzerinden mesaj gönderebilirsiniz."
+    },
+    {
+      "id": "obs_1279",
+      "source": "ktun_obs_kullanici_kilavuzu",
+      "instruction": "Not Durumu sayfası ne zaman aktif olur?",
+      "output": "Not Durumu sayfası OBS sistemine giriş yaptığınızda her zaman aktiftir.",
+      "category": "obs",
+      "difficulty": "kolay",
+      "ground_truth": "Not Durumu sayfası OBS sistemine giriş yaptığınızda her zaman aktiftir."
+    },
+    {
+      "id": "obs_1316",
+      "source": "ktun_obs_kullanici_kilavuzu",
+      "instruction": "OBS Mesaj Kutusu nasıl kullanılır?",
+      "output": "OBS Mesaj Kutusu sayfasından danışmanınıza akademik konularda mesaj gönderebilirsiniz.",
+      "category": "obs",
+      "difficulty": "kolay",
+      "ground_truth": "OBS Mesaj Kutusu sayfasından danışmanınıza akademik konularda mesaj gönderebilirsiniz."
+    },
+    {
+      "id": "yataygecis_0186",
+      "source": "ktun_yatay_gecis_yonergesi",
+      "instruction": "Kimya Mühendisliği 2012 taban puanı nedir?",
+      "output": "Kimya Mühendisliği bölümünün 2012 yılı puanı 290.01813'tür.",
+      "category": "yataygecis",
+      "difficulty": "zor",
+      "ground_truth": "Kimya Mühendisliği bölümünün 2012 yılı puanı 290.01813'tür."
+    },
+    {
+      "id": "yataygecis_0135",
+      "source": "ktun_yatay_gecis_yonergesi",
+      "instruction": "Yatay geçiş sonuçları ne zaman ilan edilir?",
+      "output": "Sonuçlar genellikle başvuru süresi bittikten sonra 10-15 gün içerisinde üniversite web sitesinde duyurulur.",
+      "category": "yataygecis",
+      "difficulty": "zor",
+      "ground_truth": "Sonuçlar genellikle başvuru süresi bittikten sonra 10-15 gün içerisinde üniversite web sitesinde duyurulur. ..."
+    },
+    {
+      "id": "yataygecis_0866",
+      "source": "ktun_yatay_gecis_yonergesi",
+      "instruction": "Kayıt dondurmuş olmam yatay geçiş yapmama engel mi?",
+      "output": "Hayır, kayıt dondurmuş olsanız bile öğrencilik statünüz devam ettiği için yatay geçiş başvurusu yapabilirsiniz. Önemli olan 'kayıt sildirmemiş' olmanızdır.",
+      "category": "yataygecis",
+      "difficulty": "zor",
+      "ground_truth": "Hayır, kayıt dondurmuş olsanız bile öğrencilik statünüz devam ettiği için yatay geçiş başvurusu yapabilirsiniz. ..."
+    },
+    {
+      "id": "yataygecis_0004",
+      "source": "ktun_yatay_gecis_yonergesi",
+      "instruction": "Ek Madde-1 kapsamında üniversite hazırlık sınıfı öğrencileri başvuru yapabilir mi?",
+      "output": "Evet, hazırlık sınıfı, ara sınıflar ve son sınıf öğrencileri merkezi yerleştirme puanı ile yatay geçiş hakkından yararlanabilir.",
+      "category": "yataygecis",
+      "difficulty": "orta",
+      "ground_truth": "Evet, hazırlık sınıfı, ara sınıflar ve son sınıf öğrencileri merkezi yerleştirme puanı ile yatay geçiş hakkından yararlanabilir. ..."
+    },
+    {
+      "id": "yataygecis_0662",
+      "source": "ktun_yatay_gecis_yonergesi",
+      "instruction": "Yatay geçişe engel olmadığına dair belge ıslak imzalı mı olmalı?",
+      "output": "Evet, okulunuzdan alacağınız belgenin ıslak imzalı/mühürlü olması veya üzerinde doğrulanabilir bir elektronik imza/barkod bulunması şarttır.",
+      "category": "yataygecis",
+      "difficulty": "orta",
+      "ground_truth": "Evet, okulunuzdan alacağınız belgenin ıslak imzalı/mühürlü olması veya üzerinde doğrulanabilir bir elektronik imza/barkod bulunması şarttır. ..."
+    },
+    {
+      "id": "yataygecis_0838",
+      "source": "ktun_yatay_gecis_yonergesi",
+      "instruction": "KTÜN içinde yatay geçiş yapan öğrenci eski e-posta adresini kullanabilir mi?",
+      "output": "Eğer kurum içi (Üniversite içi) geçiş yaptıysan öğrenci numaran ve e-posta adresin genellikle aynı kalır, sadece bölüm bilgin güncellenir.",
+      "category": "yataygecis",
+      "difficulty": "orta",
+      "ground_truth": "Eğer kurum içi (Üniversite içi) geçiş yaptıysan öğrenci numaran ve e-posta adresin genellikle aynı kalır, sadece bölüm bilgin güncellenir. ..."
+    },
+    {
+      "id": "yataygecis_0737",
+      "source": "ktun_yatay_gecis_yonergesi",
+      "instruction": "Yatay geçiş dilekçesinde (FORM-10, 11, 12) 'Bölüm' kısmını yanlış yazarsam düzeltme hakkım var mı?",
+      "output": "Başvuru süresi henüz bitmediyse yeni bir dilekçe vererek hatanızı düzeltebilirsiniz; ancak süre bittikten sonra yapılan hatalı beyanlardan öğrenci sorumludur.",
+      "category": "yataygecis",
+      "difficulty": "orta",
+      "ground_truth": "Başvuru süresi henüz bitmediyse yeni bir dilekçe vererek hatanızı düzeltebilirsiniz; ancak süre bittikten sonra yapılan hatalı beyanlardan öğrenci sorumludur. ..."
+    },
+    {
+      "id": "yataygecis_0170",
+      "source": "ktun_yatay_gecis_yonergesi",
+      "instruction": "Yatay geçişte kayıt donduran öğrenci için süre kaybı olur mu?",
+      "output": "Yatay geçiş yaptığında önceki okulunda dondurduğun süreler eğitim süresinden sayılmaz.",
+      "category": "yataygecis",
+      "difficulty": "orta",
+      "ground_truth": "Yatay geçiş yaptığında önceki okulunda dondurduğun süreler eğitim süresinden sayılmaz."
+    },
+    {
+      "id": "yataygecis_0385",
+      "source": "ktun_yatay_gecis_yonergesi",
+      "instruction": "Bilgisayar Mühendisliği 2011 taban puanı kaçtır?",
+      "output": "2011 yılında Bilgisayar Mühendisliği taban puanı 427.61'dir.",
+      "category": "yataygecis",
+      "difficulty": "kolay",
+      "ground_truth": "2011 yılında Bilgisayar Mühendisliği taban puanı 427.61'dir."
+    },
+    {
+      "id": "yataygecis_0315",
+      "source": "ktun_yatay_gecis_yonergesi",
+      "instruction": "Mikroişlemciler dersini almak için hangi dersi geçmiş olmak lazım?",
+      "output": "Lojik Tasarım dersini geçmiş olman zorunludur.",
+      "category": "yataygecis",
+      "difficulty": "kolay",
+      "ground_truth": "Lojik Tasarım dersini geçmiş olman zorunludur."
+    },
+    {
+      "id": "yataygecis_0617",
+      "source": "ktun_yatay_gecis_yonergesi",
+      "instruction": "Aydınlatma Metni'ndeki haklarımı (KVKK) nasıl kullanabilirim?",
+      "output": "Kanunun 11. maddesi kapsamındaki taleplerinizi üniversitenin fiziki adresine yazılı olarak veya güvenli elektronik imza ile üniversite mail adresine ileterek kullanabilirsiniz.",
+      "category": "yataygecis",
+      "difficulty": "kolay",
+      "ground_truth": "Kanunun 11. ..."
+    },
+    {
+      "id": "yataygecis_0073",
+      "source": "ktun_yatay_gecis_yonergesi",
+      "instruction": "Yatay geçiş yapan öğrenci üst sınıftan ders alabilir mi?",
+      "output": "İntibak sonucunda önceki sınıflardan eksik dersi kalmayan öğrenciler, danışman onayıyla üst sınıftan ders alabilirler.",
+      "category": "yataygecis",
+      "difficulty": "kolay",
+      "ground_truth": "İntibak sonucunda önceki sınıflardan eksik dersi kalmayan öğrenciler, danışman onayıyla üst sınıftan ders alabilirler. ..."
+    },
+    {
+      "id": "yaz_okulu_0011",
+      "source": "ktun_yaz_okulu_yonergesi",
+      "instruction": "Ben Sakarya'da yaz okuluna gideceğim, direkt gidip kayıt mı olmalıyım yoksa bölüme bir şey verecek miyim?",
+      "output": "Yaz okulundan ders alabilmek için, ders almak istediğiniz üniversitenin yaz okulu dersleri başlamadan önce bölümümüzden ders uygunluk onayı (FORM 05) almanız gerekmektedir. Onay almadan alınan dersler başarılı olunsa bile kabul edilmez.",
+      "category": "yaz_okulu",
+      "difficulty": "zor",
+      "ground_truth": "Yaz okulundan ders alabilmek için, ders almak istediğiniz üniversitenin yaz okulu dersleri başlamadan önce bölümümüzden ders uygunluk onayı (FORM 05) almanız gerekmektedir. ..."
+    },
+    {
+      "id": "yaz_okulu_0704",
+      "source": "ktun_yaz_okulu_yonergesi",
+      "instruction": "Çift anadal yapıyorum ve ders yüküm çok fazla. Yaz okulunda alacaklarım yıllık 90 AKTS limitini deler mi?",
+      "output": "Eğer dersi ilk defa alıyorsanız evet, 90 AKTS sınırına dahil edilir. Ancak başarısızlık veya not yükseltme sebebiyle tekrar alıyorsanız dahil edilmez.",
+      "category": "yaz_okulu",
+      "difficulty": "zor",
+      "ground_truth": "Eğer dersi ilk defa alıyorsanız evet, 90 AKTS sınırına dahil edilir. ..."
+    },
+    {
+      "id": "yaz_okulu_0465",
+      "source": "ktun_yaz_okulu_yonergesi",
+      "instruction": "Toplam AKTS hesabında hangi veriler kullanılır?",
+      "output": "Alınabilecek en yüksek kredi veya AKTS değerlerinin hesabında bizim bölümümüz (KTÜN) derslerinin kredi bilgileri baz alınır.",
+      "category": "yaz_okulu",
+      "difficulty": "orta",
+      "ground_truth": "Alınabilecek en yüksek kredi veya AKTS değerlerinin hesabında bizim bölümümüz (KTÜN) derslerinin kredi bilgileri baz alınır. ..."
+    },
+    {
+      "id": "yaz_okulu_0661",
+      "source": "ktun_yaz_okulu_yonergesi",
+      "instruction": "Bu dersi almam lazım ama açılan tek yerin puanı bizden 0.02 düşük, idare edilemez mi?",
+      "output": "Hayır, idare edilemez. Yönetmelik gereği gideceğiniz yerin puanı, küsuratlar dahil sizin bölümünüzden yüksek olmalıdır.",
+      "category": "yaz_okulu",
+      "difficulty": "orta",
+      "ground_truth": "Hayır, idare edilemez. ..."
+    },
+    {
+      "id": "yaz_okulu_0402",
+      "source": "ktun_yaz_okulu_yonergesi",
+      "instruction": "Uygulamalı dersler yazın alınabilir mi?",
+      "output": "Hayır, Bilişim Teknolojileri Uygulaması ve Bilgisayar Mühendisliği Uygulaması I-II gibi proje dersleri yaz okulunda alınamaz. Sadece teorik dersler alınabilir.",
+      "category": "yaz_okulu",
+      "difficulty": "orta",
+      "ground_truth": "Hayır, Bilişim Teknolojileri Uygulaması ve Bilgisayar Mühendisliği Uygulaması I-II gibi proje dersleri yaz okulunda alınamaz. ..."
+    },
+    {
+      "id": "yaz_okulu_0680",
+      "source": "ktun_yaz_okulu_yonergesi",
+      "instruction": "Mezun olmama 5 ders var, 3 dersten fazlasını almam lazım, izin var mı?",
+      "output": "İzin verilmez. 5 dersiniz kaldığı için ek ders hakkından yararlanamazsınız ve standart prosedür olan maksimum 3 ders kuralına tabi olursunuz.",
+      "category": "yaz_okulu",
+      "difficulty": "orta",
+      "ground_truth": "İzin verilmez. ..."
+    },
+    {
+      "id": "yaz_okulu_0024",
+      "source": "ktun_yaz_okulu_yonergesi",
+      "instruction": "Ben dersi aldım bitti, şimdi onaylatsam?",
+      "output": "Bu mümkün değildir. Dersler başlamadan önce FORM 05 onayı alınmış olmalıdır, sonradan onay veya kabul işlemi yapılmaz.",
+      "category": "yaz_okulu",
+      "difficulty": "kolay",
+      "ground_truth": "Bu mümkün değildir. ..."
+    },
+    {
+      "id": "yaz_okulu_0021",
+      "source": "ktun_yaz_okulu_yonergesi",
+      "instruction": "Onay almadan dersten AA ile geçsem sayılmaz mı?",
+      "output": "Hayır sayılmaz. Dersler başlamadan önce FORM 05 ile onay almanız zorunludur, onaysız derslerde başarı notunuz ne olursa olsun kabul edilmez.",
+      "category": "yaz_okulu",
+      "difficulty": "kolay",
+      "ground_truth": "Hayır sayılmaz. ..."
+    },
+    {
+      "id": "yaz_okulu_0438",
+      "source": "ktun_yaz_okulu_yonergesi",
+      "instruction": "Bir dersin yerine iki ders alıp saydırma prosedürü?",
+      "output": "Buna izin verilmektedir. İçerik uyumsuzluğunu gidermek için iki ders alabilirsiniz fakat uygunluğa bölüm yönetimi karar verir.",
+      "category": "yaz_okulu",
+      "difficulty": "kolay",
+      "ground_truth": "Buna izin verilmektedir. ..."
+    },
+    {
+      "id": "yaz_okulu_0659",
+      "source": "ktun_yaz_okulu_yonergesi",
+      "instruction": "virgulden sonrasi tutmuyo diye ders vermezler mi?",
+      "output": "Vermezler. Yaz okulu dersi alabilmek için karşı bölümün puanının senin bölümünden küsurat dahil yüksek olması gerekiyor.",
+      "category": "yaz_okulu",
+      "difficulty": "kolay",
+      "ground_truth": "Vermezler. ..."
+    },
+    {
+      "id": "erasmus_0172",
+      "source": "ktun_erasmus_programi_kilavuzu",
+      "instruction": "Yeşil seyahat desteği nedir?",
+      "output": "Düşük karbon salınımlı ulaşım (tren, otobüs vb.) kullanıldığında verilen daha yüksek seyahat hibesidir.",
+      "category": "erasmus",
+      "difficulty": "zor",
+      "ground_truth": "Düşük karbon salınımlı ulaşım (tren, otobüs vb. ..."
+    },
+    {
+      "id": "erasmus_0251",
+      "source": "ktun_erasmus_programi_kilavuzu",
+      "instruction": "İntibak işlemi nedir?",
+      "output": "Yurt dışında alınan derslerin veya stajın KTÜN'deki karşılıklarına saydırılması işlemidir.",
+      "category": "erasmus",
+      "difficulty": "zor",
+      "ground_truth": "Yurt dışında alınan derslerin veya stajın KTÜN'deki karşılıklarına saydırılması işlemidir."
+    },
+    {
+      "id": "erasmus_0109",
+      "source": "ktun_erasmus_programi_kilavuzu",
+      "instruction": "Seyahat hibesini gidiş ve dönüş için ayrı ayrı mı alıyoruz?",
+      "output": "Hayır, tablodaki hibe gidiş-dönüş toplam rakamıdır ve ikiyle çarpılmaz.",
+      "category": "erasmus",
+      "difficulty": "orta",
+      "ground_truth": "Hayır, tablodaki hibe gidiş-dönüş toplam rakamıdır ve ikiyle çarpılmaz."
+    },
+    {
+      "id": "erasmus_0405",
+      "source": "ktun_erasmus_programi_kilavuzu",
+      "instruction": "Karşı üniversiteden gelen 'Acceptance Email' kabul mektubu yerine geçer mi?",
+      "output": "Resmi süreçlerde genellikle imzalı/mühürlü kabul mektubu istenir ancak bazı durumlarda teyit için kullanılabilir.",
+      "category": "erasmus",
+      "difficulty": "orta",
+      "ground_truth": "Resmi süreçlerde genellikle imzalı/mühürlü kabul mektubu istenir ancak bazı durumlarda teyit için kullanılabilir. ..."
+    },
+    {
+      "id": "erasmus_0500",
+      "source": "ktun_erasmus_programi_kilavuzu",
+      "instruction": "Ders Verme hareketliliği için en az kaç saat ders verilmelidir?",
+      "output": "Kabul mektubu formatına göre personelin en az 8 saat ders vermesi gerekmektedir.",
+      "category": "erasmus",
+      "difficulty": "orta",
+      "ground_truth": "Kabul mektubu formatına göre personelin en az 8 saat ders vermesi gerekmektedir."
+    },
+    {
+      "id": "erasmus_0533",
+      "source": "ktun_erasmus_programi_kilavuzu",
+      "instruction": "Staj Anlaşmasında 'Traineeship in digital skills' seçeneği neyi ifade eder?",
+      "output": "Stajın dijital becerilerin (yazılım, dijital pazarlama, veri analizi vb.) geliştirilmesine yönelik olup olmadığını belirtir.",
+      "category": "erasmus",
+      "difficulty": "orta",
+      "ground_truth": "Stajın dijital becerilerin (yazılım, dijital pazarlama, veri analizi vb. ..."
+    },
+    {
+      "id": "erasmus_0069",
+      "source": "ktun_erasmus_programi_kilavuzu",
+      "instruction": "Endüstri Mühendisliği Bölüm Koordinatörü kimdir?",
+      "output": "Doç. Dr. Mehmet Emin Baysal Endüstri Mühendisliği Bölüm Koordinatörüdür.",
+      "category": "erasmus",
+      "difficulty": "kolay",
+      "ground_truth": "Doç. Dr. Mehmet Emin Baysal Endüstri Mühendisliği Bölüm Koordinatörüdür."
+    },
+    {
+      "id": "erasmus_0608",
+      "source": "ktun_erasmus_programi_kilavuzu",
+      "instruction": "Üniversitenin uluslararasılaşma konusundaki stratejik hedefi nedir?",
+      "output": "Eğitim ve öğretimde uluslararasılaşma faaliyetlerinin artırılması ve değişim programlarıyla giden/gelen öğrenci sayısının yükseltilmesidir.",
+      "category": "erasmus",
+      "difficulty": "kolay",
+      "ground_truth": "Eğitim ve öğretimde uluslararasılaşma faaliyetlerinin artırılması ve değişim programlarıyla giden/gelen öğrenci sayısının yükseltilmesidir. ..."
+    },
+    {
+      "id": "erasmus_0112",
+      "source": "ktun_erasmus_programi_kilavuzu",
+      "instruction": "Hırvatistan'a giden öğrenci ne kadar hibe alır?",
+      "output": "Hırvatistan 3. grup ülkesidir; aylık öğrenim hibesi 450 Avro, staj hibesi 600 Avro'dur.",
+      "category": "erasmus",
+      "difficulty": "kolay",
+      "ground_truth": "Hırvatistan 3. grup ülkesidir; aylık öğrenim hibesi 450 Avro, staj hibesi 600 Avro'dur."
+    },
+    {
+      "id": "erasmus_0308",
+      "source": "ktun_erasmus_programi_kilavuzu",
+      "instruction": "Hibem ne zaman yatar?",
+      "output": "Varış onay belgenizi teslim ettikten sonra toplam hibenin %80'i hesabınıza aktarılır.",
+      "category": "erasmus",
+      "difficulty": "kolay",
+      "ground_truth": "Varış onay belgenizi teslim ettikten sonra toplam hibenin %80'i hesabınıza aktarılır."
+    },
+    {
+      "id": "yemekhane_0140",
+      "source": "ktun_yemekhane_bilgileri",
+      "instruction": "Safari'den girebilir miyim?",
+      "output": "Evet, sistemin web adresine Safari dahil tüm güncel tarayıcılardan erişilebilir.",
+      "category": "yemekhane",
+      "difficulty": "zor",
+      "ground_truth": "Evet, sistemin web adresine Safari dahil tüm güncel tarayıcılardan erişilebilir."
+    },
+    {
+      "id": "yemekhane_0135",
+      "source": "ktun_yemekhane_bilgileri",
+      "instruction": "Mobil uygulama var mı?",
+      "output": "Yemekhane rezervasyonları web tabanlı sistem üzerinden yapılmaktadır: https://yemekhane.ktun.edu.tr/User/Login",
+      "category": "yemekhane",
+      "difficulty": "zor",
+      "ground_truth": "Yemekhane rezervasyonları web tabanlı sistem üzerinden yapılmaktadır: https://yemekhane. ..."
+    },
+    {
+      "id": "yemekhane_0001",
+      "source": "ktun_yemekhane_bilgileri",
+      "instruction": "Hocam resmi olarak sormam gerekirse, yemekhane rezervasyonları hangi platform üzerinden gerçekleştirilmektedir?",
+      "output": "Üniversitemiz yemekhanelerinde yemek rezervasyonları online olarak https://yemekhane.ktun.edu.tr/User/Login adresi üzerinden yapılmaktadır.",
+      "category": "yemekhane",
+      "difficulty": "orta",
+      "ground_truth": "Üniversitemiz yemekhanelerinde yemek rezervasyonları online olarak https://yemekhane. ..."
+    },
+    {
+      "id": "yemekhane_0054",
+      "source": "ktun_yemekhane_bilgileri",
+      "instruction": "Giriş bilgileri neler?",
+      "output": "Giriş için e-posta adresinizi @ktun.edu.tr olmadan ve internet erişim şifrenizi kullanmalısınız.",
+      "category": "yemekhane",
+      "difficulty": "orta",
+      "ground_truth": "Giriş için e-posta adresinizi @ktun.edu.tr olmadan ve internet erişim şifrenizi kullanmalısınız."
+    },
+    {
+      "id": "yemekhane_0103",
+      "source": "ktun_yemekhane_bilgileri",
+      "instruction": "Saat 3'ten sonra yapabiliyor muyum?",
+      "output": "Hayır, yemekhane rezervasyonları bir gün sonrası için saat 15.00'te kapanmaktadır.",
+      "category": "yemekhane",
+      "difficulty": "orta",
+      "ground_truth": "Hayır, yemekhane rezervasyonları bir gün sonrası için saat 15.00'te kapanmaktadır."
+    },
+    {
+      "id": "yemekhane_0104",
+      "source": "ktun_yemekhane_bilgileri",
+      "instruction": "Sabah rezervasyon yapabilir miyim yarın öğle için?",
+      "output": "Evet, bir gün öncesinden saat 15.00'e kadar rezervasyon yapabilirsiniz.",
+      "category": "yemekhane",
+      "difficulty": "kolay",
+      "ground_truth": "Evet, bir gün öncesinden saat 15.00'e kadar rezervasyon yapabilirsiniz."
+    },
+    {
+      "id": "lms_0085",
+      "source": "ktun_lms_kullanici_kilavuzu",
+      "instruction": "Microsoft Teams uygulamasını nereden indirebilirim?",
+      "output": "https://www.microsoft.com/tr-tr/microsoft-teams/ adresine giderek cihazınıza uygun (Masaüstü veya Mobil) Teams uygulamasını indirebilirsiniz.",
+      "category": "lms",
+      "difficulty": "zor",
+      "ground_truth": "https://www. ..."
+    },
+    {
+      "id": "lms_0050",
+      "source": "ktun_lms_kullanici_kilavuzu",
+      "instruction": "Teams'te neden Guest olarak gözüküyorum?",
+      "output": "Canlı derslere katılırken mutlaka üniversitenin size tanımladığı Office 365 hesap bilgileri (kurumsal mail adresi ve şifre) ile oturum açmalısınız. Aksi takdirde 'Konuk' olarak görünürsünüz ve derse kabul edilmeyebilirsiniz.",
+      "category": "lms",
+      "difficulty": "orta",
+      "ground_truth": "Canlı derslere katılırken mutlaka üniversitenin size tanımladığı Office 365 hesap bilgileri (kurumsal mail adresi ve şifre) ile oturum açmalısınız. ..."
+    },
+    {
+      "id": "lms_0016",
+      "source": "ktun_lms_kullanici_kilavuzu",
+      "instruction": "Otomasyon şifresiyle mi yoksa mail şifresiyle mi giriliyor?",
+      "output": "Giriş ekranında 'E-Posta Adresi' alanına üniversite mail adresinizi, şifre alanına ise otomasyona girerken kullandığınız erişim şifrenizi girmelisiniz.",
+      "category": "lms",
+      "difficulty": "orta",
+      "ground_truth": "Giriş ekranında 'E-Posta Adresi' alanına üniversite mail adresinizi, şifre alanına ise otomasyona girerken kullandığınız erişim şifrenizi girmelisiniz. ..."
+    },
+    {
+      "id": "lms_0160",
+      "source": "ktun_lms_kullanici_kilavuzu",
+      "instruction": "Ödev dosyasının boyutu en fazla ne kadar olabilir?",
+      "output": "Bu sınır hocanız tarafından belirlenir ancak dosya yükleme ekranında 'Maksimum dosya boyutu' (Maximum file size) uyarısı yer alır (Örn: 20MB, 50MB).",
+      "category": "lms",
+      "difficulty": "kolay",
+      "ground_truth": "Bu sınır hocanız tarafından belirlenir ancak dosya yükleme ekranında 'Maksimum dosya boyutu' (Maximum file size) uyarısı yer alır (Örn: 20MB, 50MB). ..."
+    },
+    {
+      "id": "genel_0113",
+      "source": "ktun_genel_bilgiler",
+      "instruction": "Stüdyo teknik gezilerine katılım zorunlu mu? / Analiz aşamasındaki alan çalışmalarına gitmek şart mı? / Teknik geziye katılmayan öğrencinin durumu nedir? / Arazi çalışması mecburiyeti var mı? / Stüdyo dersi kapsamında yapılan geziler opsiyonel mi?",
+      "output": "Evet, projeler için belirlenen araziyle ilgili alan çalışmalarına ve teknik gezilere katılım mecburidir.",
+      "category": "genel",
+      "difficulty": "zor",
+      "ground_truth": "Evet, projeler için belirlenen araziyle ilgili alan çalışmalarına ve teknik gezilere katılım mecburidir. ..."
+    },
+    {
+      "id": "genel_0201",
+      "source": "ktun_genel_bilgiler",
+      "instruction": "Lisans programında bir dersten başarılı olmak için finalden kaç almak gerekir? / Baraj notu vize ve final için farklı mıdır? / Finalden 35 puanın altında alan öğrenci başarılı sayılır mi? / Önlisans ve lisansta ders geçme puan sınırı nedir? / FF notu hangi durumlarda verilir?",
+      "output": "Öğrencinin başarılı olabilmesi için genel veya bütünleme sınavından 100 üzerinden önlisans programlarında en az 30, lisans programlarında ise en az 35 puan alması gerekir; aksi halde notu FF olur.",
+      "category": "genel",
+      "difficulty": "zor",
+      "ground_truth": "Öğrencinin başarılı olabilmesi için genel veya bütünleme sınavından 100 üzerinden önlisans programlarında en az 30, lisans programlarında ise en az 35 puan alması gerekir; aksi halde notu FF olur. ..."
+    },
+    {
+      "id": "genel_0003",
+      "source": "ktun_genel_bilgiler",
+      "instruction": "Kısmi zamanlı çalışan bir öğrenci haftada en fazla kaç saat çalışabilir? / Okulda kısmi zamanlı işe girersem haftalık mesaim ne kadar olur? / Kısmi zamanlı öğrenci haftalık çalışma saati sınırı nedir? / Bir öğrenci haftada 15 saatten fazla çalışabilir mi? / Kısmi zamanlı çalışma süreleri nasıl belirlenir?",
+      "output": "Kısmi zamanlı olarak çalıştırılan öğrencilerin çalışma süresi haftada en çok 15 saattir.",
+      "category": "genel",
+      "difficulty": "zor",
+      "ground_truth": "Kısmi zamanlı olarak çalıştırılan öğrencilerin çalışma süresi haftada en çok 15 saattir."
+    },
+    {
+      "id": "genel_0211",
+      "source": "ktun_genel_bilgiler",
+      "instruction": "Öğrencilere tebligatlar nasıl yapılır? / E-posta yoluyla yapılan tebligat resmi sayılır mı? / Üniversiteye bildirilen adres değişirse ne yapılmalıdır? / Tebligatın okunmaması mazeret sayılır mı? / Resmi duyurular nerede yayımlanır?",
+      "output": "Tebligatlar, öğrencinin bildirdiği posta adresine taahhütlü olarak veya üniversite tarafından verilen resmi e-posta adresine gönderilmek suretiyle yapılır. Öğrenci, adres değişikliklerini güncellemek ve resmi e-postasını takip etmekle yükümlüdür.",
+      "category": "genel",
+      "difficulty": "zor",
+      "ground_truth": "Tebligatlar, öğrencinin bildirdiği posta adresine taahhütlü olarak veya üniversite tarafından verilen resmi e-posta adresine gönderilmek suretiyle yapılır. ..."
+    },
+    {
+      "id": "konu_disi_0015",
+      "source": "elle_uretildi",
+      "instruction": "Dişim çok ağrıyor, okulda diş hekimi var mı? / Kampüs reviri nerede? / Acil durumda nereye gidilir?",
+      "output": "Ben Konya Teknik Üniversitesi (KTÜN) Akademik Bilgi Asistanıyım. Görevim okul yönetmelikleri, yönergeler ve akademik süreçlerle ilgili sorularınıza yanıt vermektir. Sorduğunuz konu benim bilgi kapsamımın dışındadır. Detaylı bilgi için ilgili birimin öğrenci işleri ile iletişime geçebilir veya üniversitemizin resmi web sitesini (ktun.edu.tr) ziyaret edebilirsiniz.",
+      "category": "konu_disi",
+      "difficulty": "zor",
+      "ground_truth": "Bu soru kapsam dışıdır."
+    },
+    {
+      "id": "konu_disi_0018",
+      "source": "elle_uretildi",
+      "instruction": "Beşiktaş bu akşamki maçı kazanır mı? / Şampiyon kim olur? / Maç kaç kaç biter?",
+      "output": "Ben Konya Teknik Üniversitesi (KTÜN) Akademik Bilgi Asistanıyım. Görevim okul yönetmelikleri, yönergeler ve akademik süreçlerle ilgili sorularınıza yanıt vermektir. Sorduğunuz konu benim bilgi kapsamımın dışındadır. Detaylı bilgi için ilgili birimin öğrenci işleri ile iletişime geçebilir veya üniversitemizin resmi web sitesini (ktun.edu.tr) ziyaret edebilirsiniz.",
+      "category": "konu_disi",
+      "difficulty": "orta",
+      "ground_truth": "Bu soru kapsam dışıdır."
+    },
+    {
+      "id": "konu_disi_0048",
+      "source": "elle_uretildi",
+      "instruction": "Seninle dertleşebilir miyim? / Çok yalnız hissediyorum ne yapmalıyım? / Bana arkadaşlık eder misin?",
+      "output": "Ben Konya Teknik Üniversitesi (KTÜN) Akademik Bilgi Asistanıyım. Görevim okul yönetmelikleri, yönergeler ve akademik süreçlerle ilgili sorularınıza yanıt vermektir. Sorduğunuz konu benim bilgi kapsamımın dışındadır. Detaylı bilgi için ilgili birimin öğrenci işleri ile iletişime geçebilir veya üniversitemizin resmi web sitesini (ktun.edu.tr) ziyaret edebilirsiniz.",
+      "category": "konu_disi",
+      "difficulty": "orta",
+      "ground_truth": "Bu soru kapsam dışıdır."
+    },
+    {
+      "id": "konu_disi_0090",
+      "source": "elle_uretildi",
+      "instruction": "Laptop klavyesine çay döküldü ne yapmalıyım? / Islanan elektronik cihazlar nasıl kurutulur? / Klavye temizliği için hangi solüsyon kullanılır? / Bilgisayarım açılmıyor, tamirci önerir misin? / Teknik servis fiyatları ne kadar?",
+      "output": "Ben Konya Teknik Üniversitesi (KTÜN) Akademik Bilgi Asistanıyım. Görevim okul yönetmelikleri, yönergeler ve akademik süreçlerle ilgili sorularınıza yanıt vermektir. Sorduğunuz konu benim bilgi kapsamımın dışındadır. Detaylı bilgi için ilgili birimin öğrenci işleri ile iletişime geçebilir veya üniversitemizin resmi web sitesini (ktun.edu.tr) ziyaret edebilirsiniz.",
+      "category": "konu_disi",
+      "difficulty": "zor",
+      "ground_truth": "Bu soru kapsam dışıdır."
+    }
+  ]
+}
