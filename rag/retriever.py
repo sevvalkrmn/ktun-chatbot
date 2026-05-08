@@ -18,44 +18,27 @@ def load_data(path: str) -> list:
 # ── CORPUS OLUŞTURMA ─────────────────────────────────────────────────────
 def build_corpus(data: list) -> tuple:
     """
-    Her kayıt için zenginleştirilmiş index metni oluşturur.
-
-    index_text = canonical_question + question_variants + keywords
-    Bu sayede kullanıcı kısaltma ("mat kaç akts?") yazdığında
-    question_variants içindeki varyantlarla eşleşir.
-
+    Döküman chunk formatını (content alanı) okur.
     corpus_texts  → BM25 ve FAISS için index metni
-    corpus_answers → döndürülecek cevap (answer_full)
+    corpus_answers → kullanıcıya döndürülecek içerik
     """
     corpus_texts   = []
     corpus_answers = []
     seen_ids       = set()
 
     for item in data:
-        id_   = item.get("id", "")
-        soru  = item.get("canonical_question", "")
-        cevap = item.get("answer_full", "")
-        if not soru or not cevap:
+        id_     = item.get("id", "")
+        content = item.get("content", "")
+
+        if not content:
             continue
-        # Duplicate ID kontrolü
         if id_ and id_ in seen_ids:
             continue
         if id_:
             seen_ids.add(id_)
 
-        variants = item.get("question_variants", [])
-        keywords = item.get("keywords", [])
-
-        # Zenginleştirilmiş index metni: canonical + variants + keywords
-        parts = [soru]
-        if variants:
-            parts.append(" ".join(variants))
-        if keywords:
-            parts.append(" ".join(keywords))
-        index_text = " ".join(parts)
-
-        corpus_texts.append(index_text)
-        corpus_answers.append(cevap)
+        corpus_texts.append(content)
+        corpus_answers.append(content)
 
     return corpus_texts, corpus_answers
 
@@ -92,8 +75,6 @@ _STOP_WORDS = {
     "bilgisayar", "mühendisliği", "mühendislik",
     "bölümü", "bölümde", "bölümüne", "bölümünde", "bölüm",
     "ktün", "ktun",
-    # Tek haneli yıl/dönem numaraları
-    "1", "2", "3", "4",
     # Bağlaçlar / edatlar
     "için", "ile", "ve", "veya", "ama", "de", "da",
     "mi", "mı", "mu", "mü", "bir", "bu", "şu",

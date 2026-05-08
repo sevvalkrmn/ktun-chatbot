@@ -1,0 +1,52 @@
+[
+  {
+    "id": "Q01",
+    "question": "Zorunlu staj kaç iş günüdür?",
+    "expected_keywords": ["40", "iş günü", "staj"]
+  },
+  {
+    "id": "Q02",
+    "question": "Erasmus programına başvurabilmek için genel not ortalaması kaç olmalıdır?",
+    "expected_keywords": ["2.50", "GNO", "not ortalaması"]
+  },
+  {
+    "id": "Q03",
+    "question": "Yatay geçiş yapabilmek için hangi şartlar gereklidir?",
+    "expected_keywords": ["puan", "not ortalaması", "2.50", "başvuru"]
+  },
+  {
+    "id": "Q04",
+    "question": "1. dönemde hangi dersler var?",
+    "expected_keywords": ["Matematik", "Algoritma", "Fizik", "İngilizce"]
+  },
+  {
+    "id": "Q05",
+    "question": "3. sınıfta hangi dersler var?",
+    "expected_keywords": ["İşletim Sistemleri", "Bilgisayar Ağları", "Otomata"]
+  },
+  {
+    "id": "Q06",
+    "question": "Veri Yapıları dersini alabilmek için hangi dersi geçmem gerekir?",
+    "expected_keywords": ["Algoritma ve Programlama", "ön koşul", "BIL102"]
+  },
+  {
+    "id": "Q07",
+    "question": "Nesneye Yönelik Programlama dersinin ön koşulu nedir?",
+    "expected_keywords": ["Algoritma ve Programlama", "BIL102", "BIL201"]
+  },
+  {
+    "id": "Q08",
+    "question": "Bölüm başkanı kimdir?",
+    "expected_keywords": ["Babalık", "Ahmet"]
+  },
+  {
+    "id": "Q09",
+    "question": "Erasmus koordinatörü kimdir?",
+    "expected_keywords": ["Ersin", "Kaya"]
+  },
+  {
+    "id": "Q10",
+    "question": "Mesleki staj 1 hangi dönemde yapılır?",
+    "expected_keywords": ["5", "dönem", "staj"]
+  }
+]

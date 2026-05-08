@@ -111,7 +111,11 @@
     "question_variants": [
       "Nerelerde staj yapabilirim?",
       "AB kurumlarinda staj olur mu?",
-      "Sirketlerde Erasmus stajı yapilir mi?"
+      "Sirketlerde Erasmus stajı yapilir mi?",
+      "Erasmus başvurusu nasıl yapılır?",
+      "Erasmusa nasıl gidebilirim?",
+      "Erasmus için ne yapmam gerekiyor?",
+      "Erasmus başvuru süreci nedir?"
     ],
     "keywords": [
       "staj_yeri",
@@ -186,7 +190,11 @@
     "question_variants": [
       "Dersleri kime onaylatmam lazim?",
       "Kac AKTS ders almaliyim?",
-      "Dersler uyuşmazsa ne olur?"
+      "Dersler uyuşmazsa ne olur?",
+      "Erasmus başvurusu nasıl yapılır?",
+      "Erasmusa nasıl gidebilirim?",
+      "Erasmus için ne yapmam gerekiyor?",
+      "Erasmus başvuru süreci nedir?"
     ],
     "keywords": [
       "ders_eslestirme",
@@ -211,7 +219,11 @@
     "question_variants": [
       "Vize mektubu nedir?",
       "Vize masraflarini okul oder mi?",
-      "Erasmus vizesi nasil alinir?"
+      "Erasmus vizesi nasil alinir?",
+      "Erasmus başvurusu nasıl yapılır?",
+      "Erasmusa nasıl gidebilirim?",
+      "Erasmus için ne yapmam gerekiyor?",
+      "Erasmus başvuru süreci nedir?"
     ],
     "keywords": [
       "vize",
@@ -286,7 +298,11 @@
     "question_variants": [
       "Dil sinavi zor mu?",
       "Sozlu sinav var mi?",
-      "Sinav hangi seviyede?"
+      "Sinav hangi seviyede?",
+      "Erasmus başvurusu nasıl yapılır?",
+      "Erasmusa nasıl gidebilirim?",
+      "Erasmus için ne yapmam gerekiyor?",
+      "Erasmus başvuru süreci nedir?"
     ],
     "keywords": [
       "dil_sinavi",
@@ -411,7 +427,11 @@
     "question_variants": [
       "Nomine edilmek ne demek?",
       "Okul beni ne zaman bildirecek?",
-      "Aday gosterme islemi nasil olur?"
+      "Aday gosterme islemi nasil olur?",
+      "Erasmus başvurusu nasıl yapılır?",
+      "Erasmusa nasıl gidebilirim?",
+      "Erasmus için ne yapmam gerekiyor?",
+      "Erasmus başvuru süreci nedir?"
     ],
     "keywords": [
       "nominasyon",

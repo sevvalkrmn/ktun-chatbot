@@ -2765,428 +2765,6 @@
     "created_at": "2025-04-15"
   },
   {
-    "id": "bolum_dersleri_turkdili1_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "Türk Dili ve Edebiyatı I (1213121)",
-    "canonical_question": "Türk Dili ve Edebiyatı I dersinin amacı nedir?",
-    "answer_short": "Türkçeyi doğru ve etkili kullanma becerisini geliştirir.",
-    "answer_full": "1213121 kodlu Türk Dili ve Edebiyatı I; Türkçenin yapısı, yazım kuralları, anlatım bozuklukları ve metin türleri konularını kapsar. 1. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
-    "question_variants": [
-      "Türk Dili 1 ne işliyor?",
-      "1. dönemde Türkçe dersi var mı?",
-      "Türk dili dersi zorunlu mu?"
-    ],
-    "keywords": [
-      "türk dili",
-      "edebiyat",
-      "1213121",
-      "1. dönem",
-      "zorunlu"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
-    "id": "bolum_dersleri_ataturk1_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "Atatürk İlkeleri ve İnkılap Tarihi I (1213122)",
-    "canonical_question": "Atatürk İlkeleri ve İnkılap Tarihi I dersinin amacı nedir?",
-    "answer_short": "Türk Kurtuluş Savaşı ve Cumhuriyet'in kuruluş sürecini öğretir.",
-    "answer_full": "1213122 kodlu Atatürk İlkeleri ve İnkılap Tarihi I; Osmanlı'nın çöküşü, Kurtuluş Savaşı ve Cumhuriyet'in ilanı süreçlerini kapsar. 1. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
-    "question_variants": [
-      "Atatürk dersi 1. dönemde mi?",
-      "İnkılap tarihi zorunlu mu?",
-      "1213122 hangi dönem?"
-    ],
-    "keywords": [
-      "atatürk",
-      "inkılap tarihi",
-      "1213122",
-      "1. dönem",
-      "zorunlu"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
-    "id": "bolum_dersleri_fizik1_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "Fizik I (1213130)",
-    "canonical_question": "Fizik I dersinin amacı nedir?",
-    "answer_short": "Mekanik, kinematik ve dinamik gibi klasik fizik konularını öğretir.",
-    "answer_full": "1213130 kodlu Fizik I; hareket, kuvvet, enerji, momentum ve dönme hareketi konularını kapsar. Mühendislik uygulamalarında fizik temeli oluşturmayı hedefler. 1. dönemde zorunlu ders olarak alınır, 5 AKTS taşır.",
-    "question_variants": [
-      "Fizik 1 ne işliyor?",
-      "1. dönemde fizik var mı?",
-      "Fizik I kaç AKTS?",
-      "fizik dersi zorunlu mu"
-    ],
-    "keywords": [
-      "fizik",
-      "mekanik",
-      "1213130",
-      "1. dönem",
-      "zorunlu"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
-    "id": "bolum_dersleri_iss1_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "İş Sağlığı ve Güvenliği I (1213157)",
-    "canonical_question": "İş Sağlığı ve Güvenliği I dersinin amacı nedir?",
-    "answer_short": "İş kazaları, meslek hastalıkları ve güvenli çalışma ortamı konularını öğretir.",
-    "answer_full": "1213157 kodlu İş Sağlığı ve Güvenliği I; iş kazası türleri, risk değerlendirmesi, kişisel koruyucu ekipmanlar ve yasal düzenlemeler konularını kapsar. 1. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
-    "question_variants": [
-      "İSG dersi nedir?",
-      "İş sağlığı 1. dönemde mi?",
-      "1213157 zorunlu mu?"
-    ],
-    "keywords": [
-      "iş sağlığı",
-      "güvenlik",
-      "isg",
-      "1213157",
-      "1. dönem"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
-    "id": "bolum_dersleri_ingilizce1_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "İngilizce I (1213131)",
-    "canonical_question": "İngilizce I dersinin amacı nedir?",
-    "answer_short": "Temel İngilizce okuma, yazma ve anlama becerilerini geliştirir.",
-    "answer_full": "1213131 kodlu İngilizce I; okuma anlama, kelime bilgisi ve temel İngilizce yazım konularını kapsar. 1. dönemde zorunlu ders olarak alınır, 3 AKTS taşır.",
-    "question_variants": [
-      "İngilizce 1 ne işliyor?",
-      "1. dönemde ingilizce var mı?",
-      "1213131 dersi nedir?"
-    ],
-    "keywords": [
-      "ingilizce",
-      "1213131",
-      "1. dönem",
-      "zorunlu"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
-    "id": "bolum_dersleri_matematik2_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "Matematik II (1213201)",
-    "canonical_question": "Matematik II dersinin amacı nedir?",
-    "answer_short": "Çok değişkenli fonksiyonlar, diziler ve seriler gibi ileri analiz konularını öğretir.",
-    "answer_full": "1213201 kodlu Matematik II; çok değişkenli türev ve integral, vektörel analiz, sonsuz seriler konularını kapsar. Matematik I'in devamıdır. 2. dönemde zorunlu ders olarak alınır, 7 AKTS taşır.",
-    "question_variants": [
-      "Matematik 2 ne işliyor?",
-      "2. dönemde matematik var mı?",
-      "Mat 2 kaç akts?",
-      "matematik 2 zorunlu mu"
-    ],
-    "keywords": [
-      "matematik",
-      "analiz",
-      "1213201",
-      "2. dönem",
-      "zorunlu"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
-    "id": "bolum_dersleri_turkdili2_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "Türk Dili ve Edebiyatı II (1213221)",
-    "canonical_question": "Türk Dili ve Edebiyatı II dersinin amacı nedir?",
-    "answer_short": "Akademik yazma ve sözlü anlatım becerilerini geliştirir.",
-    "answer_full": "1213221 kodlu Türk Dili ve Edebiyatı II; rapor yazımı, sözlü sunum teknikleri ve akademik Türkçe konularını kapsar. 2. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
-    "question_variants": [
-      "Türk Dili 2 ne işliyor?",
-      "2. dönemde Türkçe dersi var mı?",
-      "Türk dili 2 zorunlu mu?"
-    ],
-    "keywords": [
-      "türk dili",
-      "edebiyat",
-      "1213221",
-      "2. dönem",
-      "zorunlu"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
-    "id": "bolum_dersleri_ataturk2_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "Atatürk İlkeleri ve İnkılap Tarihi II (1213222)",
-    "canonical_question": "Atatürk İlkeleri ve İnkılap Tarihi II dersinin amacı nedir?",
-    "answer_short": "Atatürk ilkeleri ve Türkiye Cumhuriyeti'nin gelişim sürecini öğretir.",
-    "answer_full": "1213222 kodlu Atatürk İlkeleri ve İnkılap Tarihi II; Atatürk ilkeleri, çok partili hayata geçiş ve Türkiye'nin modernleşme süreci konularını kapsar. 2. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
-    "question_variants": [
-      "İnkılap tarihi 2 ne işliyor?",
-      "Atatürk dersi 2. dönemde mi?",
-      "1213222 nedir?"
-    ],
-    "keywords": [
-      "atatürk",
-      "inkılap tarihi",
-      "1213222",
-      "2. dönem",
-      "zorunlu"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
-    "id": "bolum_dersleri_fizik2_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "Fizik II (1213230)",
-    "canonical_question": "Fizik II dersinin amacı nedir?",
-    "answer_short": "Elektrik, manyetizma ve elektromanyetik dalga konularını öğretir.",
-    "answer_full": "1213230 kodlu Fizik II; elektrik alanı, manyetik alan, elektromanyetik indüksiyon ve optik konularını kapsar. Fizik I'in devamıdır. 2. dönemde zorunlu ders olarak alınır, 5 AKTS taşır.",
-    "question_variants": [
-      "Fizik 2 ne işliyor?",
-      "2. dönemde fizik var mı?",
-      "Fizik 2 kaç akts?",
-      "fizik 2 zorunlu mu"
-    ],
-    "keywords": [
-      "fizik",
-      "elektrik",
-      "manyetizma",
-      "1213230",
-      "2. dönem"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
-    "id": "bolum_dersleri_ingilizce2_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "İngilizce II (1213231)",
-    "canonical_question": "İngilizce II dersinin amacı nedir?",
-    "answer_short": "Teknik İngilizce okuma ve akademik yazım becerilerini geliştirir.",
-    "answer_full": "1213231 kodlu İngilizce II; mesleki ve akademik İngilizce metinlerin anlaşılması ile teknik yazım konularını kapsar. 2. dönemde zorunlu ders olarak alınır, 3 AKTS taşır.",
-    "question_variants": [
-      "İngilizce 2 ne işliyor?",
-      "2. dönemde ingilizce var mı?",
-      "İng 2 zorunlu mu?"
-    ],
-    "keywords": [
-      "ingilizce",
-      "1213231",
-      "2. dönem",
-      "zorunlu"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
-    "id": "bolum_dersleri_iss2_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "İş Sağlığı ve Güvenliği II (1213248)",
-    "canonical_question": "İş Sağlığı ve Güvenliği II dersinin amacı nedir?",
-    "answer_short": "İleri düzey iş güvenliği uygulamaları ve acil durum yönetimini öğretir.",
-    "answer_full": "1213248 kodlu İş Sağlığı ve Güvenliği II; işyeri tehlike analizi, acil durum planları ve mesleki sağlık yönetimi konularını kapsar. 2. dönemde zorunlu ders olarak alınır, 2 AKTS taşır.",
-    "question_variants": [
-      "İSG 2 nedir?",
-      "İş sağlığı 2. dönemde mi?",
-      "1213248 zorunlu mu?"
-    ],
-    "keywords": [
-      "iş sağlığı",
-      "güvenlik",
-      "isg",
-      "1213248",
-      "2. dönem"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
-    "id": "bolum_dersleri_lineer_cebir_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "Lineer Cebir (1213346)",
-    "canonical_question": "Lineer Cebir dersinin amacı nedir?",
-    "answer_short": "Matrisler, vektör uzayları ve lineer dönüşümler konularını öğretir.",
-    "answer_full": "1213346 kodlu Lineer Cebir; matris işlemleri, determinantlar, özvektörler, vektör uzayları ve lineer dönüşümler konularını kapsar. Bilgisayar grafikleri ve makine öğrenmesi gibi alanlarda temel oluşturur. 3. dönemde zorunlu ders olarak alınır, 3 AKTS taşır.",
-    "question_variants": [
-      "Lineer Cebir ne işliyor?",
-      "3. dönemde lineer cebir var mı?",
-      "1213346 kaç akts?",
-      "lineer cebir zorunlu mu"
-    ],
-    "keywords": [
-      "lineer cebir",
-      "matris",
-      "vektör",
-      "1213346",
-      "3. dönem"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
-    "id": "bolum_dersleri_temel_elektronik_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "Temel Elektronik (1213358)",
-    "canonical_question": "Temel Elektronik dersinin amacı nedir?",
-    "answer_short": "Devre analizi, diyot, transistör ve op-amp gibi temel elektronik bileşenleri öğretir.",
-    "answer_full": "1213358 kodlu Temel Elektronik; Ohm yasası, Kirchhoff kuralları, diyotlar, transistörler ve operasyonel yükselteçler konularını kapsar. 3. dönemde zorunlu ders olarak alınır, 6 AKTS taşır.",
-    "question_variants": [
-      "Temel Elektronik ne işliyor?",
-      "Elektronik dersi 3. dönemde mi?",
-      "1213358 kaç akts?",
-      "temel elektronik zorunlu mu"
-    ],
-    "keywords": [
-      "elektronik",
-      "devre",
-      "transistör",
-      "1213358",
-      "3. dönem"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
-    "id": "bolum_dersleri_istatistik_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "İstatistik ve İhtimaller Teorisi (1213457)",
-    "canonical_question": "İstatistik ve İhtimaller Teorisi dersinin amacı nedir?",
-    "answer_short": "Olasılık teorisi, istatistiksel dağılımlar ve veri analizi yöntemlerini öğretir.",
-    "answer_full": "1213457 kodlu İstatistik ve İhtimaller Teorisi; olasılık aksiyomları, koşullu olasılık, Bayes teoremi, binom/Poisson/normal dağılımlar ve istatistiksel tahmin konularını kapsar. Makine öğrenmesi ve veri biliminin matematiksel temelini oluşturur. 4. dönemde zorunlu ders olarak alınır, 5 AKTS taşır.",
-    "question_variants": [
-      "İstatistik dersi ne işliyor?",
-      "4. dönemde istatistik var mı?",
-      "Olasılık dersi zorunlu mu?",
-      "1213457 kaç akts?"
-    ],
-    "keywords": [
-      "istatistik",
-      "olasılık",
-      "ihtimaller",
-      "1213457",
-      "4. dönem"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
-    "id": "bolum_dersleri_staj1_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "Mesleki Staj I (1213546)",
-    "canonical_question": "Mesleki Staj I dersi hangi dönemde ve amacı nedir?",
-    "answer_short": "5. dönemde alınan zorunlu staj dersidir; öğrencilerin sektörde pratik deneyim kazanmasını amaçlar.",
-    "answer_full": "1213546 kodlu Mesleki Staj I, 5. dönemde yer alan 3 AKTS'lik zorunlu bir derstir. Öğrencilerin bir şirket veya kurumda belirli bir süre çalışarak mesleki deneyim kazanmasını hedefler. Stajın süresi, başvuru süreci ve belgeler hakkında ayrıntılı bilgiye staj kategorisinden ulaşabilirsiniz.",
-    "question_variants": [
-      "Staj 1 kaçıncı dönemde?",
-      "Mesleki Staj 1 ne zaman alınır?",
-      "1213546 nedir?",
-      "Staj dersi 5. dönemde mi?"
-    ],
-    "keywords": [
-      "mesleki staj",
-      "staj 1",
-      "1213546",
-      "5. dönem",
-      "zorunlu"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
-    "id": "bolum_dersleri_staj2_001",
-    "category": "bolum_dersleri",
-    "subcategory": "ders_amaci",
-    "topic": "Mesleki Staj II (1213720)",
-    "canonical_question": "Mesleki Staj II dersi hangi dönemde ve amacı nedir?",
-    "answer_short": "7. dönemde alınan ikinci zorunlu staj dersidir; öğrencilerin daha ileri düzey mesleki deneyim kazanmasını amaçlar.",
-    "answer_full": "1213720 kodlu Mesleki Staj II, 7. dönemde yer alan 3 AKTS'lik zorunlu bir derstir. Mesleki Staj I'in devamı niteliğindedir ve öğrencilerin teknik bilgilerini sektörde pekiştirmesini hedefler. Stajın süresi, başvuru süreci ve belgeler hakkında ayrıntılı bilgiye staj kategorisinden ulaşabilirsiniz.",
-    "question_variants": [
-      "Staj 2 kaçıncı dönemde?",
-      "Mesleki Staj 2 ne zaman alınır?",
-      "1213720 nedir?",
-      "İkinci staj ne zaman yapılır?"
-    ],
-    "keywords": [
-      "mesleki staj",
-      "staj 2",
-      "1213720",
-      "7. dönem",
-      "zorunlu"
-    ],
-    "source": "ktun_bm_ders_programi_2024_2025",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "sevval",
-    "created_at": "2025-04-15"
-  },
-  {
     "id": "erasmus_kosullar_001",
     "category": "erasmus",
     "subcategory": "notlar_ve_kosullar",
@@ -3197,7 +2775,13 @@
     "question_variants": [
       "Erasmus'a kimler basvurabilir?",
       "Ortalamam kac olursa Erasmus'a giderim?",
-      "Yusek lisans ogrencisi Erasmus yapabilir mi?"
+      "Yusek lisans ogrencisi Erasmus yapabilir mi?",
+      "Erasmusa nasıl giderim?",
+      "Erasmus başvurusu nasıl yapılır?",
+      "Erasmusa nasıl başvururum?",
+      "Erasmus için ne yapmalıyım?",
+      "Erasmus programına nasıl katılırım?",
+      "Erasmus hakkında bilgi verir misin?"
     ],
     "keywords": [
       "erasmus",
@@ -3298,7 +2882,11 @@
     "question_variants": [
       "Nerelerde staj yapabilirim?",
       "AB kurumlarinda staj olur mu?",
-      "Sirketlerde Erasmus stajı yapilir mi?"
+      "Sirketlerde Erasmus stajı yapilir mi?",
+      "Erasmus başvurusu nasıl yapılır?",
+      "Erasmusa nasıl gidebilirim?",
+      "Erasmus için ne yapmam gerekiyor?",
+      "Erasmus başvuru süreci nedir?"
     ],
     "keywords": [
       "staj_yeri",
@@ -3321,8 +2909,8 @@
     "answer_short": "Sehit/gazi cocuklarina, engellilere ve staj kabul mektubu sunanlara ek puan verilir[cite: 131, 220].",
     "answer_full": "Sehit/gazi cocuklarina +15, engellilere +10, staj kabul mektubu olanlara +10 ve afetzede yardimi alanlara +10 puan uygulanir[cite: 131, 220].",
     "question_variants": [
-      "Kimlere arti puan verilir?",
-      "Sehit yakini onceligi var mi?",
+      "Erasmus sınavında kimlere arti puan verilir?",
+      "Erasmus sınavında sehit yakini onceligi var mi?",
       "Ek puan listesi nedir?"
     ],
     "keywords": [
@@ -3346,9 +2934,9 @@
     "answer_short": "Daha once yararlanma, vatandasi olunan ulkeye gitme veya toplantilara katilmama durumunda puan dusurulur[cite: 131, 220].",
     "answer_full": "Ayni kademede daha once yararlanma (-10), vatandasi olunan ulkeye gitme (-10) ve feragat bildirmeden katilmama (-10) gibi durumlarda puan azaltilir[cite: 131, 220].",
     "question_variants": [
-      "Puanim neden dusurulur?",
-      "Ikinci kez Erasmus'a gidis puani etkiler mi?",
-      "Ceza puani nedir?"
+      "Erasmu puanim neden dusurulur?",
+      "Erasmusa ikinci kez Erasmus'a gidis puani etkiler mi?",
+      "Erasmuda ceza puani nedir?"
     ],
     "keywords": [
       "eksi_puan",
@@ -3371,9 +2959,13 @@
     "answer_short": "Bolum koordinatörü onayiyla 30 AKTS'lik ders eslestirmesi (OLA/LA) yapilmalidir[cite: 195, 209].",
     "answer_full": "Ogrenciler kendi bolumlerinde alacaklari derslerle karsi universitedeki dersleri eslestirir ve Bolum Erasmus Koordinatörü onayiyla Learning Agreement (LA) hazirlar[cite: 193, 194].",
     "question_variants": [
-      "Dersleri kime onaylatmam lazim?",
-      "Kac AKTS ders almaliyim?",
-      "Dersler uyuşmazsa ne olur?"
+      "Erasmusa gidersem dersleri kime onaylatmam lazim?",
+      "Erasmusda kac AKTS ders almaliyim?",
+      "Dersler uyuşmazsa ne olur?",
+      "Erasmus başvurusu nasıl yapılır?",
+      "Erasmusa nasıl gidebilirim?",
+      "Erasmus için ne yapmam gerekiyor?",
+      "Erasmus başvuru süreci nedir?"
     ],
     "keywords": [
       "ders_eslestirme",
@@ -3398,7 +2990,11 @@
     "question_variants": [
       "Vize mektubu nedir?",
       "Vize masraflarini okul oder mi?",
-      "Erasmus vizesi nasil alinir?"
+      "Erasmus vizesi nasil alinir?",
+      "Erasmus başvurusu nasıl yapılır?",
+      "Erasmusa nasıl gidebilirim?",
+      "Erasmus için ne yapmam gerekiyor?",
+      "Erasmus başvuru süreci nedir?"
     ],
     "keywords": [
       "vize",
@@ -3417,13 +3013,13 @@
     "category": "erasmus",
     "subcategory": "notlar_ve_kosullar",
     "topic": "Hibe Miktarlari Gruplar",
-    "canonical_question": "Gidilecek ulkelere gore aylik hibe miktarlari ne kadardir?",
+    "canonical_question": "Erasmus'ta gidilecek ulkelere gore aylik hibe miktarlari ne kadardir?",
     "answer_short": "Ulke gruplarina gore aylik hibe 450 ile 750 Avro arasinda degisir[cite: 143, 232].",
     "answer_full": "1. ve 2. grup ulkeler icin aylik hibe 600-750 Avro, 3. grup ulkeler icin ise 450-600 Avro olarak belirlenmistir[cite: 143, 232].",
     "question_variants": [
-      "Almanya hibesi ne kadar?",
-      "Polonya hibesi kac para?",
-      "Ulke gruplari nelerdir?"
+      "Erasmus programı Almanya hibesi ne kadar?",
+      "Erasmus programı Polonya hibesi kac para?",
+      "Erasmus programı ülke gruplari nelerdir?"
     ],
     "keywords": [
       "hibe_miktari",
@@ -3446,9 +3042,9 @@
     "answer_short": "Dogru ders eslestirmesi ve intibak islemleriyle okulun uzamasi onlenir[cite: 244].",
     "answer_full": "Ogrenim anlasmasindaki dersler basariyla tamamlanirsa ve intibak islemleri koordinator onayliysa akademik donem kaybi yasanmaz[cite: 244, 245].",
     "question_variants": [
-      "Erasmus yapinca yilim yanar mi?",
+      "Erasmus yapinca yilim uzar mi?",
       "Ders intibak nedir?",
-      "Kacinci sinifta Erasmus yapilir?"
+      "Erasmus hakkında bilgi verir misin?"
     ],
     "keywords": [
       "okulun_uzamasi",
@@ -3471,9 +3067,13 @@
     "answer_short": "Sinav, Yabanci Diller Koordinatorlugu tarafindan yazili ve sozlu olarak yapilir[cite: 89, 184].",
     "answer_full": "Yazili sinav 75 puan, sozlu sinav 25 puan uzerinden degerlendirilir; sinav B2 duzeyinde hazirlanir[cite: 90, 185].",
     "question_variants": [
-      "Dil sinavi zor mu?",
-      "Sozlu sinav var mi?",
-      "Sinav hangi seviyede?"
+      "Erasmus dil sinavi zor mu?",
+      "Erasmus'ta sözlu sinav var mi?",
+      "Erasmus sınavı hangi seviyede?",
+      "Erasmus başvurusu nasıl yapılır?",
+      "Erasmusa nasıl gidebilirim?",
+      "Erasmus için ne yapmam gerekiyor?",
+      "Erasmus başvuru süreci nedir?"
     ],
     "keywords": [
       "dil_sinavi",
@@ -3521,9 +3121,9 @@
     "answer_short": "Karsi universite yurt saglayabilir ancak konaklama bulma sorumlulugu ogrenciye aittir[cite: 241, 242].",
     "answer_full": "Universiteler imkanlari dahilinde yurt sunabilir; ogrenciler bunun disinda ozel yurt veya ev kiralama seceneklerini degerlendirebilir[cite: 241, 242].",
     "question_variants": [
-      "Yurt cikiyor mu?",
-      "Nerede kalacagim?",
-      "Okul kalacak yer ayarliyor mu?"
+      "Erasmus'ta yurt cikiyor mu?",
+      "Erasmus'ta nerede kalacagim?",
+      "Erasmus için okul kalacak yer ayarliyor mu?"
     ],
     "keywords": [
       "konaklama",
@@ -3546,9 +3146,9 @@
     "answer_short": "Buyuk oranda basarisizlik durumunda hibeden iade istenebilir[cite: 213].",
     "answer_full": "Ogrenci derslerden basarisiz olursa KTUN'de de basarisiz sayilir; basari durumuna gore kalan %20 hibe odenmeyebilir veya iade talep edilebilir[cite: 202, 246].",
     "question_variants": [
-      "Dersten kalirsam ne olur?",
-      "Hibe iadesi nedir?",
-      "Basarisizlik cezasi var mi?"
+      "Erasmus'ta dersten kalirsam ne olur?",
+      "Erasmus'ta hibe iadesi nedir?",
+      "Erasmus'ta basarisizlik cezasi var mi?"
     ],
     "keywords": [
       "basarisizlik",
@@ -3567,13 +3167,13 @@
     "category": "erasmus",
     "subcategory": "notlar_ve_kosullar",
     "topic": "Anlasmasiz Kurumda Staj",
-    "canonical_question": "Bolumumun anlasmasi olmayan bir yerde staj yapabilir miyim?",
+    "canonical_question": "Erasmus'ta bolumumun anlasmasi olmayan bir yerde staj yapabilir miyim?",
     "answer_short": "Evet, anlasmasiz diger universite veya kuruluslarda da staj yapilabilir[cite: 128].",
     "answer_full": "Anlasmasiz yerlerde staj yapmak icin kurumdan uygun bir kabul mektubu alinmasi ve bolum koordinatorunun onaylamasi yeterlidir[cite: 128, 162].",
     "question_variants": [
-      "Her yerde staj olur mu?",
-      "Anlasma zorunlu mu?",
-      "Kendi buldugum sirkette staj yapabilir miyim?"
+      "Erasmus'ta her yerde staj olur mu?",
+      "Erasmus'ta anlasma zorunlu mu?",
+      "Erasmus'ta kendi buldugum sirkette staj yapabilir miyim?"
     ],
     "keywords": [
       "anlasma",
@@ -3592,13 +3192,17 @@
     "category": "erasmus",
     "subcategory": "basvuru_sureci",
     "topic": "Aday Gosterme (Nominasyon)",
-    "canonical_question": "Nominasyon sureci nedir?",
+    "canonical_question": "Erasmus'ta nominasyon sureci nedir?",
     "answer_short": "Hak kazanan ogrencilerin universite tarafından karsi kuruma aday gosterilmesidir[cite: 117, 207].",
     "answer_full": "Asil olarak secilen ogrenciler, yerlestirildikleri universitelere Erasmus Koordinatorlugu tarafından nomine edilir ve ardindan karsi universite bilgilendirme yapar[cite: 117, 208].",
     "question_variants": [
-      "Nomine edilmek ne demek?",
-      "Okul beni ne zaman bildirecek?",
-      "Aday gosterme islemi nasil olur?"
+      "Erasmus'ta Nomine edilmek ne demek?",
+      "Erasmus'ta Okul beni ne zaman bildirecek?",
+      "Erasmus'ta Aday gosterme islemi nasil olur?",
+      "Erasmus başvurusu nasıl yapılır?",
+      "Erasmusa nasıl gidebilirim?",
+      "Erasmus için ne yapmam gerekiyor?",
+      "Erasmus başvuru süreci nedir?"
     ],
     "keywords": [
       "nominasyon",
@@ -3621,9 +3225,9 @@
     "answer_short": "Hibeler destek niteligindedir ve tum masraflari karsilamaya yetmeyebilir[cite: 259].",
     "answer_full": "Hibe miktari ogrencinin yasam masraflarina katki saglamak icindir; konaklama ve kisisel harcamalar icin ek butce gerekebilir[cite: 258, 259].",
     "question_variants": [
-      "Hibe yeterli mi?",
-      "Para her seye yeter mi?",
-      "Kendi cebimden para harcar miyim?"
+      "Erasmus'ta hibe yeterli mi?",
+      "Erasmus'ta para her seye yeter mi?",
+      "Erasmus'ta kendi cebimden para harcar miyim?"
     ],
     "keywords": [
       "hibe",
@@ -3646,9 +3250,9 @@
     "answer_short": "Yazılı ve sözlü olmak üzere iki aşamadan oluşur.",
     "answer_full": "Erasmus yabancı dil sınavı iki aşamalıdır. Yazılı sınav 75 puan, sözlü (speaking) sınav ise 25 puan ağırlığındadır. Toplam puan Erasmus puanı hesaplamasında kullanılır.",
     "question_variants": [
-      "Sözlü sınav var mı?",
-      "Speaking sınavı kaç puan?",
-      "Sınav kaç bölüm?"
+      "Erasmus'ta Sözlü sınav var mı?",
+      "Erasmus'ta Speaking sınavı kaç puan?",
+      "Erasmus'ta Sınav kaç bölüm?"
     ],
     "keywords": [
       "yazılı",
@@ -3671,9 +3275,9 @@
     "answer_short": "Kelime bilgisi, dil bilgisi, okuma ve anlama soruları yer alır.",
     "answer_full": "Yazılı sınavda çoktan seçmeli kelime ve dil bilgisi sorularının yanı sıra; cümle tamamlama, paragraf tamamlama ve anlamca en yakın cümleyi bulma gibi anlama soruları bulunur.",
     "question_variants": [
-      "Sınavda hangi konular var?",
-      "Test mi klasik mi?",
-      "Gramer soruluyor mu?"
+      "Erasmus sınavında hangi konular var?",
+      "Erasmus sınavı test mi klasik mi?",
+      "Erasmus sınavında gramer soruluyor mu?"
     ],
     "keywords": [
       "kelime",
@@ -3696,9 +3300,9 @@
     "answer_short": "60-80 soru için 80-100 dakika süre verilir.",
     "answer_full": "Soru sayısı 60 ile 80 arasında değişebilir. Buna bağlı olarak sınav süresi de 80 ile 100 dakika arasında belirlenir.",
     "question_variants": [
-      "Kaç soru var?",
-      "Süre ne kadar?",
-      "Sınav kaç dakika?"
+      "Erasmus sınavında kaç soru var?",
+      "Erasmus sınavında süre ne kadar?",
+      "Erasmus sınavı kaç dakika?"
     ],
     "keywords": [
       "soru_sayısı",
@@ -3720,9 +3324,9 @@
     "answer_short": "Sınav A2, B1 ve B2 zorluğundaki sorulardan oluşur.",
     "answer_full": "Erasmus dil sınavı soruları Avrupa Ortak Dil Çerçevesine uygun olarak A2'den B2 seviyesine kadar değişen zorluk seviyelerinde hazırlanır.",
     "question_variants": [
-      "Sınav zor mu?",
-      "Hangi seviye sorular var?",
-      "B2 mi soruluyor?"
+      "Erasmus sınavı zor mu?",
+      "Erasmus sınavında hangi seviye sorular var?",
+      "Erasmus sınavı B2 mi soruluyor?"
     ],
     "keywords": [
       "A2",
@@ -3745,9 +3349,9 @@
     "answer_short": "Öğrenci tanıtımı, başvuru amacı ve 2 sorudan oluşan bir mülakattır.",
     "answer_full": "Sözlü sınav 2-3 dakika sürer. İki öğretim elemanı eşliğinde tamamen İngilizce yapılır. Kendini tanıtma, başvuru amacı ve sorulan 2 soruya cevap verilmesi beklenir.",
     "question_variants": [
-      "Speaking sınavında ne sorulur?",
-      "Sözlü kaç dakika?",
-      "Mülakat nasıl?"
+      "Erasmus speaking sınavında ne sorulur?",
+      "Erasmus sınavı sözlü kaç dakika?",
+      "Erasmus sınavı mülakatı nasıl?"
     ],
     "keywords": [
       "sözlü_sınav",
@@ -3771,7 +3375,7 @@
     "answer_full": "Bu sinavdan yeterli puan alan ogrenciler, 1. sinif guz ve bahar donemlerinde okutulan zorunlu Ingilizce derslerini almadan muaf sayilirlar[cite: 16, 19]. Universitemizde hazirlik sinifi bulunmamaktadir.",
     "question_variants": [
       "Ingilizce dersinden nasil muaf olurum?",
-      "Sinavi gecince ne olur?",
+      "Muafiyet Sinavi gecince ne olur?",
       "Zorunlu Ingilizce derslerini almak istemiyorum ne yapmaliyim?"
     ],
     "keywords": [
@@ -3796,7 +3400,7 @@
     "answer_full": "Ogrencilerin Ingilizce I ve II derslerinden muaf sayilabilmesi icin muafiyet sinavindan 100 uzerinden en az 60 puan almalari gerekmektedir[cite: 81, 176].",
     "question_variants": [
       "Muafiyet baraji kac?",
-      "Kac puan alan dersi gecer?",
+      "Muafiyet sınavında kac puan alan dersi gecer?",
       "Ingilizce muafiyet notu nedir?"
     ],
     "keywords": [
@@ -3819,8 +3423,8 @@
     "answer_short": "Evet, gecerli bir YDS/YÖKDİL puani sunanlar zorunlu derslerden muaf sayilabilir.",
     "answer_full": "OSYM tarafından yapılan YDS, YOKDIL veya esdegerligi kabul edilen sinavlardan yeterli puan alan ogrenciler, dilekce vererek zorunlu Ingilizce derslerinden muafiyet talep edebilirler[cite: 87, 88].",
     "question_variants": [
-      "YDS puanim var dersi alacak miyim?",
-      "Disaridan alinan dil belgesi gecerli mi?",
+      "YDS puanim var İngilizce dersi alacak miyim?",
+      "Muafiyet için disaridan alinan dil belgesi gecerli mi?",
       "Hangi belgeler muafiyet saglar?"
     ],
     "keywords": [
@@ -3844,7 +3448,7 @@
     "answer_short": "Universiteye yeni kayit olan tum ogrenciler bu sinava girebilir.",
     "answer_full": "Universitemiz bolumlerine yeni yerlesen birinci sinif ogrencileri, ders donemi basinda yapılan muafiyet sinavina katilabilirler[cite: 174, 184].",
     "question_variants": [
-      "Sinava herkes girebilir mi?",
+      "Muafiyet sinavına herkes girebilir mi?",
       "1. siniflar muafiyet sinavina girer mi?",
       "Ders muafiyeti icin kimler basvurur?"
     ],
@@ -3869,7 +3473,7 @@
     "answer_full": "Zorunlu Ingilizce ders muafiyeti icin yapılan sinavda ogrencilerin temel gramer bilgisi ve okudugunu anlama becerisi coktan secmeli sorularla olculur[cite: 90, 185].",
     "question_variants": [
       "Muafiyet sinavi test mi?",
-      "Sinavda hangi konular var?",
+      "Muafiyet sinavinda hangi konular var?",
       "Ingilizce muafiyet icerigi nedir?"
     ],
     "keywords": [
@@ -4602,31 +4206,6 @@
       "iç mimarlık"
     ],
     "source": "KTÜN Mimarlık Fakültesi",
-    "verified": false,
-    "valid_until": null,
-    "created_by": "Can",
-    "created_at": "2026-04-14"
-  },
-  {
-    "id": "genel_universite_fakulte_bilgisi_002",
-    "category": "genel_universite",
-    "subcategory": "fakulte_bilgisi",
-    "topic": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
-    "canonical_question": "Bilgisayar ve Bilişim Bilimleri Fakültesi'nde hangi programlar bulunmaktadır?",
-    "answer_short": "Bilgisayar Mühendisliği, Yapay Zeka ve Makine Öğrenmesi ve Yazılım Mühendisliği bölümleri bu fakültededir.",
-    "answer_full": "Bilgisayar Mühendisliği, Yapay Zeka ve Makine Öğrenmesi ve Yazılım Mühendisliği bölümleri bu fakültededir.",
-    "question_variants": [
-      "Bilgisayar bölümleri nelerdir?",
-      "Bilişim fakültesi nerede?",
-      "Yazılım hangi fakültede?"
-    ],
-    "keywords": [
-      "bilgisayar",
-      "bilişim",
-      "yazılım",
-      "yapay zeka"
-    ],
-    "source": "KTÜN Bilgisayar ve Bilişim Bilimleri Fakültesi",
     "verified": false,
     "valid_until": null,
     "created_by": "Can",
@@ -5882,6 +5461,11 @@
       "Kurumlar arası yatay geçiş şartları neler?",
       "Başka okuldan KTÜN'e geçmek için not ortalaması kaç olmalı?",
       "Yatay geçiş için GNO şartı var mı?",
+      "Yatay geçiş için not ortalaması kaç olmalı?",
+      "Yatay geçişte gano şartı var mı?",
+      "Kaç gano ile yatay geçiş yapılır?",
+      "Yatay geçiş için gno kaç olmalı?",
+      "Yatay geçiş gano şartı nedir?",
       "Başarısız dersim varsa yatay geçiş yapabilir miyim?"
     ],
     "keywords": [

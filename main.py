@@ -1,38 +1,10 @@
-from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
-from sentence_transformers import SentenceTransformer
-import torch
-
+from rag.embedder import BGE_M3_Embedder
 from agents.graph import build_graph
 from rag.retriever import load_data, build_corpus, build_bm25, build_faiss
-from config import MODEL_NAME, LOAD_IN_4BIT, EMBEDDING_MODEL, DATA_PATH
-
-
-def load_model():
-    """Qwen2.5-7B modelini 4-bit kuantizasyonla yükler."""
-    print(f"Model yükleniyor: {MODEL_NAME}")
-    print("İlk çalıştırmada model internetten inecek (~4.5GB), lütfen bekle...")
-
-    bnb_config = BitsAndBytesConfig(
-        load_in_4bit=LOAD_IN_4BIT,
-        bnb_4bit_quant_type="nf4",
-        bnb_4bit_compute_dtype=torch.bfloat16,
-        bnb_4bit_use_double_quant=True
-    )
-
-    tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
-
-    model = AutoModelForCausalLM.from_pretrained(
-        MODEL_NAME,
-        quantization_config=bnb_config,
-        device_map="auto"
-    )
-
-    print("Model yüklendi.")
-    return model, tokenizer
+from config import EMBEDDING_MODEL, DATA_PATH
 
 
 def load_rag():
-    """RAG bileşenlerini hazırlar."""
     print("Veri seti yükleniyor...")
     data = load_data(DATA_PATH)
 
@@ -43,7 +15,7 @@ def load_rag():
     bm25 = build_bm25(corpus_texts)
 
     print("Embedding modeli yükleniyor...")
-    embedding_model = SentenceTransformer(EMBEDDING_MODEL)
+    embedding_model = BGE_M3_Embedder(EMBEDDING_MODEL)
 
     print("FAISS indeksi oluşturuluyor...")
     faiss_index = build_faiss(corpus_texts, embedding_model)
@@ -53,11 +25,8 @@ def load_rag():
 
 
 def main():
-    # Bileşenleri yükle
-    model, tokenizer             = load_model()
     bm25, faiss_index, corpus_texts, corpus_answers, embedding_model = load_rag()
 
-    # Graph'ı kur
     graph = build_graph()
 
     print("\n" + "="*50)
@@ -82,8 +51,6 @@ def main():
             "confidence_score":  0.0,
             "final_answer":      "",
             "error":             "",
-            "model":             model,
-            "tokenizer":         tokenizer,
             "bm25":              bm25,
             "faiss_index":       faiss_index,
             "corpus_texts":      corpus_texts,
@@ -93,7 +60,6 @@ def main():
         }
 
         result = graph.invoke(state)
-
         answer = result.get("final_answer", "Bir hata oluştu.")
         print(f"\nAsistan: {answer}\n")
 

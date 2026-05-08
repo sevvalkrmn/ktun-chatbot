@@ -101,6 +101,8 @@ def hybrid_search(
     bm25_max = bm25_scores.max()
     if bm25_max > 0:
         bm25_scores = bm25_scores / bm25_max
+        # Düşük BM25 skorlarını bastır
+        bm25_scores = np.where(bm25_scores < 0.1, 0.0, bm25_scores)
 
     # ── Semantik skor ───────────────────────────────────────────────────
     query_vec = embedding_model.encode([query])
@@ -113,9 +115,13 @@ def hybrid_search(
         if idx < len(corpus_texts):
             semantic_scores[idx] = max(0.0, float(score))
 
-    sem_max = semantic_scores.max()
-    if sem_max > 0:
-        semantic_scores = semantic_scores / sem_max
+    # Normalize etme — ham cosine skorlarını kullan
+    # Cosine benzerliği zaten 0-1 arasında
+    semantic_scores_raw = np.zeros(len(corpus_texts))
+    for idx, score in zip(indices[0], distances[0]):
+        if idx < len(corpus_texts):
+            semantic_scores_raw[idx] = max(0.0, float(score))
+    semantic_scores = semantic_scores_raw
 
     # ── Hibrit skor ─────────────────────────────────────────────────────
     combined    = BM25_WEIGHT * bm25_scores + SEMANTIC_WEIGHT * semantic_scores

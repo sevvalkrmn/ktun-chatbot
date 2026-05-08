@@ -8,11 +8,9 @@ rank_bm25
 pdfplumber
 requests
 beautifulsoup4
-google-auth
-google-auth-oauthlib
-google-api-python-client
 python-dotenv
 transformers
-bitsandbytes
-accelerate
-torch
+FlagEmbedding
+ollama
+# NOT: torch, Jetson'da pip ile kurulmaz.
+# JetPack ile gelen PyTorch kullanılır: https://docs.nvidia.com/deeplearning/frameworks/install-pytorch-jetson-platform/
