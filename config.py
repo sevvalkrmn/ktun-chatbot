@@ -1,15 +1,23 @@
+import os
 from dotenv import load_dotenv
 
 load_dotenv()
 
-# ── LLM (Ollama) ─────────────────────────────────────────
+# ── LLM (OpenAI — gpt-4o-mini) ───────────────────────────
+# Local modele (Ollama/Gemma) geçmeden önce deneme aşaması.
+# API anahtarı .env dosyasından okunur (config.py git'te izlendiği için
+# anahtarı buraya YAZMAYIN). .env içine: OPENAI_API_KEY=sk-...
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+OPENAI_MODEL   = "gpt-4o-mini"
+
+# ── LLM (Ollama) — local model için, şimdilik pasif ──────
 # Jetson'da: ollama pull gemma4:27b
-# Modelin tam adını `ollama list` ile doğrula
 OLLAMA_MODEL = "gemma4:27b"
 OLLAMA_HOST  = "http://localhost:11434"   # Jetson üzerinde çalışan Ollama
 
 # ── Veri Seti ────────────────────────────────────────────
-DATA_PATH = "data/ktun_dataset_v2.json"
+# knowledge_base markdown dökümanlarından üretilen chunk veri seti
+DATA_PATH = "data/ktun_kb_dataset.json"
 
 CATEGORY_FIELD = "category"
 

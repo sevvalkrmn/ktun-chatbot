@@ -1,8 +1,8 @@
 import re
-import ollama
+from openai import OpenAI
 from agents.state import AgentState
 from rag.retriever import hybrid_search, preprocess_bm25_query
-from config import SYSTEM_PROMPT, HIGH_CONFIDENCE, MID_CONFIDENCE, OLLAMA_MODEL, OLLAMA_HOST
+from config import SYSTEM_PROMPT, HIGH_CONFIDENCE, MID_CONFIDENCE, OPENAI_API_KEY, OPENAI_MODEL
 
 # 1. sınıf = DÖNEM 1-2, 2. sınıf = DÖNEM 3-4, 3. sınıf = DÖNEM 5-6, 4. sınıf = DÖNEM 7-8
 _SINIF_DONEM_MAP = {
@@ -89,22 +89,23 @@ def rag_node(state: AgentState) -> AgentState:
             "retrieved_context": context, "intent": "llm_sentez"}
 
 
-# ── 3. LLM SENTEZ NODE (Ollama — Gemma4) ────────────────────────────────
+# ── 3. LLM SENTEZ NODE (OpenAI — gpt-4o-mini) ───────────────────────────
 def llm_node(state: AgentState) -> AgentState:
     context  = state["retrieved_context"]
     question = state["user_input"]
 
-    client   = ollama.Client(host=OLLAMA_HOST)
-    response = client.chat(
-        model=OLLAMA_MODEL,
+    client   = OpenAI(api_key=OPENAI_API_KEY)
+    response = client.chat.completions.create(
+        model=OPENAI_MODEL,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user",   "content": f"BAĞLAM:\n{context}\n\nSORU: {question}\nCEVAP:"},
         ],
-        options={"temperature": 0.1, "num_predict": 512},
+        temperature=0,
+        max_tokens=512,
     )
 
-    answer = response.message.content.strip()
+    answer = response.choices[0].message.content.strip()
     return {**state, "final_answer": answer}
 
 

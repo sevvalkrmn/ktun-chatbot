@@ -11,6 +11,8 @@ beautifulsoup4
 python-dotenv
 transformers
 FlagEmbedding
+openai
 ollama
+flask
 # NOT: torch, Jetson'da pip ile kurulmaz.
 # JetPack ile gelen PyTorch kullanılır: https://docs.nvidia.com/deeplearning/frameworks/install-pytorch-jetson-platform/

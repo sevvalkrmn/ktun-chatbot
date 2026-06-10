@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aila - Sohbet Ekranı</title>
+    <style>
+        /* --- Temel Ayarlar ve Fontlar --- */
+        @font-face {
+            font-family: 'SF Pro';
+            src: local('SF Pro Display'), local('SF Pro'), local('-apple-system');
+        }
+
+        :root {
+            /* Dark Mode Değişkenleri (Varsayılan) */
+            --bg-color: #120000;
+            --text-color: #FFFFFF;
+            
+            /* Glow Efekti - Dark Mode (432x432, y: -250) */
+            --glow-size: 432px;
+            --glow-top: -250px;
+            --glow-grad-1-stop: rgba(187, 22, 22, 0);
+            
+            /* Input ve Kullanıcı Mesajı Ortak Renkleri */
+            --box-bg: #20202C;
+            --box-border: rgba(255, 255, 255, 0.25);
+            
+            --footer-text: #96969B;
+        }
+
+        [data-theme="light"] {
+            /* Light Mode Değişkenleri */
+            --bg-color: #F4F6FC;
+            --text-color: #000000; /* Light modda yapay zeka metni için koyu renk */
+            
+            /* Glow Efekti - Light Mode (687x687, y: -461) */
+            --glow-size: 687px;
+            --glow-top: -461px;
+            --glow-grad-1-stop: rgba(187, 22, 22, 0.23);
+            
+            /* Input ve Kullanıcı Mesajı Ortak Renkleri */
+            --box-bg: #700D0D;
+            --box-border: rgba(255, 255, 255, 0.25);
+            
+            --footer-text: #700D0D;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            font-family: 'SF Pro', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden; /* Dış kaydırmayı kapat */
+            transition: background-color 0.4s ease;
+            position: relative;
+        }
+
+        /* --- Arka Plan Efekti (Tepeye Sabitli, Responsive) --- */
+        .glow-effect {
+            position: absolute;
+            width: var(--glow-size);
+            height: var(--glow-size);
+            left: 50%;
+            top: var(--glow-top);
+            transform: translateX(-50%); /* Yatayda tam merkeze alır */
+            border-radius: 50%;
+            background: linear-gradient(135deg, rgba(187,22,22,1) 0%, var(--glow-grad-1-stop) 86%),
+                        linear-gradient(45deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 86%);
+            filter: blur(100px);
+            transition: all 0.5s ease;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        /* --- Üst Kısım (Header) --- */
+        header {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-top: 23px; /* Tasarımdaki y23 baz alındı */
+            padding-bottom: 20px;
+            position: relative;
+            z-index: 10;
+            flex-shrink: 0;
+        }
+
+        .logo {
+            width: 45px;
+            height: 60.46px;
+        }
+
+        .theme-toggle {
+            position: absolute;
+            right: 40px;
+            top: 30px;
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .theme-toggle:hover {
+            transform: scale(1.1);
+        }
+
+        /* --- Sohbet Alanı --- */
+        .chat-container {
+            flex: 1;
+            overflow-y: auto;
+            width: 100%;
+            max-width: 804px; /* Input genişliği ile senkronize */
+            margin: 0 auto;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+            z-index: 10;
+            scroll-behavior: smooth;
+        }
+
+        /* Scrollbar Gizleme/İnceltme */
+        .chat-container::-webkit-scrollbar {
+            width: 6px;
+        }
+        .chat-container::-webkit-scrollbar-thumb {
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+        }
+
+        /* Kullanıcı Mesajı (Sağa Yaslı, Esnek Kutu) */
+        .message-user {
+            align-self: flex-end;
+            background-color: var(--box-bg);
+            border: 1px solid var(--box-border);
+            border-radius: 16px;
+            padding: 16px 20px; /* Her kenardan eşit hizalı boşluk */
+            max-width: 85%;
+            font-size: 20px;
+            font-weight: 400;
+            color: #FFFFFF; /* Hem dark hem light modda metin beyaz */
+            line-height: 1.4;
+            transition: background-color 0.4s ease, border-color 0.4s ease;
+        }
+
+        /* Yapay Zeka Yanıtı (Tam Genişlik, Sola Yaslı) */
+        .message-ai {
+            align-self: flex-start;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .ai-text {
+            width: 100%;
+            font-size: 16px; /* Tasarıma uygun optimal okunabilirlik */
+            font-weight: 400;
+            color: var(--text-color);
+            line-height: 1.5;
+            text-align: left;
+            transition: color 0.4s ease;
+        }
+
+        .copy-icon {
+            width: 20px;
+            height: 20px;
+            cursor: pointer;
+            transition: transform 0.2s, opacity 0.2s;
+            opacity: 0.7;
+            align-self: flex-start;
+        }
+
+        .copy-icon:hover {
+            transform: scale(1.2);
+            opacity: 1;
+        }
+
+        /* --- Alt Kısım (Input ve Footer) --- */
+        .bottom-section {
+            width: 100%;
+            max-width: 804px; /* AI metni ile tam aynı genişlikte */
+            margin: 0 auto;
+            padding: 10px 20px 30px 20px;
+            flex-shrink: 0;
+            z-index: 10;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .input-wrapper {
+            position: relative;
+            width: 100%;
+        }
+
+        .input-box {
+            width: 100%;
+            height: 78px;
+            background-color: var(--box-bg);
+            border: 1px solid var(--box-border);
+            border-radius: 50px;
+            padding: 0 90px 0 32px;
+            font-family: inherit;
+            font-size: 24px;
+            color: #FFFFFF;
+            outline: none;
+            transition: background-color 0.4s ease, border-color 0.4s ease;
+        }
+
+        .input-box::placeholder {
+            color: #FFFFFF;
+            opacity: 0.7;
+        }
+
+        .send-icon {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 60px;
+            height: 60px;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .send-icon:hover {
+            transform: translateY(-50%) scale(1.05);
+        }
+
+        footer {
+            text-align: center;
+        }
+
+        .footer-text {
+            font-size: 16px;
+            color: var(--footer-text);
+            transition: color 0.4s ease;
+        }
+
+        /* Mobil Cihazlar İçin (Responsive) */
+        @media (max-width: 768px) {
+            .theme-toggle {
+                right: 20px;
+                top: 20px;
+                width: 40px;
+                height: 40px;
+            }
+            .message-user {
+                font-size: 16px;
+                padding: 12px 16px;
+                max-width: 90%;
+            }
+            .ai-text {
+                font-size: 15px;
+            }
+            .input-box {
+                height: 60px;
+                font-size: 18px;
+                padding-left: 20px;
+            }
+            .send-icon {
+                width: 45px;
+                height: 45px;
+                right: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="glow-effect"></div>
+
+    <header>
+        <img src="/static/logo.svg" alt="Logo" class="logo">
+        <img src="/static/light-mode.svg" alt="Theme Toggle" class="theme-toggle" id="theme-icon" onclick="toggleTheme()">
+    </header>
+
+    <main class="chat-container" id="chat-container">
+    </main>
+
+    <div class="bottom-section">
+        <div class="input-wrapper">
+            <input type="text" id="chat-input" class="input-box" placeholder="Bir soru sor...">
+            <img src="/static/send-for-dark.svg" alt="Gönder" class="send-icon" id="send-icon">
+        </div>
+        <footer>
+            <p class="footer-text">Yapay zeka yanılabilir · Önemli bilgileri teyit edin</p>
+        </footer>
+    </div>
+
+    <script>
+        function toggleTheme() {
+            const root = document.documentElement;
+            const themeIcon = document.getElementById('theme-icon');
+            const sendIcon = document.getElementById('send-icon');
+            const copyIcons = document.querySelectorAll('.copy-icon');
+            
+            if (root.getAttribute('data-theme') === 'light') {
+                root.removeAttribute('data-theme');
+                themeIcon.src = '/static/light-mode.svg';
+                sendIcon.src = '/static/send-for-dark.svg';
+                copyIcons.forEach(icon => icon.src = '/static/copy-for-dark.svg');
+            } else {
+                root.setAttribute('data-theme', 'light');
+                themeIcon.src = '/static/dark-mode.svg';
+                sendIcon.src = '/static/send-for-light.svg';
+                copyIcons.forEach(icon => icon.src = '/static/copy-for-light.svg');
+            }
+        }
+
+        function copyText(iconElement) {
+            const textToCopy = iconElement.parentElement.querySelector('.ai-text').innerText;
+            navigator.clipboard.writeText(textToCopy).then(() => {
+                const originalSrc = iconElement.src;
+                iconElement.style.opacity = '0.3';
+                setTimeout(() => { iconElement.style.opacity = '0.7'; }, 300);
+            }).catch(err => {
+                console.error('Kopyalama başarısız: ', err);
+            });
+        }
+
+        const chatContainer = document.getElementById('chat-container');
+        const chatInput = document.getElementById('chat-input');
+        const sendIcon = document.getElementById('send-icon');
+
+        // window.onload çakışması giderildi, tek fonksiyonda birleştirildi
+        window.onload = function() {
+            const firstMsg = sessionStorage.getItem('firstMessage');
+            if (firstMsg) {
+                sessionStorage.removeItem('firstMessage');
+                handleUserMessage(firstMsg);
+            }
+            // Sayfa yüklendiğinde otomatik en alta kaydırma
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+        };
+
+        chatInput.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter' && this.value.trim() !== '') {
+                handleUserMessage(this.value);
+                this.value = ''; 
+            }
+        });
+
+        sendIcon.addEventListener('click', function() {
+            if (chatInput.value.trim() !== '') {
+                handleUserMessage(chatInput.value);
+                chatInput.value = '';
+            }
+        });
+
+        function scrollToBottom() {
+            chatContainer.scrollTo({
+                top: chatContainer.scrollHeight,
+                behavior: 'smooth'
+            });
+        }
+
+        function getCopyIconPath() {
+            const isLight = document.documentElement.getAttribute('data-theme') === 'light';
+            return isLight ? '/static/copy-for-light.svg' : '/static/copy-for-dark.svg';
+        }
+
+        function handleUserMessage(text) {
+            const userBubble = `<div class="message-user">${text}</div>`;
+            chatContainer.insertAdjacentHTML('beforeend', userBubble);
+            scrollToBottom();
+
+            fetch('/api/ask', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ message: text })
+            })
+            .then(response => response.json())
+            .then(data => {
+                const aiBubble = `
+                    <div class="message-ai">
+                        <div class="ai-text">${data.response}</div>
+                        <img src="${getCopyIconPath()}" alt="Kopyala" class="copy-icon" onclick="copyText(this)">
+                    </div>
+                `;
+                chatContainer.insertAdjacentHTML('beforeend', aiBubble);
+                scrollToBottom();
+            })
+            .catch(error => {
+                console.error("API Hatası:", error);
+                const errorBubble = `
+                    <div class="message-ai">
+                        <div class="ai-text" style="color: #ff4d4d;">Bir hata oluştu, lütfen tekrar deneyin.</div>
+                    </div>
+                `;
+                chatContainer.insertAdjacentHTML('beforeend', errorBubble);
+                scrollToBottom();
+            });
+        }
+    </script>
+</body>
+</html>

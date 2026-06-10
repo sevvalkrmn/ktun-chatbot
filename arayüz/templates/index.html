@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aila - Yapay Zeka Asistanı</title>
+    <style>
+        /* --- Temel Ayarlar ve Fontlar --- */
+        @font-face {
+            font-family: 'SF Pro';
+            src: local('SF Pro Display'), local('SF Pro'), local('-apple-system');
+        }
+
+        :root {
+            /* Dark Mode Değişkenleri */
+            --bg-color: #120000;
+            --text-greeting: #FFFFFF;
+            
+            --glow-size: 503px;
+            --glow-grad-1-stop: rgba(187, 22, 22, 0);
+            
+            --input-bg: #20202C;
+            --input-border: rgba(255, 255, 255, 0.25);
+            --input-text: #FFFFFF;
+            
+            --btn-bg: #20202C;
+            --btn-border: rgba(255, 255, 255, 0.25);
+            --btn-text: #FFFFFF;
+            
+            --footer-text: #96969B;
+        }
+
+        [data-theme="light"] {
+            /* Light Mode Değişkenleri */
+            --bg-color: #F4F6FC;
+            --text-greeting: #700D0D;
+            
+            --glow-size: 811px;
+            --glow-grad-1-stop: rgba(187, 22, 22, 0.23);
+            
+            --input-bg: #700D0D;
+            --input-border: rgba(255, 255, 255, 0.25);
+            --input-text: #FFFFFF;
+            
+            --btn-bg: #700D0D;
+            --btn-border: rgba(255, 255, 255, 0.25);
+            --btn-text: #FFFFFF;
+            
+            --footer-text: #700D0D;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-greeting);
+            font-family: 'SF Pro', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow-x: hidden;
+            transition: background-color 0.4s ease;
+            position: relative;
+        }
+
+        /* --- Arka Plan Efekti --- */
+        .glow-effect {
+            position: absolute;
+            width: var(--glow-size);
+            height: var(--glow-size);
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            border-radius: 50%;
+            background: linear-gradient(135deg, rgba(187,22,22,1) 0%, var(--glow-grad-1-stop) 86%),
+                        linear-gradient(45deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 86%);
+            filter: blur(100px);
+            transition: all 0.5s ease;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        /* --- Üst Kısım (Header) --- */
+        header {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 40px 20px;
+            position: relative;
+            z-index: 10;
+            width: 100%;
+        }
+
+        .logo {
+            height: 108px;
+            width: auto;
+        }
+
+        .theme-toggle {
+            position: absolute;
+            right: 40px;
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .theme-toggle:hover {
+            transform: scale(1.1);
+        }
+
+        /* --- Ana İçerik (Main) --- */
+        main {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            z-index: 10;
+            width: 100%;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .greeting {
+            font-size: 32px;
+            font-weight: 400;
+            text-align: center;
+            /* 80px olan değeri robotun yüksekliğini tam kurtaracak şekilde artırdık */
+            margin-bottom: 150px; 
+            transition: color 0.4s ease;
+            position: relative;
+            z-index: 2; /* Yazının her ihtimale karşı üstte kalmasını garantiler */
+        }
+
+        /* Input ve Robot Sarmalayıcı */
+        .search-container {
+            position: relative;
+            width: 100%;
+            max-width: 804px;
+            margin-bottom: 20px;
+        }
+
+        .aila-robot {
+            position: absolute;
+            width: 213px;
+            height: 123px;
+            left: 50px; /* Inputun solundan içeriye doğru pozisyon */
+            bottom: 100%; /* Inputun tam üzerine oturur */
+            margin-bottom: -15px; /* Inputun arkasına hafifçe gömülmesini sağlar */
+            z-index: 1;
+        }
+
+        .input-wrapper {
+            position: relative;
+            width: 100%;
+            z-index: 2; /* Robotun önünde durması için */
+        }
+
+        .input-box {
+            width: 100%;
+            height: 78px;
+            background-color: var(--input-bg);
+            border: 1px solid var(--input-border);
+            border-radius: 50px;
+            padding: 0 90px 0 32px;
+            font-family: inherit;
+            font-size: 24px;
+            color: var(--input-text);
+            outline: none;
+            transition: background-color 0.4s ease, border-color 0.4s ease;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        .input-box::placeholder {
+            color: var(--input-text);
+            opacity: 0.7;
+        }
+
+        .send-icon {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 60px;
+            height: 60px;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .send-icon:hover {
+            transform: translateY(-50%) scale(1.05);
+        }
+
+        /* --- Hızlı Eylem Butonları --- */
+        .actions-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 12px;
+            width: 100%;
+        }
+
+        .action-btn {
+            height: 49px;
+            background-color: var(--btn-bg);
+            border: 1px solid var(--btn-border);
+            border-radius: 100px;
+            padding: 0 24px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: inherit;
+            font-size: 16px;
+            color: var(--btn-text);
+            cursor: pointer;
+            transition: background-color 0.4s ease, transform 0.2s;
+            white-space: nowrap;
+        }
+
+        .action-btn:hover {
+            transform: translateY(-2px);
+            filter: brightness(1.2);
+        }
+
+        /* --- Alt Bilgi (Footer) --- */
+        footer {
+            text-align: center;
+            padding: 20px;
+            z-index: 10;
+        }
+
+        .footer-text {
+            font-size: 16px;
+            color: var(--footer-text);
+            transition: color 0.4s ease;
+        }
+
+        /* Mobil Cihazlar İçin Medya Sorguları (Responsive) */
+        @media (max-width: 768px) {
+            .greeting {
+                font-size: 24px;
+                margin-bottom: 100px; /* Mobilde küçülen robot için yeterli boşluk */
+            }
+            .input-box {
+                height: 60px;
+                font-size: 18px;
+                padding-left: 20px;
+            }
+            .aila-robot {
+                width: 150px;
+                height: auto;
+                left: 20px;
+            }
+            .send-icon {
+                width: 45px;
+                height: 45px;
+                right: 10px;
+            }
+            .theme-toggle {
+                right: 20px;
+                top: 20px;
+                width: 40px;
+                height: 40px;
+            }
+            .logo {
+                height: 80px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="glow-effect"></div>
+
+    <header>
+        <img src="/static/logo.svg" alt="Logo" class="logo">
+        <img src="/static/light-mode.svg" alt="Theme Toggle" class="theme-toggle" id="theme-icon" onclick="toggleTheme()">
+    </header>
+
+    <main>
+        <h1 class="greeting">Merhaba, bugün sana nasıl yardımcı olabilirim?</h1>
+        
+        <div class="search-container">
+            <img src="/static/aila.svg" alt="Aila Robot" class="aila-robot">
+            
+            <div class="input-wrapper">
+                <input type="text" id="main-input" class="input-box" placeholder="Bir soru sor...">
+                <img src="/static/send-for-dark.svg" alt="Gönder" class="send-icon" id="send-icon">
+            </div>
+        </div>
+
+        <div class="actions-container">
+            <button class="action-btn">Bugün yemekte ne var?</button>
+            <button class="action-btn">Akademik takvim nasıl?</button>
+            <button class="action-btn">Duyurular hakkında bilgi ver.</button>
+        </div>
+    </main>
+
+    <footer>
+        <p class="footer-text">Yapay zeka yanılabilir · Önemli bilgileri teyit edin</p>
+    </footer>
+
+    <script>
+        function toggleTheme() {
+            const root = document.documentElement;
+            const themeIcon = document.getElementById('theme-icon');
+            const sendIcon = document.getElementById('send-icon');
+            
+            if (root.getAttribute('data-theme') === 'light') {
+                // Dark Mode'a Geç
+                root.removeAttribute('data-theme');
+                themeIcon.src = '/static/light-mode.svg';
+                sendIcon.src = '/static/send-for-dark.svg';
+            } else {
+                // Light Mode'a Geç
+                root.setAttribute('data-theme', 'light');
+                themeIcon.src = '/static/dark-mode.svg';
+                sendIcon.src = '/static/send-for-light.svg';
+            }
+        }
+        // --- Mesaj Yollama ve Chat Sayfasına Geçiş Mantığı ---
+        function sendInitialMessage(text) {
+            if (!text.trim()) return; // Boş mesaj atılmasını engelle
+            
+            // Mesajı tarayıcı hafızasına kaydet
+            sessionStorage.setItem('firstMessage', text);
+            
+            // Chat sayfasına yönlendir
+            window.location.href = '/chat';
+        }
+
+        // 1. Enter tuşuna basıldığında
+        document.getElementById('main-input').addEventListener('keypress', function (e) {
+            if (e.key === 'Enter') {
+                sendInitialMessage(this.value);
+            }
+        });
+
+        // 2. Yollama (Ok) İkonuna tıklandığında
+        document.getElementById('send-icon').addEventListener('click', function () {
+            const text = document.getElementById('main-input').value;
+            sendInitialMessage(text);
+        });
+
+        // 3. Alttaki Hızlı Eylem Butonlarına tıklandığında
+        document.querySelectorAll('.action-btn').forEach(btn => {
+            btn.addEventListener('click', function () {
+                sendInitialMessage(this.innerText);
+            });
+        });
+    </script>
+</body>
+</html>
