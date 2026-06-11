@@ -134,6 +134,19 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# Çalışma zamanı önbelleği (yemekhane menü vb.) ve harness lock
+data/cache/
+.claude/scheduled_tasks.lock
+
+# OAuth token + LangGraph checkpointer veritabanları (SQLite) ve yan dosyaları
+*.db
+*.db-shm
+*.db-wal
+*.sqlite3
+tokens.db
+checkpoints.db
+chatbot/
+
 # Environments
 .env
 .envrc

@@ -14,5 +14,16 @@ FlagEmbedding
 openai
 ollama
 flask
+# ── Agent katmanı (FastAPI + OAuth + e-posta) ──
+fastapi
+uvicorn
+langchain-openai
+langgraph-checkpoint-sqlite
+sqlalchemy
+aiosqlite
+authlib
+httpx
+itsdangerous
+python-multipart
 # NOT: torch, Jetson'da pip ile kurulmaz.
 # JetPack ile gelen PyTorch kullanılır: https://docs.nvidia.com/deeplearning/frameworks/install-pytorch-jetson-platform/

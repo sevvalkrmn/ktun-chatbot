@@ -9,6 +9,7 @@ from agents.nodes import (
     veda_node,
     hal_hatir_node,
     dusuk_guven_node,
+    yemekhane_node,
 )
 
 def route_intent(state: AgentState) -> str:
@@ -22,6 +23,8 @@ def route_intent(state: AgentState) -> str:
         return "veda_node"
     elif intent == "hal_hatir":
         return "hal_hatir_node"
+    elif intent == "yemekhane":
+        return "yemekhane_node"
     else:
         return "rag_node"  # Geri kalan her şey RAG'a
 
@@ -44,6 +47,7 @@ def build_graph() -> StateGraph:
     graph.add_node("kimlik_node",      kimlik_node)
     graph.add_node("veda_node",        veda_node)
     graph.add_node("hal_hatir_node",   hal_hatir_node)
+    graph.add_node("yemekhane_node",   yemekhane_node)
     graph.add_node("dusuk_guven_node", dusuk_guven_node)
 
     # Başlangıç noktası
@@ -58,6 +62,7 @@ def build_graph() -> StateGraph:
             "kimlik_node":    "kimlik_node",
             "veda_node":      "veda_node",
             "hal_hatir_node": "hal_hatir_node",
+            "yemekhane_node": "yemekhane_node",
             "rag_node":       "rag_node"
         }
     )
@@ -78,6 +83,7 @@ def build_graph() -> StateGraph:
     graph.add_edge("kimlik_node",      END)
     graph.add_edge("veda_node",        END)
     graph.add_edge("hal_hatir_node",   END)
+    graph.add_edge("yemekhane_node",   END)
     graph.add_edge("dusuk_guven_node", END)
 
     return graph.compile()

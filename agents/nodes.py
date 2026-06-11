@@ -2,6 +2,7 @@ import re
 from openai import OpenAI
 from agents.state import AgentState
 from rag.retriever import hybrid_search, preprocess_bm25_query
+from tools.yemekhane_tool import get_day_menu
 from config import SYSTEM_PROMPT, HIGH_CONFIDENCE, MID_CONFIDENCE, OPENAI_API_KEY, OPENAI_MODEL
 
 # 1. sınıf = DÖNEM 1-2, 2. sınıf = DÖNEM 3-4, 3. sınıf = DÖNEM 5-6, 4. sınıf = DÖNEM 7-8
@@ -27,6 +28,37 @@ def _expand_sinif_donem(query: str) -> str:
     return query
 
 
+# ── Yemekhane menü sorgusu tespiti ──────────────────────────────────────
+_MENU_SIGNALS = [
+    "menü", "menu", "yemek listesi", "yemekte ne", "ne yemek",
+    "bugün ne var", "bugünkü yemek", "öğle yemeğ", "akşam yemeğ",
+    "bugün yemek", "yemekte ne var", "ne pişmiş", "ne çıkmış",
+]
+
+def _is_menu_query(text: str) -> bool:
+    """Yemekhane MENÜ sorusu mu? (rezervasyon/ücret/konum soruları RAG'a gider)"""
+    t = text.lower()
+    if any(s in t for s in _MENU_SIGNALS):
+        return True
+    if "yemek" in t and any(s in t for s in
+                            ["bugün", "yarın", "liste", "ne var", "var mı",
+                             "çıkıyor", "akşam", "öğle"]):
+        return True
+    return False
+
+
+# ── E-posta (mail) niyeti tespiti ───────────────────────────────────────
+def _is_mail_query(text: str) -> bool:
+    """Kullanıcı bir mail yazılmasını/gönderilmesini mi istiyor?"""
+    t = text.lower()
+    has_mail_word = any(w in t for w in ["mail", "e-posta", "eposta", "e posta"])
+    if not has_mail_word:
+        return False
+    # 'mail' geçse de bir eylem (yaz/gönder/at/hazırla/taslak) olmalı
+    return any(v in t for v in
+               ["yaz", "gönder", "at ", "atar", "hazırla", "oluştur", "taslak", "çek"])
+
+
 # ── 1. NİYET BELİRLEME ──────────────────────────────────────────────────
 def intent_node(state: AgentState) -> AgentState:
     user_input = state["user_input"].lower().strip()
@@ -50,6 +82,12 @@ def intent_node(state: AgentState) -> AgentState:
     if any(h in user_input for h in hal_hatir):
         return {**state, "intent": "hal_hatir"}
 
+    if _is_mail_query(user_input):
+        return {**state, "intent": "mail"}
+
+    if _is_menu_query(user_input):
+        return {**state, "intent": "yemekhane"}
+
     expanded        = _expand_sinif_donem(state["user_input"])
     clean_tokens    = preprocess_bm25_query(expanded)
     retrieval_query = " ".join(clean_tokens)
@@ -58,18 +96,34 @@ def intent_node(state: AgentState) -> AgentState:
 
 # ── 2. RAG NODE ──────────────────────────────────────────────────────────
 def rag_node(state: AgentState) -> AgentState:
-    result = hybrid_search(
-        query           = state.get("retrieval_query", state["user_input"]),
-        bm25            = state.get("bm25"),
-        faiss_index     = state.get("faiss_index"),
-        corpus_texts    = state.get("corpus_texts"),
-        corpus_answers  = state.get("corpus_answers"),
+    # RAG kaynakları: state'te varsa onları kullan (CLI/Flask yolu), yoksa
+    # singleton'dan al (FastAPI/agent yolu — checkpointer state'i şişirmesin diye)
+    bm25 = state.get("bm25")
+    if bm25 is None:
+        from rag.resources import get_resources
+        r = get_resources()
+        bm25, faiss_index = r["bm25"], r["faiss_index"]
+        corpus_texts, corpus_answers = r["corpus_texts"], r["corpus_answers"]
+        embedding_model = r["embedding_model"]
+    else:
+        faiss_index     = state.get("faiss_index")
+        corpus_texts    = state.get("corpus_texts")
+        corpus_answers  = state.get("corpus_answers")
         embedding_model = state.get("embedding_model")
+
+    query = state.get("retrieval_query") or state["user_input"]
+    result = hybrid_search(
+        query           = query,
+        bm25            = bm25,
+        faiss_index     = faiss_index,
+        corpus_texts    = corpus_texts,
+        corpus_answers  = corpus_answers,
+        embedding_model = embedding_model,
     )
 
     top_score   = result["top_score"]
     top_results = result["top_results"]
-    retrieval_query = state.get("retrieval_query", state["user_input"]).lower()
+    retrieval_query = query.lower()
 
     # Erasmus filtresi — sorguda "erasmus" yoksa erasmus chunk'larını dışla
     erasmus_keywords = ["erasmus", "hareketlilik", "exchange"]
@@ -106,6 +160,30 @@ def llm_node(state: AgentState) -> AgentState:
     )
 
     answer = response.choices[0].message.content.strip()
+    return {**state, "final_answer": answer}
+
+
+# ── YEMEKHANE NODE (canlı veri — KTÜN sitesi + vision) ──────────────────
+def yemekhane_node(state: AgentState) -> AgentState:
+    try:
+        d = get_day_menu()
+    except Exception as e:
+        print(f"Yemekhane aracı hatası: {e}")
+        return {**state, "final_answer": (
+            "Yemek listesine şu an ulaşılamıyor. Güncel listeyi KTÜN duyurularından "
+            "kontrol edebilirsiniz: https://www.ktun.edu.tr/tr/Universite/TumDuyurular"
+        )}
+
+    if d["menu"]:
+        answer = (
+            f"Bugün ({d['tarih']} {d['gun_adi']}) KTÜN yemekhane menüsü:\n"
+            f"{d['menu']}"
+        )
+    else:
+        answer = (
+            f"Bugün ({d['tarih']} {d['gun_adi']}) için yemekhane menüsünde yemek "
+            f"görünmüyor; hafta sonu veya tatil olabilir."
+        )
     return {**state, "final_answer": answer}
 
 
